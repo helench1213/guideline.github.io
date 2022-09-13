@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="840px" height="200px" viewBox="0 0 840 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>steps</title>
+    <g id="XXXGuideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="steps">
+            <rect id="bg" x="0" y="0" width="840" height="200" rx="4"></rect>
+            <g id="Steps/Horizontal/Number+Default" transform="translate(40.000000, 112.000000)">
+                <g id="Steps/DefaultStep/Active" transform="translate(315.000000, 0.000000)">
+                    <g id="Group">
+                        <text id="-Text" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" fill="#545454">
+                            <tspan x="40" y="22">進行中步驟</tspan>
+                        </text>
+                        <rect id="Divider" stroke="#E5E5E5" x="136.5" y="15.5" width="161.444444" height="1"></rect>
+                        <g id="Steps/_Resource/Icon1+Active">
+                            <circle id="Oval-1-Copy-10" fill="#004477" cx="16" cy="16" r="16"></circle>
+                            <text id="↳-Number" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                                <tspan x="11.8" y="20">2</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="次標位置" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                        <tspan x="40" y="47">次標位置</tspan>
+                    </text>
+                </g>
+                <g id="Steps/DefaultStep/Finished">
+                    <g id="Group">
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal" line-spacing="24" fill="#4C4C4C">
+                            <tspan x="40" y="20">已完成步驟</tspan>
+                        </text>
+                        <path d="" id="Divider" stroke="#004477"></path>
+                        <g id="Steps/_Resource/Icon1+Finished">
+                            <path d="M16,0.5 C20.2802068,0.5 24.1552068,2.23489659 26.9601551,5.03984489 C29.7651034,7.84479319 31.5,11.7197932 31.5,16 C31.5,20.2802068 29.7651034,24.1552068 26.9601551,26.9601551 C24.1552068,29.7651034 20.2802068,31.5 16,31.5 C11.7197932,31.5 7.84479319,29.7651034 5.03984489,26.9601551 C2.23489659,24.1552068 0.5,20.2802068 0.5,16 C0.5,11.7197932 2.23489659,7.84479319 5.03984489,5.03984489 C7.84479319,2.23489659 11.7197932,0.5 16,0.5 Z" id="Oval-1-Copy-22" stroke="#004477"></path>
+                            <path d="M22.614955,11.092696 L15.4154226,20.8880153 C14.9812627,21.4817727 14.0821758,21.4817727 13.648016,20.8880153 L9.38504503,15.0913332 C9.25513894,14.9135414 9.38504503,14.6653039 9.60725282,14.6653039 L11.2105675,14.6653039 C11.5592628,14.6653039 11.8908652,14.8296774 12.0959801,15.1114605 L14.53001,18.4257672 L19.9040199,11.1128233 C20.1091348,10.8343947 20.4373186,10.6666667 20.7894325,10.6666667 L22.3927472,10.6666667 C22.614955,10.6666667 22.7448611,10.9149042 22.614955,11.092696 Z" id="Path" fill="#004477"></path>
+                        </g>
+                    </g>
+                    <text id="次標位置" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                        <tspan x="40" y="47">次標位置</tspan>
+                    </text>
+                </g>
+                <g id="Steps/DefaultStep/End" transform="translate(630.000000, 0.000000)">
+                    <text id="--↳-Text" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal" line-spacing="24" fill="#7F7F7F">
+                        <tspan x="40" y="21">未進行步驟</tspan>
+                    </text>
+                    <text id="次標位置" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                        <tspan x="40" y="47">次標位置</tspan>
+                    </text>
+                    <g id="Steps/_Resource/Icon1+Finished">
+                        <circle id="Oval-1-Copy-23" stroke="#CCCCCC" fill="#FFFFFF" cx="16" cy="16" r="15.5"></circle>
+                        <text id="↳-Number" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#B4B4B4">
+                            <tspan x="11.8" y="20">3</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Steps/Horizontal/Discription" transform="translate(40.000000, 30.000000)">
+                <g id="Group">
+                    <text id="Title" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal" line-spacing="24" fill="#4C4C4C">
+                        <tspan x="40" y="21">已完成步驟</tspan>
+                    </text>
+                    <path d="" id="Divider" stroke="#004477"></path>
+                    <g id="Steps/_Resource/Icon1+Finished">
+                        <path d="M16,0.5 C20.2802068,0.5 24.1552068,2.23489659 26.9601551,5.03984489 C29.7651034,7.84479319 31.5,11.7197932 31.5,16 C31.5,20.2802068 29.7651034,24.1552068 26.9601551,26.9601551 C24.1552068,29.7651034 20.2802068,31.5 16,31.5 C11.7197932,31.5 7.84479319,29.7651034 5.03984489,26.9601551 C2.23489659,24.1552068 0.5,20.2802068 0.5,16 C0.5,11.7197932 2.23489659,7.84479319 5.03984489,5.03984489 C7.84479319,2.23489659 11.7197932,0.5 16,0.5 Z" id="Oval-1-Copy-22" stroke="#004477"></path>
+                        <path d="M22.614955,11.092696 L15.4154226,20.8880153 C14.9812627,21.4817727 14.0821758,21.4817727 13.648016,20.8880153 L9.38504503,15.0913332 C9.25513894,14.9135414 9.38504503,14.6653039 9.60725282,14.6653039 L11.2105675,14.6653039 C11.5592628,14.6653039 11.8908652,14.8296774 12.0959801,15.1114605 L14.53001,18.4257672 L19.9040199,11.1128233 C20.1091348,10.8343947 20.4373186,10.6666667 20.7894325,10.6666667 L22.3927472,10.6666667 C22.614955,10.6666667 22.7448611,10.9149042 22.614955,11.092696 Z" id="Path" fill="#004477"></path>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(315.000000, 0.000000)">
+                    <text id="-Title" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" fill="#545454">
+                        <tspan x="40" y="22">進行中步驟</tspan>
+                    </text>
+                    <path d="" id="Divider" stroke="#E5E5E5" transform="translate(217.222222, 15.500000) scale(1, -1) translate(-217.222222, -15.500000) "></path>
+                    <g id="Steps/_Resource/Icon1+Active">
+                        <circle id="Oval-1-Copy-10" fill="#004477" cx="16" cy="16" r="16"></circle>
+                        <text id="↳-Number" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                            <tspan x="11.8" y="20">2</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Steps/TitleStep/End" transform="translate(630.000000, 0.000000)">
+                    <text id="Title" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal" line-spacing="24" fill="#7F7F7F">
+                        <tspan x="40" y="21">未進行步驟</tspan>
+                    </text>
+                    <g id="Steps/_Resource/Icon1+Finished">
+                        <circle id="Oval-1-Copy-23" stroke="#CCCCCC" fill="#FFFFFF" cx="16" cy="16" r="15.5"></circle>
+                        <text id="↳-Number" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#B4B4B4">
+                            <tspan x="11.8" y="20">3</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

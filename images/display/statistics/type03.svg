@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1658px" height="500px" viewBox="0 0 1658 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>statistics/type03</title>
+    <defs>
+        <circle id="path-1" cx="465.124295" cy="4.5" r="4.5"></circle>
+        <filter x="-55.6%" y="-44.4%" width="211.1%" height="211.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-3" cx="459" cy="71" r="6"></circle>
+        <filter x="-54.2%" y="-45.8%" width="208.3%" height="208.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.101960784   0 0 0 0 0.71372549   0 0 0 0 0.262745098  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-5" cx="459" cy="29" r="6"></circle>
+        <filter x="-41.7%" y="-33.3%" width="183.3%" height="183.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.498039216   0 0 0 0 0.498039216   0 0 0 0 0.498039216  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-7" cx="459" cy="66" r="6"></circle>
+        <filter x="-41.7%" y="-33.3%" width="183.3%" height="183.3%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.521568627   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="statistics/type03" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1658" height="500"></rect>
+        <g id="Group-5" transform="translate(30.000000, 30.000000)">
+            <g id="Group-3" transform="translate(0.000000, 1.000000)">
+                <g id="Group" fill="#4C4C4C" font-family="PingFangTC-Semibold, PingFang TC" font-size="30" font-weight="500">
+                    <text id="空值">
+                        <tspan x="0" y="32">空值</tspan>
+                    </text>
+                </g>
+                <g id="workTool/dashboard/成長曲線-Copy" transform="translate(0.000000, 72.000000)">
+                    <rect id="Rectangle" stroke="#E5E5E5" fill="#FFFFFF" x="0.5" y="0.5" width="779" height="366" rx="4"></rect>
+                    <g id="title" transform="translate(20.312500, 20.000000)">
+                        <text id="區塊標題名稱" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                            <tspan x="0" y="19">近30日銷售總額</tspan>
+                        </text>
+                        <text id="2020-06-01" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                            <tspan x="0" y="43">2020-04-27 ~ 2020-05-24</tspan>
+                        </text>
+                    </g>
+                    <g id="count" transform="translate(593.432032, 19.000000)" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22">
+                        <text id="銷售數量" fill="#7F7F7F">
+                            <tspan x="0" y="15">銷售總額</tspan>
+                        </text>
+                        <text id="0" fill="#545454">
+                            <tspan x="152.422611" y="15">0</tspan>
+                        </text>
+                        <text id="取消數量" fill="#7F7F7F">
+                            <tspan x="0" y="41">取消總額</tspan>
+                        </text>
+                        <text id="0" fill="#545454">
+                            <tspan x="152.422611" y="41">0</tspan>
+                        </text>
+                        <text id="銷退數量" fill="#7F7F7F">
+                            <tspan x="0" y="67">銷退總額</tspan>
+                        </text>
+                        <text id="0" fill="#545454">
+                            <tspan x="152.422611" y="67">0</tspan>
+                        </text>
+                    </g>
+                    <g id="chart" transform="translate(20.312500, 117.000000)">
+                        <g id="line" transform="translate(51.796875, 0.000000)">
+                            <rect id="Rectangle" fill="#CCCCCC" x="0" y="199" width="680.071875" height="1"></rect>
+                            <line x1="1.47467081e-16" y1="150.5" x2="680.071875" y2="150.5" id="Line" stroke="#E5E5E5" stroke-linecap="square" stroke-dasharray="3,3"></line>
+                            <line x1="1.47467081e-16" y1="103.5" x2="680.071875" y2="103.5" id="Line" stroke="#E5E5E5" stroke-linecap="square" stroke-dasharray="3,3"></line>
+                            <line x1="1.47467081e-16" y1="56.5" x2="680.071875" y2="56.5" id="Line" stroke="#E5E5E5" stroke-linecap="square" stroke-dasharray="3,3"></line>
+                            <line x1="1.47467081e-16" y1="9.5" x2="680.071875" y2="9.5" id="Line" stroke="#E5E5E5" stroke-linecap="square" stroke-dasharray="3,3"></line>
+                            <rect id="Rectangle" fill="#CCCCCC" x="458.054688" y="0" width="1" height="200"></rect>
+                        </g>
+                        <g id="count" fill="#7F7F7F" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" line-spacing="20">
+                            <text id="10,000">
+                                <tspan x="0" y="13">10,000</tspan>
+                            </text>
+                            <text id="6,000">
+                                <tspan x="5" y="60">6,000</tspan>
+                            </text>
+                            <text id="4,000">
+                                <tspan x="5" y="107">4,000</tspan>
+                            </text>
+                            <text id="2,000">
+                                <tspan x="5" y="154">2,000</tspan>
+                            </text>
+                            <text id="0">
+                                <tspan x="28" y="203">0</tspan>
+                            </text>
+                        </g>
+                        <g id="date" transform="translate(29.000000, 212.000000)" fill="#7F7F7F" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" line-spacing="20">
+                            <text id="04-27">
+                                <tspan x="0" y="13">04-27</tspan>
+                            </text>
+                            <text id="04-30">
+                                <tspan x="72.1558661" y="13">04-30</tspan>
+                            </text>
+                            <text id="05-03">
+                                <tspan x="145.328012" y="13">05-03</tspan>
+                            </text>
+                            <text id="05-06">
+                                <tspan x="218.500158" y="13">05-06</tspan>
+                            </text>
+                            <text id="05-09">
+                                <tspan x="291.672304" y="13">05-09</tspan>
+                            </text>
+                            <text id="05-12">
+                                <tspan x="364.84445" y="13">05-12</tspan>
+                            </text>
+                            <text id="05-15">
+                                <tspan x="434.967757" y="13">05-15</tspan>
+                            </text>
+                            <text id="05-18">
+                                <tspan x="505.091063" y="13">05-18</tspan>
+                            </text>
+                            <text id="05-21">
+                                <tspan x="575.21437" y="13">05-21</tspan>
+                            </text>
+                            <text id="05-24">
+                                <tspan x="645.337676" y="13">05-24</tspan>
+                            </text>
+                        </g>
+                        <g id="銷貨數量" transform="translate(45.000000, 195.000000)">
+                            <line x1="3.00902779" y1="4.5" x2="648.591383" y2="4.5" id="Line-2" stroke="#7F7F7F" stroke-width="2" stroke-linecap="square"></line>
+                            <circle id="Oval" fill="#7F7F7F" cx="2.54166281" cy="4.5" r="2.5"></circle>
+                            <circle id="Oval" fill="#7F7F7F" cx="74.7248867" cy="4.5" r="2.5"></circle>
+                            <circle id="Oval" fill="#7F7F7F" cx="147.924776" cy="4.5" r="2.5"></circle>
+                            <circle id="Oval" fill="#7F7F7F" cx="221.124665" cy="4.5" r="2.5"></circle>
+                            <circle id="Oval" fill="#7F7F7F" cx="294.324554" cy="4.5" r="2.5"></circle>
+                            <circle id="Oval" fill="#7F7F7F" cx="366.507778" cy="4.5" r="2.5"></circle>
+                            <circle id="Oval" fill="#7F7F7F" cx="436.657672" cy="4.5" r="2.5"></circle>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <circle stroke="#7F7F7F" stroke-width="2" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" cx="465.124295" cy="4.5" r="3.5"></circle>
+                            </g>
+                            <circle id="Oval" fill="#7F7F7F" cx="506.807565" cy="4.5" r="2.5"></circle>
+                            <circle id="Oval" fill="#7F7F7F" cx="576.957459" cy="4.5" r="2.5"></circle>
+                            <circle id="Oval" fill="#7F7F7F" cx="648.124018" cy="4.5" r="2.5"></circle>
+                        </g>
+                    </g>
+                    <g id="popover" transform="translate(540.578125, 117.000000)">
+                        <path d="M160,0.5 C160.966498,0.5 161.841498,0.891750844 162.474874,1.52512627 C163.108249,2.15850169 163.5,3.03350169 163.5,4 L163.5,4 L163.5,100 C163.5,100.966498 163.108249,101.841498 162.474874,102.474874 C161.841498,103.108249 160.966498,103.5 160,103.5 L160,103.5 L9,103.5 C8.03350169,103.5 7.15850169,103.108249 6.52512627,102.474874 C5.89175084,101.841498 5.5,100.966498 5.5,99.9999994 L5.5,99.9999994 L5.49993854,46.4578821 L1.05404556,42.0123194 L5.4999384,37.5660963 L5.5,4 C5.5,3.03350169 5.89175084,2.15850169 6.52512627,1.52512627 C7.15850169,0.891750844 8.03350169,0.5 9,0.5 L9,0.5 Z" id="Combined-Shape" stroke="#CCCCCC" fill="#FFFFFF"></path>
+                        <text id="item-full-title項目全名i" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#4C4C4C">
+                            <tspan x="17" y="25">2020-05-16</tspan>
+                        </text>
+                        <rect id="Rectangle" fill="#1AB643" x="17" y="40" width="20" height="4"></rect>
+                        <text id="銷售數量" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#545454">
+                            <tspan x="47" y="46">銷售總額</tspan>
+                        </text>
+                        <text id="0" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#7F7F7F">
+                            <tspan x="105" y="46">0</tspan>
+                        </text>
+                        <rect id="Rectangle" fill="#7F7F7F" x="17" y="61" width="20" height="4"></rect>
+                        <text id="取消數量" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#545454">
+                            <tspan x="47" y="67">取消總額</tspan>
+                        </text>
+                        <text id="0" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#7F7F7F">
+                            <tspan x="105" y="67">0</tspan>
+                        </text>
+                        <rect id="Rectangle" fill="#FF8500" x="17" y="82" width="20" height="4"></rect>
+                        <text id="銷退數量" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#545454">
+                            <tspan x="47" y="88">銷退總額</tspan>
+                        </text>
+                        <text id="0" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#7F7F7F">
+                            <tspan x="105" y="88">0</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-4" transform="translate(830.000000, 0.000000)">
+                <g id="Group-2" fill="#4C4C4C" font-family="PingFangTC-Semibold, PingFang TC" font-size="30" font-weight="500">
+                    <text id="有值">
+                        <tspan x="0" y="32">有值</tspan>
+                    </text>
+                </g>
+                <g id="workTool/dashboard/排行榜-Copy-3" transform="translate(0.000000, 73.000000)">
+                    <rect id="Rectangle" stroke="#E5E5E5" fill="#FFFFFF" x="0.5" y="0.5" width="767" height="366" rx="4"></rect>
+                    <g id="title" transform="translate(20.000000, 20.000000)">
+                        <text id="區塊標題名稱" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                            <tspan x="0" y="19">近30日銷售總額</tspan>
+                        </text>
+                        <text id="2020-06-01" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                            <tspan x="0" y="43">2020-04-27 ~ 2020-05-24</tspan>
+                        </text>
+                    </g>
+                    <g id="count" transform="translate(584.000000, 19.000000)" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22">
+                        <text id="銷售數量" fill="#7F7F7F">
+                            <tspan x="0" y="15">銷售數量</tspan>
+                        </text>
+                        <text id="123,456" fill="#545454">
+                            <tspan x="107.69" y="15">123,456</tspan>
+                        </text>
+                        <text id="取消數量" fill="#7F7F7F">
+                            <tspan x="0" y="41">取消數量</tspan>
+                        </text>
+                        <text id="10,000" fill="#545454">
+                            <tspan x="116.09" y="41">10,000</tspan>
+                        </text>
+                        <text id="銷退數量" fill="#7F7F7F">
+                            <tspan x="0" y="67">銷退數量</tspan>
+                        </text>
+                        <text id="618" fill="#545454">
+                            <tspan x="136.586" y="67">618</tspan>
+                        </text>
+                    </g>
+                    <g id="chart" transform="translate(20.000000, 117.000000)">
+                        <g id="line" transform="translate(51.166154, 0.000000)">
+                            <rect id="Rectangle" fill="#CCCCCC" x="0" y="199" width="669.609231" height="1"></rect>
+                            <line x1="1.45198357e-16" y1="150.5" x2="669.609231" y2="150.5" id="Line" stroke="#E5E5E5" stroke-linecap="square" stroke-dasharray="3,3"></line>
+                            <line x1="1.45198357e-16" y1="103.5" x2="669.609231" y2="103.5" id="Line" stroke="#E5E5E5" stroke-linecap="square" stroke-dasharray="3,3"></line>
+                            <line x1="1.45198357e-16" y1="56.5" x2="669.609231" y2="56.5" id="Line" stroke="#E5E5E5" stroke-linecap="square" stroke-dasharray="3,3"></line>
+                            <line x1="1.45198357e-16" y1="9.5" x2="669.609231" y2="9.5" id="Line" stroke="#E5E5E5" stroke-linecap="square" stroke-dasharray="3,3"></line>
+                            <rect id="Rectangle" fill="#CCCCCC" x="451" y="0" width="1" height="200"></rect>
+                        </g>
+                        <g id="count" transform="translate(0.000000, 1.000000)" fill="#7F7F7F" font-family="PingFangTC-Regular, PingFang TC" font-weight="normal">
+                            <text id="10,000" font-size="12">
+                                <tspan x="0" y="13">10,000</tspan>
+                            </text>
+                            <text id="6,000" font-size="12">
+                                <tspan x="5" y="60">6,000</tspan>
+                            </text>
+                            <text id="4,000" font-size="12">
+                                <tspan x="5" y="107">4,000</tspan>
+                            </text>
+                            <text id="2,000" font-size="12">
+                                <tspan x="5" y="154">2,000</tspan>
+                            </text>
+                            <text id="0" font-size="14">
+                                <tspan x="28" y="203">0</tspan>
+                            </text>
+                        </g>
+                        <g id="date" transform="translate(29.000000, 213.000000)" fill="#7F7F7F" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal">
+                            <text id="04-27">
+                                <tspan x="0" y="13">04-27</tspan>
+                            </text>
+                            <text id="04-30">
+                                <tspan x="71" y="13">04-30</tspan>
+                            </text>
+                            <text id="05-03">
+                                <tspan x="143" y="13">05-03</tspan>
+                            </text>
+                            <text id="05-06">
+                                <tspan x="215" y="13">05-06</tspan>
+                            </text>
+                            <text id="05-09">
+                                <tspan x="287" y="13">05-09</tspan>
+                            </text>
+                            <text id="05-12">
+                                <tspan x="359" y="13">05-12</tspan>
+                            </text>
+                            <text id="05-15">
+                                <tspan x="428" y="13">05-15</tspan>
+                            </text>
+                            <text id="05-18">
+                                <tspan x="497" y="13">05-18</tspan>
+                            </text>
+                            <text id="05-21">
+                                <tspan x="566" y="13">05-21</tspan>
+                            </text>
+                            <text id="05-24">
+                                <tspan x="635" y="13">05-24</tspan>
+                            </text>
+                        </g>
+                        <g id="曲線" transform="translate(44.000000, 24.000000)">
+                            <g id="銷貨數量">
+                                <line x1="3.5" y1="38.5" x2="74.5" y2="3.5" id="Line-2" stroke="#1AB643" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="146.5" y1="43.5" x2="74.5" y2="3.5" id="Line-2" stroke="#1AB643" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="146.5" y1="43.5" x2="218.5" y2="15.5" id="Line-2" stroke="#1AB643" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="290.5" y1="53.5" x2="218.5" y2="15.5" id="Line-2" stroke="#1AB643" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="290.5" y1="53.5" x2="361.5" y2="108.5" id="Line-2" stroke="#1AB643" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="430.5" y1="56.5" x2="361.5" y2="108.5" id="Line-2" stroke="#1AB643" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="430.5" y1="56.5" x2="458.5" y2="70.5" id="Line-2" stroke="#1AB643" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="499.5" y1="86.5" x2="458.5" y2="70.5" id="Line-2" stroke="#1AB643" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="499.5" y1="86.5" x2="568.5" y2="48.5" id="Line-2" stroke="#1AB643" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="638.5" y1="42.5" x2="568.5" y2="48.5" id="Line-2" stroke="#1AB643" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="638.5" y1="42.5" x2="676.758831" y2="59.347933" id="Line-2" stroke="#1AB643" stroke-width="2" stroke-linecap="square"></line>
+                                <circle id="Oval" fill="#1AB643" cx="4" cy="39" r="4"></circle>
+                                <circle id="Oval" fill="#1AB643" cx="75" cy="4" r="4"></circle>
+                                <circle id="Oval" fill="#1AB643" cx="147" cy="43" r="4"></circle>
+                                <circle id="Oval" fill="#1AB643" cx="219" cy="16" r="4"></circle>
+                                <circle id="Oval" fill="#1AB643" cx="291" cy="54" r="4"></circle>
+                                <circle id="Oval" fill="#1AB643" cx="362" cy="109" r="4"></circle>
+                                <circle id="Oval" fill="#1AB643" cx="431" cy="57" r="4"></circle>
+                                <g id="Oval">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                    <circle stroke="#1AB643" stroke-width="2.66666667" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" cx="459" cy="71" r="4.66666667"></circle>
+                                </g>
+                                <circle id="Oval" fill="#1AB643" cx="500" cy="87" r="4"></circle>
+                                <circle id="Oval" fill="#1AB643" cx="569" cy="49" r="4"></circle>
+                                <circle id="Oval" fill="#1AB643" cx="639" cy="43" r="4"></circle>
+                            </g>
+                            <g id="取消數量" transform="translate(0.000000, 84.000000)">
+                                <line x1="3.5" y1="21.5" x2="75" y2="36" id="Line-2" stroke="#7F7F7F" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="146.5" y1="24.5" x2="75" y2="36" id="Line-2" stroke="#7F7F7F" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="146.5" y1="24.5" x2="219" y2="43" id="Line-2" stroke="#7F7F7F" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="291" y1="35" x2="219" y2="43" id="Line-2" stroke="#7F7F7F" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="291" y1="35" x2="362" y2="4" id="Line-2" stroke="#7F7F7F" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="431" y1="29" x2="362" y2="4" id="Line-2" stroke="#7F7F7F" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="431" y1="29" x2="459" y2="29" id="Line-2" stroke="#7F7F7F" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="500" y1="40" x2="459" y2="29" id="Line-2" stroke="#7F7F7F" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="500" y1="40" x2="569" y2="51" id="Line-2" stroke="#7F7F7F" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="638.60773" y1="37" x2="569" y2="51" id="Line-2" stroke="#7F7F7F" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="638.5" y1="36.5" x2="678.439967" y2="20.5" id="Line-2" stroke="#7F7F7F" stroke-width="2" stroke-linecap="square"></line>
+                                <circle id="Oval" fill="#7F7F7F" cx="4" cy="22" r="4"></circle>
+                                <circle id="Oval" fill="#7F7F7F" cx="75" cy="36" r="4"></circle>
+                                <circle id="Oval" fill="#7F7F7F" cx="147" cy="25" r="4"></circle>
+                                <circle id="Oval" fill="#7F7F7F" cx="219" cy="43" r="4"></circle>
+                                <circle id="Oval" fill="#7F7F7F" cx="291" cy="35" r="4"></circle>
+                                <circle id="Oval" fill="#7F7F7F" cx="362" cy="4" r="4"></circle>
+                                <circle id="Oval" fill="#7F7F7F" cx="431" cy="29" r="4"></circle>
+                                <g id="Oval">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                    <circle stroke="#7F7F7F" stroke-width="2.66666667" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" cx="459" cy="29" r="4.66666667"></circle>
+                                </g>
+                                <circle id="Oval" fill="#7F7F7F" cx="500" cy="40" r="4"></circle>
+                                <circle id="Oval" fill="#7F7F7F" cx="569" cy="51" r="4"></circle>
+                                <circle id="Oval" fill="#7F7F7F" cx="639" cy="37" r="4"></circle>
+                            </g>
+                            <g id="銷退數量" transform="translate(0.000000, 96.000000)">
+                                <line x1="4" y1="48" x2="75" y2="4" id="Line-2" stroke="#FF8500" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="147" y1="51" x2="75" y2="4" id="Line-2" stroke="#FF8500" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="147" y1="51" x2="218.5" y2="67.5" id="Line-2" stroke="#FF8500" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="291" y1="61" x2="218.5" y2="67.5" id="Line-2" stroke="#FF8500" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="291" y1="61" x2="362" y2="70" id="Line-2" stroke="#FF8500" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="431" y1="48" x2="362" y2="70" id="Line-2" stroke="#FF8500" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="431" y1="48" x2="459" y2="66" id="Line-2" stroke="#FF8500" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="500" y1="66" x2="459" y2="66" id="Line-2" stroke="#FF8500" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="500" y1="66" x2="569" y2="71" id="Line-2" stroke="#FF8500" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="639" y1="63" x2="569" y2="71" id="Line-2" stroke="#FF8500" stroke-width="2" stroke-linecap="square"></line>
+                                <line x1="639" y1="63" x2="678.439967" y2="46.5" id="Line-2" stroke="#FF8500" stroke-width="2" stroke-linecap="square"></line>
+                                <circle id="Oval" fill="#FF8500" cx="4" cy="48" r="4"></circle>
+                                <circle id="Oval" fill="#FF8500" cx="75" cy="4" r="4"></circle>
+                                <circle id="Oval" fill="#FF8500" cx="147" cy="51" r="4"></circle>
+                                <circle id="Oval" fill="#FF8500" cx="219" cy="68" r="4"></circle>
+                                <circle id="Oval" fill="#FF8500" cx="291" cy="61" r="4"></circle>
+                                <circle id="Oval" fill="#FF8500" cx="362" cy="70" r="4"></circle>
+                                <circle id="Oval" fill="#FF8500" cx="431" cy="48" r="4"></circle>
+                                <g id="Oval">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                    <circle stroke="#FF8500" stroke-width="2.66666667" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" cx="459" cy="66" r="4.66666667"></circle>
+                                </g>
+                                <circle id="Oval" fill="#FF8500" cx="500" cy="66" r="4"></circle>
+                                <circle id="Oval" fill="#FF8500" cx="569" cy="71" r="4"></circle>
+                                <circle id="Oval" fill="#FF8500" cx="639" cy="63" r="4"></circle>
+                            </g>
+                        </g>
+                        <g id="popover" transform="translate(511.000000, 0.000000)">
+                            <path d="M160,0.5 C160.966498,0.5 161.841498,0.891750844 162.474874,1.52512627 C163.108249,2.15850169 163.5,3.03350169 163.5,4 L163.5,4 L163.5,100 C163.5,100.966498 163.108249,101.841498 162.474874,102.474874 C161.841498,103.108249 160.966498,103.5 160,103.5 L160,103.5 L9,103.5 C8.03350169,103.5 7.15850169,103.108249 6.52512627,102.474874 C5.89175084,101.841498 5.5,100.966498 5.5,99.9999994 L5.5,99.9999994 L5.49993854,46.4578821 L1.05404556,42.0123194 L5.4999384,37.5660963 L5.5,4 C5.5,3.03350169 5.89175084,2.15850169 6.52512627,1.52512627 C7.15850169,0.891750844 8.03350169,0.5 9,0.5 L9,0.5 Z" id="Combined-Shape" stroke="#CCCCCC" fill="#FFFFFF"></path>
+                            <text id="item-full-title項目全名i" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#4C4C4C">
+                                <tspan x="17" y="25">2020-05-16</tspan>
+                            </text>
+                            <rect id="Rectangle" fill="#1AB643" x="17" y="40" width="20" height="4"></rect>
+                            <text id="銷售數量" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#545454">
+                                <tspan x="47" y="46">銷售數量</tspan>
+                            </text>
+                            <text id="4,102" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#7F7F7F">
+                                <tspan x="105" y="46">4,102</tspan>
+                            </text>
+                            <rect id="Rectangle" fill="#7F7F7F" x="17" y="61" width="20" height="4"></rect>
+                            <text id="取消數量" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#545454">
+                                <tspan x="47" y="67">取消數量</tspan>
+                            </text>
+                            <text id="1,000" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#7F7F7F">
+                                <tspan x="105" y="67">1,000</tspan>
+                            </text>
+                            <rect id="Rectangle" fill="#FF8500" x="17" y="82" width="20" height="4"></rect>
+                            <text id="銷退數量" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#545454">
+                                <tspan x="47" y="88">銷退數量</tspan>
+                            </text>
+                            <text id="123" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#7F7F7F">
+                                <tspan x="105" y="88">123</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

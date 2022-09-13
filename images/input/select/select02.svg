@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="880px" height="280px" viewBox="0 0 880 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>select02</title>
+    <defs>
+        <path d="M12.2458984,9.89707031 C12.2458984,9.76582031 12.2021484,9.63320312 12.1146484,9.52246094 L7.45390625,3.72832031 C7.34042969,3.5875 7.16953125,3.50546875 6.98769531,3.50546875 C6.80722656,3.50546875 6.63496094,3.5875 6.52285156,3.72832031 L1.88671875,9.49785156 C1.68027344,9.75488281 1.72128906,10.1308594 1.97832031,10.3373047 C2.23535156,10.54375 2.61132813,10.5027344 2.81777344,10.2457031 L6.9890625,5.05585937 L11.1835938,10.2716797 C11.3900391,10.5287109 11.7660156,10.5697266 12.0230469,10.3632812 C12.1693359,10.2443359 12.2458984,10.0720703 12.2458984,9.89707031 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="180" height="165" rx="4"></rect>
+        <filter x="-3.9%" y="-3.0%" width="107.8%" height="108.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M6.15552123,16 C6.11798922,16 6.08254233,15.9980317 6.04501032,15.9921266 C5.78645649,15.9586648 5.56126444,15.8149758 5.43198752,15.6023949 L2.11040479,10.1166255 C1.88104252,9.73870377 2.02074499,9.2584283 2.42108641,9.04191066 C2.82142784,8.82539303 3.33019506,8.95727195 3.55955733,9.33519364 L6.33692594,13.9253674 L16.5748237,4.23128256 C16.9001011,3.92422119 17.4276344,3.92225285 17.7549969,4.22931422 C18.0802743,4.53637559 18.0823594,5.03436614 17.757082,5.34339585 L6.78522493,15.7323055 L6.74560781,15.769704 C6.58713933,15.919298 6.37445795,16 6.15552123,16 Z" id="path-5"></path>
+        <rect id="path-7" x="0" y="0" width="180" height="165" rx="4"></rect>
+        <filter x="-3.9%" y="-3.0%" width="107.8%" height="108.5%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M6.15552123,16 C6.11798922,16 6.08254233,15.9980317 6.04501032,15.9921266 C5.78645649,15.9586648 5.56126444,15.8149758 5.43198752,15.6023949 L2.11040479,10.1166255 C1.88104252,9.73870377 2.02074499,9.2584283 2.42108641,9.04191066 C2.82142784,8.82539303 3.33019506,8.95727195 3.55955733,9.33519364 L6.33692594,13.9253674 L16.5748237,4.23128256 C16.9001011,3.92422119 17.4276344,3.92225285 17.7549969,4.22931422 C18.0802743,4.53637559 18.0823594,5.03436614 17.757082,5.34339585 L6.78522493,15.7323055 L6.74560781,15.769704 C6.58713933,15.919298 6.37445795,16 6.15552123,16 Z" id="path-9"></path>
+        <path d="M6.15552123,16 C6.11798922,16 6.08254233,15.9980317 6.04501032,15.9921266 C5.78645649,15.9586648 5.56126444,15.8149758 5.43198752,15.6023949 L2.11040479,10.1166255 C1.88104252,9.73870377 2.02074499,9.2584283 2.42108641,9.04191066 C2.82142784,8.82539303 3.33019506,8.95727195 3.55955733,9.33519364 L6.33692594,13.9253674 L16.5748237,4.23128256 C16.9001011,3.92422119 17.4276344,3.92225285 17.7549969,4.22931422 C18.0802743,4.53637559 18.0823594,5.03436614 17.757082,5.34339585 L6.78522493,15.7323055 L6.74560781,15.769704 C6.58713933,15.919298 6.37445795,16 6.15552123,16 Z" id="path-11"></path>
+        <path d="M6.15552123,16 C6.11798922,16 6.08254233,15.9980317 6.04501032,15.9921266 C5.78645649,15.9586648 5.56126444,15.8149758 5.43198752,15.6023949 L2.11040479,10.1166255 C1.88104252,9.73870377 2.02074499,9.2584283 2.42108641,9.04191066 C2.82142784,8.82539303 3.33019506,8.95727195 3.55955733,9.33519364 L6.33692594,13.9253674 L16.5748237,4.23128256 C16.9001011,3.92422119 17.4276344,3.92225285 17.7549969,4.22931422 C18.0802743,4.53637559 18.0823594,5.03436614 17.757082,5.34339585 L6.78522493,15.7323055 L6.74560781,15.769704 C6.58713933,15.919298 6.37445795,16 6.15552123,16 Z" id="path-13"></path>
+        <path d="M12.2458984,9.89707031 C12.2458984,9.76582031 12.2021484,9.63320312 12.1146484,9.52246094 L7.45390625,3.72832031 C7.34042969,3.5875 7.16953125,3.50546875 6.98769531,3.50546875 C6.80722656,3.50546875 6.63496094,3.5875 6.52285156,3.72832031 L1.88671875,9.49785156 C1.68027344,9.75488281 1.72128906,10.1308594 1.97832031,10.3373047 C2.23535156,10.54375 2.61132813,10.5027344 2.81777344,10.2457031 L6.9890625,5.05585937 L11.1835938,10.2716797 C11.3900391,10.5287109 11.7660156,10.5697266 12.0230469,10.3632812 C12.1693359,10.2443359 12.2458984,10.0720703 12.2458984,9.89707031 Z" id="path-15"></path>
+        <path d="M7.76152344,6.99863281 L11.2451172,3.51777344 C11.4556641,3.30722656 11.4556641,2.96679688 11.2451172,2.75761719 C11.0345703,2.54707031 10.6941406,2.54707031 10.4849609,2.75761719 L7,6.23710938 L3.51503906,2.75625 C3.30449219,2.54570313 2.9640625,2.54570313 2.75488281,2.75625 C2.54433594,2.96679688 2.54433594,3.30722656 2.75488281,3.51640625 L6.23847656,6.99726563 L2.75488281,10.4794922 C2.54433594,10.6900391 2.54433594,11.0304688 2.75488281,11.2396484 C2.86015625,11.3449219 2.99824219,11.396875 3.13496094,11.396875 C3.27304688,11.396875 3.40976563,11.3449219 3.51503906,11.2396484 L7,7.75878906 L10.4849609,11.2410156 C10.5902344,11.3462891 10.7269531,11.3982422 10.8650391,11.3982422 C11.003125,11.3982422 11.1398438,11.3462891 11.2451172,11.2410156 C11.4556641,11.0304688 11.4556641,10.6900391 11.2451172,10.4808594 L7.76152344,6.99863281 Z" id="path-17"></path>
+        <path d="M7.76152344,6.99863281 L11.2451172,3.51777344 C11.4556641,3.30722656 11.4556641,2.96679688 11.2451172,2.75761719 C11.0345703,2.54707031 10.6941406,2.54707031 10.4849609,2.75761719 L7,6.23710938 L3.51503906,2.75625 C3.30449219,2.54570313 2.9640625,2.54570313 2.75488281,2.75625 C2.54433594,2.96679688 2.54433594,3.30722656 2.75488281,3.51640625 L6.23847656,6.99726563 L2.75488281,10.4794922 C2.54433594,10.6900391 2.54433594,11.0304688 2.75488281,11.2396484 C2.86015625,11.3449219 2.99824219,11.396875 3.13496094,11.396875 C3.27304688,11.396875 3.40976563,11.3449219 3.51503906,11.2396484 L7,7.75878906 L10.4849609,11.2410156 C10.5902344,11.3462891 10.7269531,11.3982422 10.8650391,11.3982422 C11.003125,11.3982422 11.1398438,11.3462891 11.2451172,11.2410156 C11.4556641,11.0304688 11.4556641,10.6900391 11.2451172,10.4808594 L7.76152344,6.99863281 Z" id="path-19"></path>
+        <path d="M7.76152344,6.99863281 L11.2451172,3.51777344 C11.4556641,3.30722656 11.4556641,2.96679688 11.2451172,2.75761719 C11.0345703,2.54707031 10.6941406,2.54707031 10.4849609,2.75761719 L7,6.23710938 L3.51503906,2.75625 C3.30449219,2.54570313 2.9640625,2.54570313 2.75488281,2.75625 C2.54433594,2.96679688 2.54433594,3.30722656 2.75488281,3.51640625 L6.23847656,6.99726563 L2.75488281,10.4794922 C2.54433594,10.6900391 2.54433594,11.0304688 2.75488281,11.2396484 C2.86015625,11.3449219 2.99824219,11.396875 3.13496094,11.396875 C3.27304688,11.396875 3.40976563,11.3449219 3.51503906,11.2396484 L7,7.75878906 L10.4849609,11.2410156 C10.5902344,11.3462891 10.7269531,11.3982422 10.8650391,11.3982422 C11.003125,11.3982422 11.1398438,11.3462891 11.2451172,11.2410156 C11.4556641,11.0304688 11.4556641,10.6900391 11.2451172,10.4808594 L7.76152344,6.99863281 Z" id="path-21"></path>
+        <rect id="path-23" x="0" y="0" width="180" height="165" rx="4"></rect>
+        <filter x="-3.9%" y="-3.0%" width="107.8%" height="108.5%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M12.2458984,9.89707031 C12.2458984,9.76582031 12.2021484,9.63320312 12.1146484,9.52246094 L7.45390625,3.72832031 C7.34042969,3.5875 7.16953125,3.50546875 6.98769531,3.50546875 C6.80722656,3.50546875 6.63496094,3.5875 6.52285156,3.72832031 L1.88671875,9.49785156 C1.68027344,9.75488281 1.72128906,10.1308594 1.97832031,10.3373047 C2.23535156,10.54375 2.61132813,10.5027344 2.81777344,10.2457031 L6.9890625,5.05585937 L11.1835938,10.2716797 C11.3900391,10.5287109 11.7660156,10.5697266 12.0230469,10.3632812 C12.1693359,10.2443359 12.2458984,10.0720703 12.2458984,9.89707031 Z" id="path-25"></path>
+        <rect id="path-27" x="0" y="0" width="180" height="36" rx="4"></rect>
+        <filter x="-3.9%" y="-13.9%" width="107.8%" height="138.9%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M12.2458984,9.89707031 C12.2458984,9.76582031 12.2021484,9.63320312 12.1146484,9.52246094 L7.45390625,3.72832031 C7.34042969,3.5875 7.16953125,3.50546875 6.98769531,3.50546875 C6.80722656,3.50546875 6.63496094,3.5875 6.52285156,3.72832031 L1.88671875,9.49785156 C1.68027344,9.75488281 1.72128906,10.1308594 1.97832031,10.3373047 C2.23535156,10.54375 2.61132813,10.5027344 2.81777344,10.2457031 L6.9890625,5.05585937 L11.1835938,10.2716797 C11.3900391,10.5287109 11.7660156,10.5697266 12.0230469,10.3632812 C12.1693359,10.2443359 12.2458984,10.0720703 12.2458984,9.89707031 Z" id="path-29"></path>
+    </defs>
+    <g id="XXXGuideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guideline_數據輸入-Copy" transform="translate(-110.000000, -1063.000000)">
+            <g id="select02" transform="translate(110.000000, 1063.000000)">
+                <rect id="bg" x="0" y="0" width="880" height="280"></rect>
+                <g id="Select/Medium/Dropdown" transform="translate(460.000000, 20.000000)">
+                    <g id="Select/Medium/Placeholder">
+                        <path d="M176.009394,0.5 C176.973525,0.5 177.846323,0.891510214 178.477937,1.52528451 C179.10962,2.15912821 179.5,3.03517539 179.5,4.0042577 L179.5,4.0042577 L179.5,27.9957423 C179.5,28.9641957 179.109953,29.8410666 178.477688,30.4754947 C177.846792,31.1085481 176.974765,31.5 176.009394,31.5 L176.009394,31.5 L3.99060623,31.5 C3.02647481,31.5 2.15367672,31.1084898 1.5220631,30.4747155 C0.890380331,29.8408718 0.5,28.9648246 0.5,27.9957423 L0.5,27.9957423 L0.5,4.0042577 C0.5,3.03580432 0.890047312,2.1589334 1.52231245,1.52450535 C2.15320766,0.891451911 3.0252352,0.5 3.99060623,0.5 L3.99060623,0.5 Z" id="Rectangle-26-Copy-23" stroke="#004477" fill="#FFFFFF"></path>
+                        <g id="Icon/arrow/Down-14px" transform="translate(156.000000, 9.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#7F7F7F" xlink:href="#path-1"></use>
+                        </g>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="10" y="20">|</tspan>
+                        </text>
+                    </g>
+                    <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#B4B4B4">
+                        <tspan x="12" y="20">請選擇</tspan>
+                    </text>
+                    <g id="Select/OptionBox" transform="translate(0.000000, 32.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="Select/Resource/Scroll" transform="translate(163.000000, 0.000000)">
+                            <rect id="Rectangle" fill="#F2F2F2" x="0" y="0" width="17" height="165"></rect>
+                            <rect id="Rectangle" fill="#B4B4B4" x="2" y="17" width="13" height="60"></rect>
+                            <polygon id="Triangle" fill="#B4B4B4" points="8.5 6 12 11 5 11"></polygon>
+                            <polygon id="Triangle-Copy" fill-opacity="0.85" fill="#000000" transform="translate(8.500000, 156.000000) scale(1, -1) translate(-8.500000, -156.000000) " points="8.5 154 12 158 5 158"></polygon>
+                        </g>
+                    </g>
+                    <g id="Select/Resource/hover" transform="translate(0.000000, 33.000000)">
+                        <rect id="Rectangle" fill="#F1F8FE" x="0" y="0" width="163" height="32"></rect>
+                        <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="10" y="20">選項一</tspan>
+                        </text>
+                        <g id="Icon/forAll/check/stroke-10px" transform="translate(139.000000, 6.000000)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="Mask" fill-opacity="0.2" fill="#004477" xlink:href="#path-5"></use>
+                        </g>
+                    </g>
+                    <g id="Select/Resource/default" transform="translate(0.000000, 129.000000)">
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="163" height="32"></rect>
+                        <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="10" y="20">選項四</tspan>
+                        </text>
+                    </g>
+                    <g id="Select/Resource/default-Copy-4" transform="translate(0.000000, 65.000000)">
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="163" height="32"></rect>
+                        <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="10" y="20">選項二</tspan>
+                        </text>
+                    </g>
+                    <g id="Select/Resource/default" transform="translate(0.000000, 161.000000)">
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="163" height="32"></rect>
+                        <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="10" y="20">選項五</tspan>
+                        </text>
+                    </g>
+                    <g id="Select/Resource/default-Copy-2" transform="translate(0.000000, 97.000000)">
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="163" height="32"></rect>
+                        <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="10" y="20">選項三</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2" transform="translate(680.000000, 20.000000)">
+                    <g id="Select/Medium/Dropdown-Copy-5" transform="translate(0.000000, 64.000000)">
+                        <g id="Select/OptionBox">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                            </g>
+                            <g id="Select/Resource/Scroll" transform="translate(163.000000, 0.000000)">
+                                <rect id="Rectangle" fill="#F2F2F2" x="0" y="0" width="17" height="165"></rect>
+                                <rect id="Rectangle" fill="#B4B4B4" x="2" y="17" width="13" height="60"></rect>
+                                <polygon id="Triangle" fill="#B4B4B4" points="8.5 6 12 11 5 11"></polygon>
+                                <polygon id="Triangle-Copy" fill-opacity="0.85" fill="#000000" transform="translate(8.500000, 156.000000) scale(1, -1) translate(-8.500000, -156.000000) " points="8.5 154 12 158 5 158"></polygon>
+                            </g>
+                        </g>
+                        <g id="Select/Resource/default" transform="translate(0.000000, 97.000000)">
+                            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="163" height="32"></rect>
+                            <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="10" y="20">選項四</tspan>
+                            </text>
+                        </g>
+                        <g id="Select/Resource/default-Copy-5" transform="translate(0.000000, 33.000000)">
+                            <rect id="Rectangle" fill="#F2F2F2" x="0" y="0" width="163" height="32"></rect>
+                            <text id="商品分類B" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="22" fill="#545454">
+                                <tspan x="10" y="20">選項二</tspan>
+                            </text>
+                            <g id="Icon/forAll/check/stroke-10px" transform="translate(139.000000, 6.000000)">
+                                <mask id="mask-10" fill="white">
+                                    <use xlink:href="#path-9"></use>
+                                </mask>
+                                <use id="Mask" fill="#B4B4B4" xlink:href="#path-9"></use>
+                            </g>
+                        </g>
+                        <g id="Select/Resource/default-Copy-7" transform="translate(0.000000, 65.000000)">
+                            <rect id="Rectangle" fill="#F2F2F2" x="0" y="0" width="163" height="32"></rect>
+                            <text id="商品分類B" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="22" fill="#545454">
+                                <tspan x="10" y="20">選項三</tspan>
+                            </text>
+                            <g id="Icon/forAll/check/stroke-10px" transform="translate(139.000000, 6.000000)">
+                                <mask id="mask-12" fill="white">
+                                    <use xlink:href="#path-11"></use>
+                                </mask>
+                                <use id="Mask" fill="#B4B4B4" xlink:href="#path-11"></use>
+                            </g>
+                        </g>
+                        <g id="Select/Resource/default-Copy-8" transform="translate(0.000000, 1.000000)">
+                            <rect id="Rectangle" fill="#F2F2F2" x="0" y="0" width="163" height="32"></rect>
+                            <text id="商品分類B" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="22" fill="#545454">
+                                <tspan x="10" y="20">選項一</tspan>
+                            </text>
+                            <g id="Icon/forAll/check/stroke-10px" transform="translate(139.000000, 6.000000)">
+                                <mask id="mask-14" fill="white">
+                                    <use xlink:href="#path-13"></use>
+                                </mask>
+                                <use id="Mask" fill="#B4B4B4" xlink:href="#path-13"></use>
+                            </g>
+                        </g>
+                        <g id="Select/Resource/default" transform="translate(0.000000, 129.000000)">
+                            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="163" height="32"></rect>
+                            <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="10" y="20">選項五</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Select/Medium/Dropdown-Copy-2">
+                        <g id="Select/Medium/Placeholder">
+                            <path d="M176.009394,0.5 C176.97278,0.5 177.844875,0.892463884 178.476332,1.52595846 C179.108804,2.16047233 179.5,3.03679895 179.5,4.00348663 L179.5,4.00348663 L179.5,59.9965134 C179.5,60.9647426 179.109961,61.8414064 178.477722,62.4756862 C177.846818,63.1086264 176.974776,63.5 176.009394,63.5 L176.009394,63.5 L3.99060623,63.5 C3.02721973,63.5 2.15512482,63.1075361 1.52366839,62.4740415 C0.891195935,61.8395277 0.5,60.9632011 0.5,59.9965134 L0.5,59.9965134 L0.5,4.00348663 C0.5,3.03525738 0.890039354,2.15859363 1.52227847,1.52431385 C2.15318236,0.891373601 3.0252242,0.5 3.99060623,0.5 L3.99060623,0.5 Z" id="Rectangle-26-Copy-23" stroke="#004477" fill="#FFFFFF"></path>
+                            <g id="Icon/arrow/Down-14px" transform="translate(156.000000, 9.000000)">
+                                <mask id="mask-16" fill="white">
+                                    <use xlink:href="#path-15"></use>
+                                </mask>
+                                <use id="Mask" fill="#7F7F7F" xlink:href="#path-15"></use>
+                            </g>
+                            <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="80" y="50">選項</tspan>
+                            </text>
+                        </g>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="112" y="50">|</tspan>
+                        </text>
+                        <g id="Tag/Default/Closable/medium" transform="translate(80.000000, 5.000000)">
+                            <path d="M65.9978179,0.5 C66.9653332,0.5 67.8413321,0.890436295 68.4752924,1.52247534 C69.1083912,2.15365541 69.5,3.02578999 69.5,3.99005301 L69.5,3.99005301 L69.5,20.009947 C69.5,20.9725228 69.1067704,21.8438593 68.4736342,22.4750768 C67.8386412,23.1081453 66.9622206,23.5 65.9978179,23.5 L65.9978179,23.5 L4.00218213,23.5 C3.03584726,23.5 2.16099532,23.107495 1.52734125,22.4748472 C0.892863475,21.841377 0.5,20.9669882 0.5,20.0041738 L0.5,20.0041738 L0.5,3.99582624 C0.5,3.03157557 0.893288574,2.15868937 1.52662173,1.52636201 C2.16154906,0.892443015 3.03786193,0.5 4.00218213,0.5 L4.00218213,0.5 Z" id="Bg" stroke="#CCCCCC" fill="#F2F2F2"></path>
+                            <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="8" y="16">選項二</tspan>
+                            </text>
+                            <g id="Group" transform="translate(49.184211, 5.000000)">
+                                <mask id="mask-18" fill="white">
+                                    <use xlink:href="#path-17"></use>
+                                </mask>
+                                <use id="Mask" fill="#7F7F7F" xlink:href="#path-17"></use>
+                            </g>
+                        </g>
+                        <g id="Tag/Default/Closable/medium" transform="translate(5.000000, 5.000000)">
+                            <path d="M65.9978179,0.5 C66.9653332,0.5 67.8413321,0.890436295 68.4752924,1.52247534 C69.1083912,2.15365541 69.5,3.02578999 69.5,3.99005301 L69.5,3.99005301 L69.5,20.009947 C69.5,20.9725228 69.1067704,21.8438593 68.4736342,22.4750768 C67.8386412,23.1081453 66.9622206,23.5 65.9978179,23.5 L65.9978179,23.5 L4.00218213,23.5 C3.03584726,23.5 2.16099532,23.107495 1.52734125,22.4748472 C0.892863475,21.841377 0.5,20.9669882 0.5,20.0041738 L0.5,20.0041738 L0.5,3.99582624 C0.5,3.03157557 0.893288574,2.15868937 1.52662173,1.52636201 C2.16154906,0.892443015 3.03786193,0.5 4.00218213,0.5 L4.00218213,0.5 Z" id="Bg" stroke="#CCCCCC" fill="#F2F2F2"></path>
+                            <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="8" y="16">選項ㄧ</tspan>
+                            </text>
+                            <g id="Group" transform="translate(49.184211, 5.000000)">
+                                <mask id="mask-20" fill="white">
+                                    <use xlink:href="#path-19"></use>
+                                </mask>
+                                <use id="Mask" fill="#7F7F7F" xlink:href="#path-19"></use>
+                            </g>
+                        </g>
+                        <g id="Tag/Default/Closable/medium-Copy-3" transform="translate(5.000000, 34.000000)">
+                            <path d="M65.9978179,0.5 C66.9653332,0.5 67.8413321,0.890436295 68.4752924,1.52247534 C69.1083912,2.15365541 69.5,3.02578999 69.5,3.99005301 L69.5,3.99005301 L69.5,20.009947 C69.5,20.9725228 69.1067704,21.8438593 68.4736342,22.4750768 C67.8386412,23.1081453 66.9622206,23.5 65.9978179,23.5 L65.9978179,23.5 L4.00218213,23.5 C3.03584726,23.5 2.16099532,23.107495 1.52734125,22.4748472 C0.892863475,21.841377 0.5,20.9669882 0.5,20.0041738 L0.5,20.0041738 L0.5,3.99582624 C0.5,3.03157557 0.893288574,2.15868937 1.52662173,1.52636201 C2.16154906,0.892443015 3.03786193,0.5 4.00218213,0.5 L4.00218213,0.5 Z" id="Bg" stroke="#CCCCCC" fill="#F2F2F2"></path>
+                            <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="8" y="16">選項三</tspan>
+                            </text>
+                            <g id="Group" transform="translate(49.184211, 5.000000)">
+                                <mask id="mask-22" fill="white">
+                                    <use xlink:href="#path-21"></use>
+                                </mask>
+                                <use id="Mask" fill="#7F7F7F" xlink:href="#path-21"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Select/Medium/Dropdown-Copy" transform="translate(20.000000, 20.000000)">
+                    <g id="Select/OptionBox" transform="translate(0.000000, 32.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-23"></use>
+                        </g>
+                        <g id="Select/Resource/Scroll" transform="translate(163.000000, 0.000000)">
+                            <rect id="Rectangle" fill="#F2F2F2" x="0" y="0" width="17" height="165"></rect>
+                            <rect id="Rectangle" fill="#B4B4B4" x="2" y="17" width="13" height="60"></rect>
+                            <polygon id="Triangle" fill="#B4B4B4" points="8.5 6 12 11 5 11"></polygon>
+                            <polygon id="Triangle-Copy" fill-opacity="0.85" fill="#000000" transform="translate(8.500000, 156.000000) scale(1, -1) translate(-8.500000, -156.000000) " points="8.5 154 12 158 5 158"></polygon>
+                        </g>
+                    </g>
+                    <g id="Select/Resource/hover" transform="translate(0.000000, 33.000000)">
+                        <rect id="Rectangle" fill="#F1F8FE" x="0" y="0" width="163" height="32"></rect>
+                        <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="10" y="20">選項一</tspan>
+                        </text>
+                    </g>
+                    <g id="Select/Resource/default" transform="translate(0.000000, 129.000000)">
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="163" height="32"></rect>
+                        <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="10" y="20">選項四</tspan>
+                        </text>
+                    </g>
+                    <g id="Select/Resource/default-Copy-4" transform="translate(0.000000, 65.000000)">
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="163" height="32"></rect>
+                        <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="10" y="20">選項二</tspan>
+                        </text>
+                    </g>
+                    <g id="Select/Resource/default" transform="translate(0.000000, 161.000000)">
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="163" height="32"></rect>
+                        <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="10" y="20">選項五</tspan>
+                        </text>
+                    </g>
+                    <g id="Select/Resource/default-Copy-2" transform="translate(0.000000, 97.000000)">
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="163" height="32"></rect>
+                        <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="10" y="20">選項三</tspan>
+                        </text>
+                    </g>
+                    <g id="Select/Medium/Placeholder">
+                        <path d="M176.009394,0.5 C176.973525,0.5 177.846323,0.891510214 178.477937,1.52528451 C179.10962,2.15912821 179.5,3.03517539 179.5,4.0042577 L179.5,4.0042577 L179.5,27.9957423 C179.5,28.9641957 179.109953,29.8410666 178.477688,30.4754947 C177.846792,31.1085481 176.974765,31.5 176.009394,31.5 L176.009394,31.5 L3.99060623,31.5 C3.02647481,31.5 2.15367672,31.1084898 1.5220631,30.4747155 C0.890380331,29.8408718 0.5,28.9648246 0.5,27.9957423 L0.5,27.9957423 L0.5,4.0042577 C0.5,3.03580432 0.890047312,2.1589334 1.52231245,1.52450535 C2.15320766,0.891451911 3.0252352,0.5 3.99060623,0.5 L3.99060623,0.5 Z" id="Rectangle-26-Copy-23" stroke="#004477" fill="#FFFFFF"></path>
+                        <g id="Icon/arrow/Down-14px" transform="translate(156.000000, 9.000000)">
+                            <mask id="mask-26" fill="white">
+                                <use xlink:href="#path-25"></use>
+                            </mask>
+                            <use id="Mask" fill="#7F7F7F" xlink:href="#path-25"></use>
+                        </g>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="10" y="20">選項</tspan>
+                        </text>
+                    </g>
+                    <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                        <tspan x="40" y="20">|</tspan>
+                    </text>
+                </g>
+                <g id="Select/Medium/Dropdown-Copy-2" transform="translate(240.000000, 20.000000)">
+                    <g id="Rectangle" transform="translate(0.000000, 32.000000)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-27"></use>
+                    </g>
+                    <g id="Select/Resource/default-Copy-4" transform="translate(0.000000, 32.000000)">
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="163" height="32"></rect>
+                        <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="10" y="20">選項二</tspan>
+                        </text>
+                    </g>
+                    <g id="Select/Medium/Placeholder">
+                        <path d="M176.009394,0.5 C176.973525,0.5 177.846323,0.891510214 178.477937,1.52528451 C179.10962,2.15912821 179.5,3.03517539 179.5,4.0042577 L179.5,4.0042577 L179.5,27.9957423 C179.5,28.9641957 179.109953,29.8410666 178.477688,30.4754947 C177.846792,31.1085481 176.974765,31.5 176.009394,31.5 L176.009394,31.5 L3.99060623,31.5 C3.02647481,31.5 2.15367672,31.1084898 1.5220631,30.4747155 C0.890380331,29.8408718 0.5,28.9648246 0.5,27.9957423 L0.5,27.9957423 L0.5,4.0042577 C0.5,3.03580432 0.890047312,2.1589334 1.52231245,1.52450535 C2.15320766,0.891451911 3.0252352,0.5 3.99060623,0.5 L3.99060623,0.5 Z" id="Rectangle-26-Copy-23" stroke="#004477" fill="#FFFFFF"></path>
+                        <g id="Icon/arrow/Down-14px" transform="translate(156.000000, 9.000000)">
+                            <mask id="mask-30" fill="white">
+                                <use xlink:href="#path-29"></use>
+                            </mask>
+                            <use id="Mask" fill="#7F7F7F" xlink:href="#path-29"></use>
+                        </g>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="10" y="20">選項二</tspan>
+                        </text>
+                    </g>
+                    <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                        <tspan x="55" y="20">|</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

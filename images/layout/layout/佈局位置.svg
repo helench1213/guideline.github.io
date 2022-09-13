@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="402px" height="252px" viewBox="0 0 402 252" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>佈局位置</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="400" height="250" rx="8"></rect>
+    </defs>
+    <g id="XXXGuideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guideline_系統框架ＸＸ" transform="translate(-69.000000, -2187.000000)">
+            <g id="佈局位置" transform="translate(70.000000, 2188.000000)">
+                <g id="Rectangle">
+                    <use fill="#F5F6F8" xlink:href="#path-1"></use>
+                    <rect stroke="#E5E5E5" stroke-width="1" fill-opacity="0.3" fill="#FFFFFF" x="-0.5" y="-0.5" width="401" height="251" rx="8"></rect>
+                </g>
+                <path d="M80,0 L392,0 C396.418278,-8.11624501e-16 400,3.581722 400,8 L400,30 L400,30 L80,30 L80,0 Z" id="Rectangle" fill="#043458"></path>
+                <text id="||||||||||||||||||||" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#7F7F7F">
+                    <tspan x="95.335" y="20">|||||||||||||||||||||</tspan>
+                </text>
+                <path d="M333,0 L381,0 C383.209139,-4.05812251e-16 385,1.790861 385,4 L385,11 L385,11 L329,11 L329,4 C329,1.790861 330.790861,4.05812251e-16 333,0 Z" id="Rectangle-Copy-2" fill="#F5A700" transform="translate(357.000000, 5.500000) scale(1, -1) translate(-357.000000, -5.500000) "></path>
+                <path d="M8,0 L80,0 L80,0 L80,250 L8,250 C3.581722,250 5.41083001e-16,246.418278 0,242 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="Rectangle" fill="#FFFFFF"></path>
+                <path d="M84,220 L400,220 L400,220 L400,242 C400,246.418278 396.418278,250 392,250 L84,250 C81.790861,250 80,248.209139 80,246 L80,224 C80,221.790861 81.790861,220 84,220 Z" id="Rectangle-Copy-6" fill="#FFFFFF"></path>
+                <text id="Sider" font-family="PingFangTC-Regular, PingFang TC" font-size="18" font-weight="normal" line-spacing="24" fill="#7F7F7F">
+                    <tspan x="18" y="132">Sider</tspan>
+                </text>
+                <rect id="Rectangle-Copy-6" fill="#FFFFFF" x="95" y="45" width="290" height="154" rx="4"></rect>
+                <text id="Content" font-family="PingFangTC-Regular, PingFang TC" font-size="18" font-weight="normal" line-spacing="24" fill="#7F7F7F">
+                    <tspan x="221" y="132">Content</tspan>
+                </text>
+                <text id="Footer" font-family="PingFangTC-Regular, PingFang TC" font-size="18" font-weight="normal" line-spacing="24" fill="#7F7F7F">
+                    <tspan x="227" y="242">Footer</tspan>
+                </text>
+                <text id="Header" font-family="PingFangTC-Regular, PingFang TC" font-size="18" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="224" y="20">Header</tspan>
+                </text>
+                <g id="Group" transform="translate(195.000000, 115.000000)">
+                    <g id="Group" transform="translate(0.000000, 1.000000)">
+                        <circle id="Oval-1-Copy-2" fill="#1FA1FF" cx="10" cy="10" r="10"></circle>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="6" y="14">1.</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(195.000000, 225.000000)">
+                    <g id="Group" transform="translate(0.000000, 1.000000)">
+                        <circle id="Oval-1-Copy-2" fill="#1FA1FF" cx="10" cy="10" r="10"></circle>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="6" y="14">4.</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(30.000000, 85.000000)">
+                    <g id="Group" transform="translate(0.000000, 1.000000)">
+                        <circle id="Oval-1-Copy-2" fill="#1FA1FF" cx="10" cy="10" r="10"></circle>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="6" y="14">3.</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(195.000000, 3.000000)">
+                    <g id="Group" transform="translate(0.000000, 1.000000)">
+                        <circle id="Oval-1-Copy-2" fill="#1FA1FF" cx="10" cy="10" r="10"></circle>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="6" y="14">2.</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

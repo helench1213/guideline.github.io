@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="24px" viewBox="0 0 16 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>右箭頭</title>
+    <defs>
+        <path d="M8.78091413,26.2301329 C9.06216413,26.2301329 9.34634381,26.1363829 9.5836485,25.9488829 L21.9996641,15.9615782 C22.3014219,15.7184141 22.4772032,15.3522032 22.4772032,14.9625548 C22.4772032,14.575836 22.3014219,14.2066954 21.9996641,13.966461 L9.63638288,4.03189069 C9.08560163,3.58950788 8.27993756,3.6773985 7.83755475,4.22817975 C7.39517194,4.778961 7.48306256,5.58462506 8.03384381,6.02700788 L19.1549376,14.9654844 L7.97817975,23.9537657 C7.4273985,24.3961485 7.33950788,25.2018126 7.78189069,25.7525938 C8.0367735,26.0660704 8.40591413,26.2301329 8.78091413,26.2301329 Z" id="path-1"></path>
+    </defs>
+    <g id="XXXGuideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guideline_圖標" transform="translate(-957.000000, -1338.000000)">
+            <g id="02" transform="translate(70.000000, 915.000000)">
+                <g id="網站通用-Icon" transform="translate(40.000000, 400.000000)">
+                    <g id="icon" transform="translate(10.000000, 20.000000)">
+                        <g id="通路管理-copy-8" transform="translate(810.000000, 0.000000)">
+                            <g id="右箭頭" transform="translate(20.000000, 0.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#7F7F7F" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

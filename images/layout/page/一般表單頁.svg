@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="479px" height="292px" viewBox="0 0 479 292" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>一般表單頁</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="400" height="290" rx="8"></rect>
+    </defs>
+    <g id="XXXGuideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guideline_系統框架ＸＸ" transform="translate(-69.000000, -2909.000000)">
+            <g id="一般表單頁" transform="translate(70.000000, 2910.000000)">
+                <g id="button05-copy">
+                    <g id="Rectangle">
+                        <use fill="#F5F6F8" xlink:href="#path-1"></use>
+                        <rect stroke="#E5E5E5" stroke-width="1" fill-opacity="0.3" fill="#FFFFFF" x="-0.5" y="-0.5" width="401" height="291" rx="8"></rect>
+                    </g>
+                    <g id="Group-8" transform="translate(30.000000, 260.000000)">
+                        <path d="M4,0 L370,0 L370,0 L370,22 C370,26.418278 366.418278,30 362,30 L4,30 C1.790861,30 2.705415e-16,28.209139 0,26 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle-Copy-6" fill="#FFFFFF"></path>
+                        <g id="Button/Primary/Basic/Small" transform="translate(190.000000, 7.000000)" fill="#004477">
+                            <rect id="Rectangle-40-Copy-13" x="0" y="0" width="40" height="16" rx="2"></rect>
+                        </g>
+                        <g id="Button/Primary/Basic/Small-Copy" transform="translate(140.000000, 7.000000)" fill="#FFFFFF" stroke="#CCCCCC">
+                            <path d="M38.0027084,0.5 C38.4160889,0.5 38.7903336,0.66757253 39.0613105,0.938110935 C39.3322215,1.20858367 39.5,1.58205484 39.5,1.99406028 L39.5,1.99406028 L39.5,14.0059397 C39.5,14.418692 39.3329047,14.7923905 39.0620872,15.0627699 C38.7913248,15.3330942 38.4169982,15.5 38.0027084,15.5 L38.0027084,15.5 L1.99729162,15.5 C1.58305215,15.5 1.2078669,15.3336012 0.936692146,15.0623165 C0.666463893,14.7919787 0.5,14.4177602 0.5,14.0018986 L0.5,14.0018986 L0.5,1.99810135 C0.5,1.58411665 0.66717841,1.20925692 0.938270807,0.938054614 C1.20894168,0.667274009 1.5831181,0.5 1.99729162,0.5 L1.99729162,0.5 Z" id="Bg"></path>
+                        </g>
+                    </g>
+                    <path d="M30,0 L392,0 C396.418278,-8.11624501e-16 400,3.581722 400,8 L400,30 L400,30 L30,30 L30,0 Z" id="Rectangle" fill="#043458"></path>
+                    <path d="M333,0 L381,0 C383.209139,-4.05812251e-16 385,1.790861 385,4 L385,11 L385,11 L329,11 L329,4 C329,1.790861 330.790861,4.05812251e-16 333,0 Z" id="Rectangle-Copy-2" fill="#F5A700" transform="translate(357.000000, 5.500000) scale(1, -1) translate(-357.000000, -5.500000) "></path>
+                    <text id="||||||||||||||||||||" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#7F7F7F">
+                        <tspan x="45.335" y="20">|||||||||||||||||||||</tspan>
+                    </text>
+                    <path d="M8,0 L30,0 L30,0 L30,290 L8,290 C3.581722,290 5.41083001e-16,286.418278 0,282 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="Rectangle" fill="#FFFFFF"></path>
+                    <g id="Group-8" transform="translate(45.000000, 45.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle-Copy-6" x="0" y="0" width="340" height="70" rx="4"></rect>
+                        <rect id="Rectangle-Copy-14" x="0" y="85" width="340" height="117" rx="4"></rect>
+                    </g>
+                </g>
+                <g id="Group-7-Copy" transform="translate(410.000000, 65.000000)">
+                    <path d="M62,0 C63.1045695,-2.02906125e-16 64,0.8954305 64,2 L64,20 C64,21.1045695 63.1045695,22 62,22 L5,22 C3.8954305,22 3,21.1045695 3,20 L3,14 L0,11 L3,8 L3,2 C3,0.8954305 3.8954305,2.02906125e-16 5,0 L62,0 Z" id="Bg" fill="#50E3C2"></path>
+                    <text id="数据" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="7" y="16">內容表單</tspan>
+                    </text>
+                </g>
+                <g id="Group-7-Copy-3" transform="translate(410.000000, 263.000000)">
+                    <path d="M66,0 C67.1045695,-2.02906125e-16 68,0.8954305 68,2 L68,20 C68,21.1045695 67.1045695,22 66,22 L5,22 C3.8954305,22 3,21.1045695 3,20 L3,14 L0,11 L3,8 L3,2 C3,0.8954305 3.8954305,2.02906125e-16 5,0 L66,0 Z" id="Bg" fill="#50E3C2"></path>
+                    <text id="数据" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="10" y="16">表單操作</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

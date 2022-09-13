@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="155px" height="104px" viewBox="0 0 155 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Notification</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Notification">
+            <rect id="path-1" stroke="#EDEDED" fill="#FFFFFF" x="0.5" y="0.5" width="154" height="103" rx="2"></rect>
+            <g id="Skeleton" transform="translate(13.000000, 35.000000)" fill="#F5F5F5" fill-rule="nonzero">
+                <rect id="矩形复制-81" x="0" y="28" width="72" height="6"></rect>
+                <rect id="矩形复制-143" x="0" y="14" width="132" height="6"></rect>
+                <rect id="矩形复制-144" x="0" y="0" width="132" height="6"></rect>
+            </g>
+            <rect id="矩形" fill-opacity="0.5" fill="#000000" fill-rule="nonzero" x="13" y="11" width="69" height="10"></rect>
+            <g id="1.Button/3.Small/1.Text.2.Secondary#" transform="translate(120.000000, 80.000000)">
+                <g id="Z/Shape/RectangleRC/2px/RC-A">
+                    <rect id="BG/fill" fill="#FFFFFF" fill-rule="nonzero" x="0.56" y="0.56" width="23.7540299" height="12.32" rx="0.56"></rect>
+                    <rect id="outline" stroke="#000000" stroke-width="0.56" opacity="0.15" x="0.28" y="0.28" width="24.3140299" height="12.88" rx="1.12"></rect>
+                </g>
+                <text id="确-认" fill="#FFFFFF" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="7.84" font-weight="normal">
+                    <tspan x="3.68" y="9.6">确 认</tspan>
+                </text>
+            </g>
+            <g id="7.Icon/suggested/4.close" opacity="0.65" transform="translate(139.000000, 12.200000)" fill="#000000" fill-rule="nonzero">
+                <path d="M3.93325,3.48 L6.230125,0.742125 C6.268625,0.696625 6.23625,0.6275 6.17675,0.6275 L5.4785,0.6275 C5.437375,0.6275 5.398,0.645875 5.370875,0.677375 L3.4765,2.93575 L1.582125,0.677375 C1.555875,0.645875 1.5165,0.6275 1.4745,0.6275 L0.77625,0.6275 C0.71675,0.6275 0.684375,0.696625 0.722875,0.742125 L3.01975,3.48 L0.722875,6.217875 C0.684375,6.263375 0.71675,6.3325 0.77625,6.3325 L1.4745,6.3325 C1.515625,6.3325 1.555,6.314125 1.582125,6.282625 L3.4765,4.02425 L5.370875,6.282625 C5.397125,6.314125 5.4365,6.3325 5.4785,6.3325 L6.17675,6.3325 C6.23625,6.3325 6.268625,6.263375 6.230125,6.217875 L3.93325,3.48 Z" id="fill"></path>
+            </g>
+        </g>
+    </g>
+</svg>

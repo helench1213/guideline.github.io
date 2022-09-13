@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1658px" height="487px" viewBox="0 0 1658 487" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>statistics/type02</title>
+    <g id="statistics/type02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1658" height="487"></rect>
+        <g id="Group-8" transform="translate(30.000000, 30.000000)">
+            <g id="Group-7">
+                <g id="Group-5" fill="#4C4C4C" font-family="PingFangTC-Semibold, PingFang TC" font-size="30" font-weight="500">
+                    <g id="Group">
+                        <text id="空值">
+                            <tspan x="0" y="32">空值</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2-Copy" transform="translate(0.000000, 72.000000)">
+                    <rect id="Rectangle" stroke="#E5E5E5" fill="#FFFFFF" x="0.5" y="0.5" width="779" height="354" rx="4"></rect>
+                    <g id="workTool/dashboard/count" transform="translate(20.000000, 20.000000)">
+                        <rect id="Rectangle" fill-opacity="0.5" fill="#F2F2F2" x="0" y="60" width="740" height="255" rx="4"></rect>
+                        <line x1="20" y1="166.5" x2="720" y2="166.5" id="Line" stroke="#CCCCCC" stroke-linecap="square" stroke-dasharray="3,3"></line>
+                        <g id="Group-2">
+                            <text id="區塊標題名稱" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                <tspan x="0" y="19">今日銷售數量</tspan>
+                            </text>
+                            <text id="2020-06-01" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                <tspan x="0" y="43">2020-06-01</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-4" transform="translate(20.000000, 74.000000)">
+                            <text id="銷售數量" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                <tspan x="0" y="15">銷售數量</tspan>
+                            </text>
+                            <g id="Group" transform="translate(0.000000, 21.000000)" fill="#545454" font-family="PingFangTC-Semibold, PingFang TC" font-weight="500">
+                                <text id="昨日銷售-9,950" font-size="14" line-spacing="22">
+                                    <tspan x="0" y="50">昨日銷售 0</tspan>
+                                </text>
+                                <text id="99,999" font-size="24" line-spacing="32">
+                                    <tspan x="0" y="25">0</tspan>
+                                </text>
+                            </g>
+                            <g id="Group-5" transform="translate(0.000000, 108.000000)">
+                                <text id="轉單" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="17">轉單</tspan>
+                                </text>
+                                <text id="3,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="19">0</tspan>
+                                </text>
+                                <text id="寄倉" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="46">寄倉</tspan>
+                                </text>
+                                <text id="2,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="48">0</tspan>
+                                </text>
+                                <text id="一般" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="75">一般</tspan>
+                                </text>
+                                <text id="5,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="77">0</tspan>
+                                </text>
+                                <text id="門市" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="104">門市</tspan>
+                                </text>
+                                <text id="5,000-copy" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="106">0</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-3" transform="translate(267.000000, 74.000000)">
+                            <text id="取消數量" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                <tspan x="0" y="15">取消數量</tspan>
+                            </text>
+                            <text id="▼" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#F5222D">
+                                <tspan x="109" y="42">一一</tspan>
+                            </text>
+                            <text id="0.12%" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal"></text>
+                            <g id="Group" transform="translate(0.000000, 21.000000)" fill="#545454" font-family="PingFangTC-Semibold, PingFang TC" font-weight="500">
+                                <text id="昨日取消-10,121" font-size="14" line-spacing="22">
+                                    <tspan x="0" y="50">昨日取消 0</tspan>
+                                </text>
+                                <text id="99,999" font-size="24" line-spacing="32">
+                                    <tspan x="0" y="25">0</tspan>
+                                </text>
+                            </g>
+                            <g id="Group-5" transform="translate(0.000000, 108.000000)">
+                                <text id="轉單" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="17">轉單</tspan>
+                                </text>
+                                <text id="3,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="19">0</tspan>
+                                </text>
+                                <text id="寄倉" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="46">寄倉</tspan>
+                                </text>
+                                <text id="2,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="48">0</tspan>
+                                </text>
+                                <text id="一般" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="75">一般</tspan>
+                                </text>
+                                <text id="門市" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="104">門市</tspan>
+                                </text>
+                                <text id="5,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="77">0</tspan>
+                                </text>
+                                <text id="5,000-copy-2" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="106">0</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-3" transform="translate(514.000000, 74.000000)">
+                            <text id="銷退數量" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                <tspan x="0" y="15">銷退數量</tspan>
+                            </text>
+                            <text id="▲" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#1AB643">
+                                <tspan x="109" y="42">一一</tspan>
+                            </text>
+                            <text id="0.50%" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal"></text>
+                            <g id="Group" transform="translate(0.000000, 21.000000)" fill="#545454" font-family="PingFangTC-Semibold, PingFang TC" font-weight="500">
+                                <text id="昨日銷退-9,950" font-size="14" line-spacing="22">
+                                    <tspan x="0" y="50">昨日銷退 0</tspan>
+                                </text>
+                                <text id="99,999" font-size="24" line-spacing="32">
+                                    <tspan x="0" y="25">0</tspan>
+                                </text>
+                            </g>
+                            <g id="Group-5" transform="translate(0.000000, 108.000000)">
+                                <text id="轉單" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="17">轉單</tspan>
+                                </text>
+                                <text id="3,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="19">0</tspan>
+                                </text>
+                                <text id="寄倉" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="46">寄倉</tspan>
+                                </text>
+                                <text id="2,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="48">0</tspan>
+                                </text>
+                                <text id="一般" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="75">一般</tspan>
+                                </text>
+                                <text id="門市" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="104">門市</tspan>
+                                </text>
+                                <text id="5,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="77">0</tspan>
+                                </text>
+                                <text id="5,000-copy-3" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="106">0</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-6" transform="translate(830.000000, 0.000000)">
+                <g id="Group-4" fill="#4C4C4C" font-family="PingFangTC-Semibold, PingFang TC" font-size="30" font-weight="500">
+                    <g id="Group-2">
+                        <text id="有值">
+                            <tspan x="0" y="32">有值</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-6-Copy" transform="translate(0.000000, 72.000000)">
+                    <rect id="Rectangle" stroke="#E5E5E5" fill="#FFFFFF" x="0.5" y="0.5" width="767" height="354" rx="6"></rect>
+                    <g id="workTool/dashboard/count" transform="translate(20.000000, 20.000000)">
+                        <rect id="Rectangle" fill-opacity="0.5" fill="#F2F2F2" x="0" y="60" width="740" height="255" rx="4"></rect>
+                        <line x1="20" y1="166.5" x2="720" y2="166.5" id="Line" stroke="#CCCCCC" stroke-linecap="square" stroke-dasharray="3,3"></line>
+                        <g id="Group-2">
+                            <text id="區塊標題名稱" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                <tspan x="0" y="19">今日銷售數量</tspan>
+                            </text>
+                            <text id="2020-06-01" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                <tspan x="0" y="43">2020-06-01</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-4" transform="translate(20.000000, 74.000000)">
+                            <text id="銷售數量" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                <tspan x="0" y="15">銷售數量</tspan>
+                            </text>
+                            <g id="Group" transform="translate(0.000000, 21.000000)" fill="#545454" font-family="PingFangTC-Semibold, PingFang TC" font-weight="500">
+                                <text id="昨日銷售-9,950" font-size="14" line-spacing="22">
+                                    <tspan x="0" y="50">昨日銷售 9,950</tspan>
+                                </text>
+                                <text id="99,999" font-size="24" line-spacing="32">
+                                    <tspan x="0" y="25">99,999</tspan>
+                                </text>
+                            </g>
+                            <g id="Group-5" transform="translate(0.000000, 108.000000)">
+                                <text id="轉單" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="17">轉單</tspan>
+                                </text>
+                                <text id="3,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="19">3,000</tspan>
+                                </text>
+                                <text id="寄倉" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="46">寄倉</tspan>
+                                </text>
+                                <text id="2,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="48">2,000</tspan>
+                                </text>
+                                <text id="一般" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="75">一般</tspan>
+                                </text>
+                                <text id="5,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="77">5,000</tspan>
+                                </text>
+                                <text id="門市" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="104">門市</tspan>
+                                </text>
+                                <text id="5,000-copy" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="106">5,000</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-3" transform="translate(267.000000, 74.000000)">
+                            <text id="取消數量" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                <tspan x="0" y="15">取消數量</tspan>
+                            </text>
+                            <text id="▼" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#F5222D">
+                                <tspan x="109" y="42">▼</tspan>
+                            </text>
+                            <text id="0.12%" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#F5222D">
+                                <tspan x="124" y="42">0.12%</tspan>
+                            </text>
+                            <g id="Group" transform="translate(0.000000, 21.000000)" fill="#545454" font-family="PingFangTC-Semibold, PingFang TC" font-weight="500">
+                                <text id="昨日取消-10,121" font-size="14" line-spacing="22">
+                                    <tspan x="0" y="50">昨日取消 10,121</tspan>
+                                </text>
+                                <text id="99,999" font-size="24" line-spacing="32">
+                                    <tspan x="0" y="25">99,999</tspan>
+                                </text>
+                            </g>
+                            <g id="Group-5" transform="translate(0.000000, 108.000000)">
+                                <text id="轉單" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="17">轉單</tspan>
+                                </text>
+                                <text id="3,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="19">3,000</tspan>
+                                </text>
+                                <text id="寄倉" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="46">寄倉</tspan>
+                                </text>
+                                <text id="2,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="48">2,000</tspan>
+                                </text>
+                                <text id="一般" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="75">一般</tspan>
+                                </text>
+                                <text id="門市" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="104">門市</tspan>
+                                </text>
+                                <text id="5,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="77">5,000</tspan>
+                                </text>
+                                <text id="5,000-copy-2" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="106">5,000</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-3" transform="translate(514.000000, 74.000000)">
+                            <text id="銷退數量" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                <tspan x="0" y="15">銷退數量</tspan>
+                            </text>
+                            <text id="▲" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#1AB643">
+                                <tspan x="109" y="42">▲</tspan>
+                            </text>
+                            <text id="0.50%" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#1AB643">
+                                <tspan x="124" y="42">0.50%</tspan>
+                            </text>
+                            <g id="Group" transform="translate(0.000000, 21.000000)" fill="#545454" font-family="PingFangTC-Semibold, PingFang TC" font-weight="500">
+                                <text id="昨日銷退-9,950" font-size="14" line-spacing="22">
+                                    <tspan x="0" y="50">昨日銷退 9,950</tspan>
+                                </text>
+                                <text id="99,999" font-size="24" line-spacing="32">
+                                    <tspan x="0" y="25">99,999</tspan>
+                                </text>
+                            </g>
+                            <g id="Group-5" transform="translate(0.000000, 108.000000)">
+                                <text id="轉單" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="17">轉單</tspan>
+                                </text>
+                                <text id="3,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="19">3,000</tspan>
+                                </text>
+                                <text id="寄倉" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="46">寄倉</tspan>
+                                </text>
+                                <text id="2,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="48">2,000</tspan>
+                                </text>
+                                <text id="一般" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="75">一般</tspan>
+                                </text>
+                                <text id="門市" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="0" y="104">門市</tspan>
+                                </text>
+                                <text id="5,000" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="77">5,000</tspan>
+                                </text>
+                                <text id="5,000-copy-3" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" line-spacing="26" fill="#545454">
+                                    <tspan x="48" y="106">5,000</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1658px" height="532px" viewBox="0 0 1658 532" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>statistics/type05</title>
+    <defs>
+        <path d="M120,0 C186.27417,0 240,53.72583 240,120 C240,186.27417 186.27417,240 120,240 C53.72583,240 0,186.27417 0,120 C0,53.72583 53.72583,0 120,0 Z" id="path-1"></path>
+        <path d="M120,0 C186.27417,0 240,53.72583 240,120 C240,186.27417 186.27417,240 120,240 C53.72583,240 0,186.27417 0,120 C0,53.72583 53.72583,0 120,0 Z" id="path-3"></path>
+        <filter x="-9.2%" y="-5.8%" width="118.3%" height="118.3%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.298039216   0 0 0 0 0.298039216   0 0 0 0 0.298039216  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FFD13C" offset="0%"></stop>
+            <stop stop-color="#FFB31E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FF6161" offset="0%"></stop>
+            <stop stop-color="#EF1D62" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.0633312204%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#66C7FF" offset="0.0211148649%"></stop>
+            <stop stop-color="#4A9BFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#F5AF19" offset="0%"></stop>
+            <stop stop-color="#F94F27" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.168794137%" x2="50%" y2="99.973651%" id="linearGradient-10">
+            <stop stop-color="#82D453" offset="0%"></stop>
+            <stop stop-color="#22A829" offset="99.9736064%"></stop>
+        </linearGradient>
+        <path d="M120,60 C86.862915,60 60,86.862915 60,120 C60,153.137085 86.862915,180 120,180 C153.137085,180 180,153.137085 180,120 C180,86.862915 153.137085,60 120,60 Z" id="path-11"></path>
+        <filter x="-16.7%" y="-10.8%" width="133.3%" height="133.3%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.298039216   0 0 0 0 0.298039216   0 0 0 0 0.298039216  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-13">
+            <stop stop-color="#F5AF19" offset="0%"></stop>
+            <stop stop-color="#F94F27" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-14">
+            <stop stop-color="#FFD13C" offset="0%"></stop>
+            <stop stop-color="#FFB31E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#FF6161" offset="0%"></stop>
+            <stop stop-color="#EF1D62" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.0633312204%" x2="50%" y2="100%" id="linearGradient-16">
+            <stop stop-color="#66C7FF" offset="0.0211148649%"></stop>
+            <stop stop-color="#4A9BFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.168794137%" x2="50%" y2="99.973651%" id="linearGradient-17">
+            <stop stop-color="#82D453" offset="0%"></stop>
+            <stop stop-color="#22A829" offset="99.9736064%"></stop>
+        </linearGradient>
+        <path d="M4.09775993,12.2407287 C4.22900993,12.2407287 4.36162711,12.1969787 4.4723693,12.1094787 L10.2665099,7.44873649 C10.4073302,7.33525993 10.4893615,7.16436149 10.4893615,6.98252555 C10.4893615,6.8020568 10.4073302,6.62979118 10.2665099,6.5176818 L4.49697868,1.88154899 C4.23994743,1.67510368 3.86397086,1.7161193 3.65752555,1.97315055 C3.45108024,2.2301818 3.49209586,2.60615836 3.74912711,2.81260368 L8.93897086,6.98389274 L3.72315055,11.178424 C3.4661193,11.3848693 3.42510368,11.7608459 3.63154899,12.0178771 C3.7504943,12.1641662 3.92275993,12.2407287 4.09775993,12.2407287 Z" id="path-18"></path>
+    </defs>
+    <g id="statistics/type05" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1658" height="532"></rect>
+        <g id="Group-5" transform="translate(30.000000, 30.000000)">
+            <g id="Group-3" transform="translate(0.000000, 1.000000)" fill="#4C4C4C" font-family="PingFangTC-Semibold, PingFang TC" font-size="30" font-weight="500">
+                <g id="Group">
+                    <text id="空值">
+                        <tspan x="0" y="32">空值</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-4" transform="translate(830.000000, 0.000000)" fill="#4C4C4C" font-family="PingFangTC-Semibold, PingFang TC" font-size="30" font-weight="500">
+                <g id="Group-2">
+                    <text id="有值">
+                        <tspan x="0" y="32">有值</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="workTool/dashboard/佔比-Copy-2" transform="translate(0.000000, 56.000000)">
+                <rect id="Rectangle" stroke="#E5E5E5" fill="#FFFFFF" x="0.5" y="0.5" width="779" height="415" rx="4"></rect>
+                <g id="title" transform="translate(20.000000, 20.000000)">
+                    <text id="近7日通路商店銷售金額佔比" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" fill="#545454">
+                        <tspan x="0" y="19">近7日通路商店銷售金額佔比</tspan>
+                    </text>
+                    <text id="2020-05-25-~-2020-05" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#7F7F7F">
+                        <tspan x="0" y="44">2020-05-25 ~ 2020-05-31</tspan>
+                    </text>
+                </g>
+                <g id="pie01" transform="translate(50.000000, 99.000000)">
+                    <g id="Pie-chart">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Oval" fill="#F2F2F2" xlink:href="#path-1"></use>
+                        <path d="M120,60 C86.862915,60 60,86.862915 60,120 C60,153.137085 86.862915,180 120,180 C153.137085,180 180,153.137085 180,120 C180,86.862915 153.137085,60 120,60 Z" id="Path" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                        <text id="通路商店" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="20" font-weight="500" fill="#545454">
+                            <tspan x="79" y="127">通路商店</tspan>
+                        </text>
+                    </g>
+                    <text id="尚無資料" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#B4B4B4">
+                        <tspan x="290" y="124">尚無資料</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="workTool/dashboard/佔比-Copy-2" transform="translate(830.000000, 56.000000)">
+                <rect id="Rectangle" stroke="#E5E5E5" fill="#FFFFFF" x="0.5" y="0.5" width="767" height="414" rx="4"></rect>
+                <g id="title" transform="translate(20.000000, 20.000000)">
+                    <text id="近7日通路商店銷售金額佔比" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" fill="#545454">
+                        <tspan x="0" y="19">近7日通路商店銷售金額佔比</tspan>
+                    </text>
+                    <text id="2020-05-25-~-2020-05" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#7F7F7F">
+                        <tspan x="0" y="44">2020-05-25 ~ 2020-05-31</tspan>
+                    </text>
+                </g>
+                <g id="pie01" transform="translate(50.000000, 99.000000)">
+                    <g id="Pie-chart">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Oval">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-3"></use>
+                            <use fill="#CCCCCC" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <rect id="Rectangle" fill="url(#linearGradient-6)" mask="url(#mask-4)" x="120" y="120" width="129" height="120"></rect>
+                        <polygon id="Rectangle" fill="url(#linearGradient-7)" mask="url(#mask-4)" points="-4.44921875 180 120 120 120 242.654297 -19 240"></polygon>
+                        <polygon id="Rectangle" fill="url(#linearGradient-8)" mask="url(#mask-4)" points="11.1601563 172.761719 120 120 -5.70117188 82.5683594 -19 129.708984"></polygon>
+                        <polygon id="Rectangle" fill="url(#linearGradient-9)" mask="url(#mask-4)" points="120 0 240 0 240 157.835937 120 120"></polygon>
+                        <polygon id="Rectangle" fill="url(#linearGradient-10)" mask="url(#mask-4)" points="24.7558594 29.6015625 120 120 -19 78.9179688"></polygon>
+                        <g id="Path" mask="url(#mask-4)">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                        </g>
+                        <text id="通路商店" mask="url(#mask-4)" font-family="PingFangTC-Semibold, PingFang TC" font-size="20" font-weight="500" fill="#545454">
+                            <tspan x="80" y="127">通路商店</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4" transform="translate(290.000000, 0.000000)">
+                        <g id="Pie-chart-list">
+                            <circle id="Oval" fill="url(#linearGradient-13)" cx="10" cy="11" r="10"></circle>
+                            <text id="udn買東西" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" fill="#545454">
+                                <tspan x="40" y="17">udn買東西</tspan>
+                            </text>
+                            <text id="30.05%" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal" fill="#4C4C4C">
+                                <tspan x="137" y="17">30.05%</tspan>
+                            </text>
+                        </g>
+                        <g id="Pie-chart-list" transform="translate(0.000000, 44.000000)">
+                            <circle id="Oval" fill="url(#linearGradient-14)" cx="10" cy="11" r="10"></circle>
+                            <text id="蝦皮" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" fill="#545454">
+                                <tspan x="40" y="17">蝦皮</tspan>
+                            </text>
+                            <text id="29.21%" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal" fill="#4C4C4C">
+                                <tspan x="137" y="17">29.21%</tspan>
+                            </text>
+                        </g>
+                        <g id="Pie-chart-list" transform="translate(0.000000, 88.000000)">
+                            <circle id="Oval" fill="url(#linearGradient-15)" cx="10" cy="11" r="10"></circle>
+                            <text id="momo" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" fill="#545454">
+                                <tspan x="40" y="17">momo</tspan>
+                            </text>
+                            <text id="18.77%" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal" fill="#4C4C4C">
+                                <tspan x="137" y="17">18.77%</tspan>
+                            </text>
+                        </g>
+                        <g id="Pie-chart-list" transform="translate(0.000000, 132.000000)">
+                            <circle id="Oval" fill="url(#linearGradient-16)" cx="10" cy="11" r="10"></circle>
+                            <text id="PChome" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" fill="#545454">
+                                <tspan x="40" y="17">PChome</tspan>
+                            </text>
+                            <text id="8.55%" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal" fill="#4C4C4C">
+                                <tspan x="137" y="17">8.55%</tspan>
+                            </text>
+                        </g>
+                        <g id="Pie-chart-list" transform="translate(0.000000, 176.000000)">
+                            <circle id="Oval" fill="url(#linearGradient-17)" cx="10" cy="11" r="10"></circle>
+                            <text id="松果" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" fill="#545454">
+                                <tspan x="40" y="17">松果</tspan>
+                            </text>
+                            <text id="2.21%" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal" fill="#4C4C4C">
+                                <tspan x="137" y="17">2.21%</tspan>
+                            </text>
+                        </g>
+                        <g id="Pie-chart-list" transform="translate(0.000000, 220.000000)">
+                            <circle id="Oval" fill="#CCCCCC" cx="10" cy="11" r="10"></circle>
+                            <text id="其他" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" fill="#545454">
+                                <tspan x="40" y="17">其他</tspan>
+                            </text>
+                            <text id="11.21%" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal" fill="#4C4C4C">
+                                <tspan x="137" y="17">11.21%</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Button/Secondary/Icon/Medium" transform="translate(337.000000, 264.000000)">
+                        <path d="M98.0014791,0.5 C98.96791,0.5 99.8428349,0.891591277 100.47597,1.5256352 C101.108816,2.15938923 101.5,3.03528941 101.5,4.0042577 L101.5,4.0042577 L101.5,27.9957423 C101.5,28.9632955 101.108081,29.8392742 100.474823,30.4734405 C99.8415618,31.1076103 98.9669084,31.5 98.0014791,31.5 L98.0014791,31.5 L3.99852088,31.5 C3.03236033,31.5 2.15765146,31.1087013 1.52450924,30.4759262 C0.891520636,29.8433045 0.5,28.969321 0.5,28.0037973 L0.5,28.0037973 L0.5,3.99620271 C0.5,3.03098858 0.891836467,2.15717299 1.52482105,1.52455538 C2.15817343,0.891570194 3.03297669,0.5 3.99852088,0.5 L3.99852088,0.5 Z" id="Rectangle-77-Copy-4" stroke="#CCCCCC" fill="#FFFFFF"></path>
+                        <g id="Group" transform="translate(14.000000, 5.000000)">
+                            <text id="Text" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="22" fill="#545454">
+                                <tspan x="0" y="15">查看明細</tspan>
+                            </text>
+                            <g transform="translate(60.000000, 4.000000)" id="Icon/number/Plus-14px">
+                                <mask id="mask-19" fill="white">
+                                    <use xlink:href="#path-18"></use>
+                                </mask>
+                                <use id="Mask" fill="#7F7F7F" xlink:href="#path-18"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

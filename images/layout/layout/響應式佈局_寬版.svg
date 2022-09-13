@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="415px" height="252px" viewBox="0 0 415 252" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>響應式佈局_寬版</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="響應式佈局_寬版">
+            <g id="Rectangle" fill-rule="nonzero">
+                <g id="path-1-link" transform="translate(1.000000, 1.000000)" fill="#F5F6F8">
+                    <rect id="path-1" x="0" y="0" width="400" height="250" rx="8"></rect>
+                </g>
+                <rect stroke="#E5E5E5" fill-opacity="0.3" fill="#FFFFFF" x="0.5" y="0.5" width="401" height="251" rx="8"></rect>
+            </g>
+            <path d="M81,1 L393,1 C397.418278,1 401,4.581722 401,9 L401,31 L401,31 L81,31 L81,1 Z" id="Rectangle" fill="#043458" fill-rule="nonzero"></path>
+            <g id="||||||||||||||||||||" transform="translate(96.000000, 6.000000)" fill="#7F7F7F" fill-rule="nonzero" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal">
+                <text id="|||||||||||||||||||||">
+                    <tspan x="0.335" y="15">|||||||||||||||||||||</tspan>
+                </text>
+            </g>
+            <path d="M334,1 L382,1 C384.209139,1 386,2.790861 386,5 L386,12 L386,12 L330,12 L330,5 C330,2.790861 331.790861,1 334,1 Z" id="Rectangle-Copy-2" fill="#F5A700" fill-rule="nonzero" transform="translate(358.000000, 6.500000) scale(-1, 1) rotate(-180.000000) translate(-358.000000, -6.500000) "></path>
+            <path d="M9,1 L81,1 L81,1 L81,251 L9,251 C4.581722,251 1,247.418278 1,243 L1,9 C1,4.581722 4.581722,1 9,1 Z" id="Rectangle" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <rect id="Rectangle-Copy-6" fill="#FFFFFF" fill-rule="nonzero" x="96" y="46" width="290" height="190" rx="4"></rect>
+            <g id="Rectangle-Copy-6" transform="translate(96.000000, 46.000000)">
+                <g id="path-2-link" fill="#000000" fill-rule="nonzero">
+                    <path d="M8,0 L282,0 C286.418278,0 290,3.581722 290,8 L290,36 L290,36 L0,36 L0,8 C0,3.581722 3.581722,0 8,0 Z" id="path-2"></path>
+                </g>
+                <g id="path-2-link" fill="#FFFFFF">
+                    <path d="M8,0 L282,0 C286.418278,0 290,3.581722 290,8 L290,36 L290,36 L0,36 L0,8 C0,3.581722 3.581722,0 8,0 Z" id="path-2"></path>
+                </g>
+            </g>
+            <rect id="Rectangle-40-Copy-13" fill="#004477" fill-rule="nonzero" x="336" y="56" width="40" height="16" rx="2"></rect>
+            <g id="size-width:-Rectangle-Copy" transform="translate(66.000000, 183.000000)" fill-rule="nonzero">
+                <g id="line" transform="translate(14.000000, 0.500000)" fill="#FF5500">
+                    <polygon id="Line" points="15 9 14 9 14 5 1 5 1 9 0 9 0 0 1 0 1 4 14 4 14 0 15 0"></polygon>
+                </g>
+                <g id="Number" transform="translate(0.000000, 10.000000)">
+                    <path d="M21.5,0 L24.5,3 L41,3 C42.1045695,3 43,3.8954305 43,5 L43,23 C43,24.1045695 42.1045695,25 41,25 L2,25 C0.8954305,25 0,24.1045695 0,23 L0,5 C0,3.8954305 0.8954305,3 2,3 L18.5,3 L21.5,0 Z" id="Bg" fill="#FF5500"></path>
+                    <g id="数据" transform="translate(7.000000, 7.000000)" fill="#FFFFFF" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal">
+                        <text id="30px">
+                            <tspan x="0.05078125" y="11">30px</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="size-width:-Rectangle-Copy" transform="translate(372.000000, 183.000000)" fill-rule="nonzero">
+                <g id="line" transform="translate(14.000000, 0.500000)" fill="#FF5500">
+                    <polygon id="Line" points="15 9 14 9 14 5 1 5 1 9 0 9 0 0 1 0 1 4 14 4 14 0 15 0"></polygon>
+                </g>
+                <g id="Number" transform="translate(0.000000, 10.000000)">
+                    <path d="M21.5,0 L24.5,3 L41,3 C42.1045695,3 43,3.8954305 43,5 L43,23 C43,24.1045695 42.1045695,25 41,25 L2,25 C0.8954305,25 0,24.1045695 0,23 L0,5 C0,3.8954305 0.8954305,3 2,3 L18.5,3 L21.5,0 Z" id="Bg" fill="#FF5500"></path>
+                    <g id="数据" transform="translate(7.000000, 7.000000)" fill="#FFFFFF" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal">
+                        <text id="30px">
+                            <tspan x="0.05078125" y="11">30px</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="size-width:-Rectangle-Copy" transform="translate(0.000000, 115.000000)" fill-rule="nonzero">
+                <g id="line" fill="#FF5500" transform="translate(0.000000, 0.500000)">
+                    <polygon id="Line" points="82 9 79.2666667 9 79.2666667 5 2.73333333 5 2.73333333 9 0 9 0 0 2.73333333 0 2.73333333 4 79.2666667 4 79.2666667 0 82 0"></polygon>
+                </g>
+                <g id="Number" transform="translate(17.000000, 9.000000)">
+                    <path d="M24.5,0 L27.9186047,3 L46.7209302,3 C47.9796257,3 49,3.8954305 49,5 L49,23 C49,24.1045695 47.9796257,25 46.7209302,25 L2.27906977,25 C1.02037429,25 0,24.1045695 0,23 L0,5 C0,3.8954305 1.02037429,3 2.27906977,3 L21.0813953,3 L24.5,0 Z" id="Bg" fill="#FF5500"></path>
+                    <g id="数据" transform="translate(7.000000, 7.000000)" fill="#FFFFFF" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal">
+                        <text id="226px">
+                            <tspan x="0.05078125" y="11">226px</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

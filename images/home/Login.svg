@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="105px" viewBox="0 0 80 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Login</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Login">
+            <rect id="Rectangle" stroke="#E1E1E1" fill="#FFFFFF" x="0.5" y="0.5" width="79" height="104" rx="2"></rect>
+            <rect id="矩形备份-11" fill="#1791FF" fill-rule="nonzero" x="15" y="82" width="50" height="8" rx="2"></rect>
+            <rect id="矩形" fill-opacity="0.06" fill="#000000" fill-rule="nonzero" x="15" y="68" width="29" height="8" rx="2"></rect>
+            <rect id="矩形备份-4" fill-opacity="0.06" fill="#000000" fill-rule="nonzero" x="15" y="55" width="50" height="8" rx="2"></rect>
+            <rect id="矩形备份-4-copy" fill-opacity="0.06" fill="#000000" fill-rule="nonzero" x="15" y="42" width="50" height="8" rx="2"></rect>
+            <rect id="矩形备份-10" fill="#E5F7FF" fill-rule="nonzero" x="31" y="10" width="18" height="18" rx="3"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1133px" height="246px" viewBox="0 0 1133 246" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>statistics/type01</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF5D36" offset="0%"></stop>
+            <stop stop-color="#FF263E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="85.90625%" y1="0%" x2="20.5625%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFBD94" offset="0%"></stop>
+            <stop stop-color="#FF7D2C" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-3" cx="20" cy="20" r="20"></circle>
+        <filter x="-20.0%" y="-10.0%" width="140.0%" height="140.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.992156863   0 0 0 0 0.352941176   0 0 0 0 0.380392157  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FF5D36" offset="0%"></stop>
+            <stop stop-color="#FF263E" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0.168794137%" x2="50%" y2="99.973651%" id="linearGradient-7">
+            <stop stop-color="#82D453" offset="0%"></stop>
+            <stop stop-color="#22A829" offset="99.9736064%"></stop>
+        </linearGradient>
+        <circle id="path-8" cx="20" cy="20" r="20"></circle>
+        <filter x="-20.0%" y="-10.0%" width="140.0%" height="140.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.133333333   0 0 0 0 0.658823529   0 0 0 0 0.160784314  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0.168794137%" x2="50%" y2="99.973651%" id="linearGradient-10">
+            <stop stop-color="#82D453" offset="0%"></stop>
+            <stop stop-color="#22A829" offset="99.9736064%"></stop>
+        </linearGradient>
+        <path d="M20,8 C26.628125,8 32,13.371875 32,20 C32,26.628125 26.628125,32 20,32 C13.371875,32 8,26.628125 8,20 C8,13.371875 13.371875,8 20,8 Z M24.602423,14.8594542 L17.3222857,22.1582857 L15.6002598,19.1452351 C15.2504818,18.5340067 14.4753451,18.3222087 13.8644813,18.6717782 C13.2535379,19.0213932 13.04174,19.7965299 13.3913094,20.4073937 L15.941129,24.8719218 C16.1688654,25.272187 16.5939059,25.5145089 17.046875,25.5145089 C17.2673191,25.5145089 17.4830295,25.4585506 17.6766935,25.3478855 C17.7559737,25.300859 17.8263031,25.2509086 17.8892107,25.195934 L17.975702,25.1124208 L26.4019458,16.660395 C26.8975208,16.1612815 26.8964275,15.3555553 26.3980591,14.8607215 L26.2566181,14.7369984 C25.7623671,14.3657402 25.055824,14.4060532 24.602423,14.8594542 Z" id="path-11"></path>
+        <filter x="-29.2%" y="-20.8%" width="158.3%" height="158.3%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-14" cx="20" cy="20" r="20"></circle>
+        <filter x="-20.0%" y="-10.0%" width="140.0%" height="140.0%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.129411765   0 0 0 0 0.709803922   0 0 0 0 0.517647059  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-16">
+            <stop stop-color="#3DCC94" offset="0%"></stop>
+            <stop stop-color="#11A97B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="statistics/type01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1133" height="246"></rect>
+        <g id="Group-3" transform="translate(30.000000, 30.000000)">
+            <g id="Group">
+                <g transform="translate(0.000000, 46.000000)" id="workTool/dashboard/toDoList-item-Copy-3">
+                    <rect id="Rectangle" stroke="#E5E5E5" x="0.5" y="0.5" width="517" height="139" rx="4"></rect>
+                    <g id="title">
+                        <path d="M4,0 L514,0 C516.209139,-8.49901461e-16 518,1.790861 518,4 L518,30 L518,30 L0,30 L0,4 C-7.1463071e-16,1.790861 1.790861,-3.82769592e-17 4,0 Z" id="Rectangle" fill="#F2F2F2"></path>
+                        <text id="API連線狀態" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" fill="#545454">
+                            <tspan x="220.219932" y="20">API連線狀態</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-2" transform="translate(15.000000, 45.000000)">
+                        <rect id="Rectangle" fill-opacity="0.1" fill="url(#linearGradient-1)" x="0" y="0" width="238" height="80" rx="4"></rect>
+                        <g id="Group" transform="translate(15.000000, 20.000000)">
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill-opacity="0" fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                            <g id="icon">
+                                <circle id="Oval" fill="url(#linearGradient-5)" cx="20" cy="20" r="20"></circle>
+                                <g id="Icon/sider/Wavehouse/30px" transform="translate(8.000000, 8.000000)" fill="#FFFFFF" filter="url(#filter-6)">
+                                    <path d="M12,0 C18.628125,0 24,5.371875 24,12 C24,18.628125 18.628125,24 12,24 C5.371875,24 0,18.628125 0,12 C0,5.371875 5.371875,0 12,0 Z M7.51631799,5.83435528 C7.29836812,5.68336922 6.99703095,5.70493866 6.80290602,5.89906359 L6.80290602,5.89906359 L5.89906359,6.80290602 L5.83435528,6.88035618 C5.68336922,7.09830605 5.70493866,7.39964322 5.89906359,7.59376815 L5.89906359,7.59376815 L10.306,12 L5.89906359,16.4062319 C5.68067304,16.6246224 5.68067304,16.9787034 5.89906359,17.197094 L5.89906359,17.197094 L6.80290602,18.1009364 C7.02129657,18.319327 7.3753776,18.319327 7.59376815,18.1009364 L7.59376815,18.1009364 L12,13.693 L16.4062319,18.1009364 L16.483682,18.1656447 C16.7016319,18.3166308 17.002969,18.2950613 17.197094,18.1009364 L17.197094,18.1009364 L18.1009364,17.197094 L18.1656447,17.1196438 C18.3166308,16.9016939 18.2950613,16.6003568 18.1009364,16.4062319 L18.1009364,16.4062319 L13.693,12 L18.1009364,7.59376815 C18.319327,7.3753776 18.319327,7.02129657 18.1009364,6.80290602 L18.1009364,6.80290602 L17.197094,5.89906359 C16.9787034,5.68067304 16.6246224,5.68067304 16.4062319,5.89906359 L16.4062319,5.89906359 L12,10.306 L7.59376815,5.89906359 Z" id="Combined-Shape"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="異常" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="22" fill="#545454">
+                            <tspan x="65" y="44">異常</tspan>
+                        </text>
+                        <text id="5" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="24" fill="#F5222D">
+                            <tspan x="103" y="53">0</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-3" transform="translate(265.000000, 45.000000)">
+                        <rect id="Rectangle-Copy" fill-opacity="0.1" fill="url(#linearGradient-7)" x="0" y="0" width="238" height="80" rx="4"></rect>
+                        <text id="正常" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="22" fill="#545454">
+                            <tspan x="65" y="44">正常</tspan>
+                        </text>
+                        <text id="12" font-family="PingFangTC-Semibold, PingFang TC" font-size="24" font-weight="500" line-spacing="32" fill="#545454">
+                            <tspan x="103" y="49">0</tspan>
+                        </text>
+                        <g id="Group" transform="translate(15.000000, 20.000000)">
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                                <use fill-opacity="0" fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-8"></use>
+                            </g>
+                            <g id="icon">
+                                <circle id="Oval" fill="url(#linearGradient-10)" cx="20" cy="20" r="20"></circle>
+                                <mask id="mask-12" fill="white">
+                                    <use xlink:href="#path-11"></use>
+                                </mask>
+                                <g id="Combined-Shape">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-11"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <text id="API-連線狀態-異常、正常統計" font-family="PingFangTC-Semibold, PingFang TC" font-size="20" font-weight="500" fill="#4C4C4C">
+                    <tspan x="0" y="21">API 連線狀態 異常、正常統計</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(555.000000, 0.000000)">
+                <g id="workTool/dashboard/toDoList-item-Copy-3" transform="translate(0.000000, 46.000000)">
+                    <rect id="Rectangle" stroke="#E5E5E5" x="0.5" y="0.5" width="517" height="139" rx="4"></rect>
+                    <g id="Group" transform="translate(80.000000, 75.000000)" fill="#545454" font-size="14" line-spacing="22">
+                        <g id="workTool/dashboard/toDoList-item/Resource_default">
+                            <text id="標題名稱" font-family="PingFangTC-Regular, PingFang TC" font-weight="normal">
+                                <tspan x="0" y="15">轉單</tspan>
+                            </text>
+                            <text id="0" font-family="PingFangTC-Semibold, PingFang TC" font-weight="500">
+                                <tspan x="66" y="15">0</tspan>
+                            </text>
+                        </g>
+                        <g transform="translate(228.000000, 0.000000)" id="workTool/dashboard/toDoList-item/Resource/active">
+                            <text id="標題名稱" font-family="PingFangTC-Regular, PingFang TC" font-weight="normal">
+                                <tspan x="0" y="15">借貨</tspan>
+                            </text>
+                            <text id="0" font-family="PingFangTC-Semibold, PingFang TC" font-weight="500">
+                                <tspan x="66" y="15">0</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group" transform="translate(20.000000, 65.000000)">
+                        <g id="Oval">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
+                            <use fill-opacity="0" fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-14"></use>
+                        </g>
+                        <g id="icon">
+                            <circle id="Oval" fill="url(#linearGradient-16)" cx="20" cy="20" r="20"></circle>
+                            <g id="Icon/sider/BuyOut/30px" transform="translate(8.000000, 8.000000)" fill="#FFFFFF">
+                                <path d="M21.011273,12.1046233 L21.5857725,12.4370852 C22.4239111,12.9209848 22.7276777,13.9804145 22.2967577,14.8505383 L22.2390518,14.9582625 L18.4958157,21.4417375 C18.0033241,22.294758 16.9477736,22.6148801 16.091689,22.1931632 L15.9857725,22.1365697 L5.599,16.139 L5.599,14.252 L16.8027486,20.7215256 C16.8808579,20.766622 16.9760552,20.7588039 17.0390679,20.7159748 L17.0726192,20.6862192 L17.1063189,20.6395112 L20.849555,14.1560361 C20.8943474,14.0784533 20.8877496,13.9833528 20.8450728,13.9197874 L20.8152598,13.8858249 L20.7616722,13.8476732 L20.0245411,13.4233636 C20.4689111,13.0903647 20.8132168,12.6332792 21.011273,12.1046233 Z M4.80000268,14 L4.80000268,18.9511542 L6.09373092,18.9511542 C6.12640732,18.9511542 6.15830031,18.961159 6.18512164,18.9798235 C6.25765355,19.0302972 6.27553526,19.130013 6.22506156,19.2025449 L6.22506156,19.2025449 L4.13133809,22.2112756 C4.1204988,22.2268519 4.10697499,22.2403758 4.09139872,22.2512151 C4.01886702,22.3016891 3.9191512,22.2838078 3.86867719,22.2112761 L3.86867719,22.2112761 L1.77494041,19.2025537 C1.75627567,19.1757322 1.74627067,19.143839 1.74627067,19.1111624 C1.74627067,19.0227968 1.81790511,18.9511624 1.90627067,18.9511624 L1.90627067,18.9511624 L3.19999732,18.9511624 L3.19999732,14 L4.80000268,14 Z M11.981115,13.9926233 L13.5578983,13.9949618 C13.9508299,14.5948614 13.8778035,15.3794346 13.3167821,15.8362378 C12.8896952,16.1838648 12.2549491,16.2277499 11.6980942,15.9766531 L11.6369675,15.9460974 L11.3830429,16.3874317 C11.3271246,16.484285 11.2166015,16.5316749 11.1055166,16.5183012 L11.0392306,16.502895 L10.9842731,16.4776714 L10.616105,16.2651095 C10.4937974,16.1944952 10.4357472,16.0556495 10.4699508,15.933774 L10.49487,15.8746448 L10.7470686,15.436134 L10.6840667,15.396701 C10.470241,15.2493859 10.285926,15.06459 10.1424015,14.8549755 L10.0425826,14.6933089 L9.97184788,14.5523338 C9.90669354,14.4107518 9.96014753,14.256846 10.087211,14.1929001 L10.1566686,14.1688973 L10.7638993,14.0415439 C10.8681291,14.0194762 10.9791397,14.0558321 11.0522165,14.1320888 L11.0992129,14.1964733 L11.1553718,14.2855271 C11.1971888,14.3423938 11.2474324,14.3939112 11.3041285,14.438015 L11.3937654,14.4983524 L12.1565636,14.9387542 C12.3026533,15.0230991 12.4821756,14.983274 12.5583082,14.8514085 C12.6087124,14.7641058 12.6013416,14.6529109 12.5430846,14.5635289 L12.5020792,14.5128829 L11.981115,13.9926233 Z M18.1736549,1.6 C19.1414541,1.6 19.9342385,2.3656098 19.9961128,3.33461906 L20,3.45676393 L20,10.9432361 C20,11.9282192 19.2459275,12.7332284 18.2936781,12.7960531 L18.1736549,12.8 L3.42634508,12.8 C2.45854594,12.8 1.66576152,12.0343902 1.60388725,11.0653809 L1.6,10.9432361 L1.6,3.45676393 C1.6,2.47178076 2.35407245,1.66677164 3.30632194,1.60394688 L3.42634508,1.6 L18.1736549,1.6 Z M18.1652571,3.23365517 L3.42634508,3.23395225 C3.33615229,3.23395225 3.25761799,3.28832153 3.22446197,3.35691899 L3.2102835,3.39946373 L3.20445269,3.45676393 L3.20445269,10.9432361 C3.20445269,11.032821 3.25771687,11.1118815 3.32645866,11.1455924 L3.36925876,11.1600983 L3.42634508,11.1660477 L18.1736549,11.1660477 C18.2638477,11.1660477 18.342382,11.1116785 18.375538,11.043081 L18.3897165,11.0005363 L18.3955473,10.9432361 L18.3955473,3.45676393 C18.3955473,3.36717897 18.3422831,3.28811847 18.2735413,3.25440764 L18.2307412,3.2399017 L18.1652571,3.23365517 Z M11.0127803,4 C11.1540089,4 11.2737047,4.09121878 11.3050213,4.21386786 L11.3130052,4.27753479 L11.3122432,4.78256859 L11.3881279,4.78604464 C11.646964,4.80671039 11.8989835,4.87459083 12.1280866,4.98436009 L12.2953656,5.07445797 L12.4271112,5.16117872 C12.5543274,5.25121507 12.5849879,5.41122844 12.5069206,5.53013899 L12.45877,5.58565477 L11.9965695,5.99956142 C11.9173377,6.07078748 11.8030218,6.09480768 11.701607,6.06530586 L11.6287147,6.03304544 L11.5355527,5.98400199 C11.4709047,5.95566253 11.4016339,5.93616888 11.3304817,5.92632194 L11.2226852,5.91888668 L10.3418816,5.91888668 C10.1731918,5.91888668 10.0376335,6.04313733 10.0376335,6.19540258 C10.0376335,6.29652502 10.0998257,6.38963881 10.194859,6.43748234 L10.2555851,6.46045794 L11.6903245,6.84523477 C12.5279134,7.06931917 13.0083567,7.90017725 12.7120755,8.67824771 C12.5160209,9.1928449 11.9882572,9.54822357 11.3804583,9.60919489 L11.3122432,9.61329622 L11.3130052,10.1224652 C11.3130052,10.2343018 11.2409842,10.3306042 11.1380951,10.3745647 L11.0729866,10.3943655 L11.0127803,10.4 L10.5876564,10.4 C10.4464277,10.4 10.3267319,10.3087812 10.2954153,10.1861321 L10.2874314,10.1224652 L10.2865864,9.61660437 L10.2123087,9.61395536 C9.95347268,9.59328961 9.70145318,9.52540917 9.47235005,9.41563991 L9.30507108,9.32554203 L9.17332545,9.23882128 C9.04610919,9.14878493 9.01544878,8.98877156 9.09351605,8.86986101 L9.14166667,8.81434523 L9.60386714,8.40043858 C9.68309894,8.32921252 9.79741488,8.30519232 9.89882961,8.33469414 L9.97172191,8.36695456 L10.0648839,8.41599801 C10.1295319,8.44433747 10.1988028,8.46383112 10.2699549,8.47367806 L10.3777514,8.48111332 L11.258555,8.48111332 C11.4272449,8.48111332 11.5628031,8.35686267 11.5628031,8.20459742 C11.5628031,8.103789 11.5008224,8.0111768 11.4056794,7.96289823 L11.3448447,7.93954022 L9.98311133,7.57422984 C9.34265963,7.40235222 8.86439732,6.90835952 8.80652162,6.32609473 C8.72816165,5.5360358 9.36555714,4.85469324 10.2009117,4.7851615 L10.3418816,4.77932406 L10.2865864,4.78091451 L10.2874314,4.27753479 C10.2874314,4.1656982 10.3594524,4.06939582 10.4623416,4.02543533 L10.52745,4.00563451 L10.5876564,4 L11.0127803,4 Z" id="Combined-Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="title">
+                        <path d="M4,0 L514,0 C516.209139,-8.49901461e-16 518,1.790861 518,4 L518,30 L518,30 L0,30 L0,4 C-7.1463071e-16,1.790861 1.790861,-3.82769592e-17 4,0 Z" id="Rectangle" fill="#F2F2F2"></path>
+                        <text id="區塊標題名稱" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" fill="#545454">
+                            <tspan x="227.5" y="20">訂單/借貸</tspan>
+                        </text>
+                    </g>
+                </g>
+                <text id="項目內子項數據總覽" font-family="PingFangTC-Semibold, PingFang TC" font-size="20" font-weight="500" fill="#4C4C4C">
+                    <tspan x="0" y="21">項目內子項數據總覽</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

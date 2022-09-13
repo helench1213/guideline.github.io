@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="250px" viewBox="0 0 400 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>button07</title>
+    <g id="XXXGuideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guideline_按鈕" transform="translate(-552.000000, -1194.000000)">
+            <g id="button07" transform="translate(552.000000, 1194.000000)">
+                <rect id="Rectangle" fill-opacity="0.5" fill="#000000" x="0" y="0" width="400" height="250" rx="8"></rect>
+                <g id="Group-9" transform="translate(50.000000, 45.000000)">
+                    <rect id="Rectangle-Copy-6" fill="#FFFFFF" x="0" y="0" width="300" height="160" rx="8"></rect>
+                    <rect id="Rectangle-Copy-6" fill="#F1F8FE" x="30" y="20" width="240" height="20"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#F1F8FE" x="30" y="55" width="193" height="20"></rect>
+                    <g id="Button/Primary/Basic/Small" transform="translate(214.000000, 116.000000)">
+                        <path d="M0,15.9958262 C0,13.7889923 0,10.2034788 0,8.00417376 L0,3.99582624 C0,1.78899235 1.79979503,0 4.00490831,0 L51.9950917,0 C54.2069415,0 56,1.78429328 56,3.99005301 L56,20.009947 C56,22.2135924 54.200205,24 51.9950917,24 L4.00490831,24 C1.79305852,24 0,22.2034788 0,20.0041738 L0,15.9958262 Z" id="Rectangle-77" fill="#004477"></path>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="14" y="17">確定</tspan>
+                        </text>
+                    </g>
+                    <g id="Button/Primary/Basic/Small-Copy" transform="translate(148.000000, 116.000000)">
+                        <path d="M51.9950917,0.5 C52.9633992,0.5 53.8401303,0.890464421 54.4746149,1.52259551 C55.108114,2.15374485 55.5,3.02582878 55.5,3.99005301 L55.5,3.99005301 L55.5,20.009947 C55.5,20.9727248 55.1068169,21.8442387 54.4732269,22.4754785 C53.8379696,23.1083795 52.960973,23.5 51.9950917,23.5 L51.9950917,23.5 L4.00490831,23.5 C3.03778229,23.5 2.16219867,23.107467 1.5280205,22.4747269 C0.893141443,21.8412876 0.5,20.9669496 0.5,20.0041738 L0.5,20.0041738 L0.5,3.99582624 C0.5,3.03137327 0.893242084,2.15830934 1.52702904,1.52595964 C2.16222079,0.892208343 3.03910977,0.5 4.00490831,0.5 L4.00490831,0.5 Z" id="Bg" stroke="#CCCCCC" fill="#FFFFFF"></path>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                            <tspan x="14" y="16">取消</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

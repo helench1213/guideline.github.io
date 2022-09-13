@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="189px" viewBox="0 0 300 189" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>batch/rule_button01</title>
+    <defs>
+        <filter x="-5.8%" y="-9.3%" width="111.7%" height="118.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="batch/rule_button01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5">
+            <g id="Group-26">
+                <g id="Group-3" filter="url(#filter-1)">
+                    <g id="Group-2">
+                        <rect id="Rectangle" fill="#F8F8FA" x="0" y="-7.10542736e-14" width="300" height="188.847584" rx="5.94795539"></rect>
+                        <path d="M12,-6.67910172e-13 L294.052045,-6.67910172e-13 C297.33701,-6.69401788e-13 300,2.66299034 300,5.94795539 L300,30.1115242 L300,30.1115242 L0,30.1115242 L0,12 C-8.11624501e-16,5.372583 5.372583,-6.66692735e-13 12,-6.67910172e-13 Z" id="Rectangle" fill="#043458"></path>
+                        <path d="M5.94795539,-7.10542736e-14 L22.6765799,-7.10542736e-14 L22.6765799,-7.10542736e-14 L22.6765799,188.847584 L5.94795539,188.847584 C2.66299034,188.847584 6.47944141e-13,186.184593 6.30606678e-13,182.899628 L6.30606678e-13,5.94795539 C6.29316207e-13,2.66299034 2.66299034,-7.31153705e-14 5.94795539,-7.10542736e-14 Z" id="Rectangle" fill="#FFFFFF"></path>
+                    </g>
+                    <g id="Group" transform="translate(32.000000, 18.000000)">
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="259" height="157" rx="5.94795539"></rect>
+                        <g id="table" transform="translate(12.000000, 62.074349)">
+                            <path d="M2,0 L233,0 C234.104569,-2.02906125e-16 235,0.8954305 235,2 L235,15 L235,15 L0,15 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle" fill="#F2F2F2"></path>
+                            <rect id="Rectangle-Copy-9" fill="#F2F2F2" x="0" y="28" width="235" height="1"></rect>
+                            <rect id="Rectangle-Copy-10" fill="#F2F2F2" x="0" y="43" width="235" height="1"></rect>
+                            <rect id="Rectangle-Copy-11" fill="#F2F2F2" x="0" y="58" width="235" height="1"></rect>
+                            <rect id="Rectangle-Copy-14" fill="#F2F2F2" x="0" y="72.9256506" width="235" height="1"></rect>
+                            <path d="M0.5,0.5 L234.5,0.5 L234.5,86 C234.5,86.4142136 234.332107,86.7892136 234.06066,87.0606602 C233.789214,87.3321068 233.414214,87.5 233,87.5 L233,87.5 L2,87.5 C1.58578644,87.5 1.21078644,87.3321068 0.939339828,87.0606602 C0.667893219,86.7892136 0.5,86.4142136 0.5,86 L0.5,86 L0.5,0.5 Z" id="Rectangle-Copy" stroke="#F2F2F2"></path>
+                            <polygon id="Rectangle-Copy-4" fill="#F2F2F2" transform="translate(78.500000, 44.000000) rotate(90.000000) translate(-78.500000, -44.000000) " points="34.5 43.5 122.5 43.5 122.5 44.5 34.5 44.5"></polygon>
+                            <polygon id="Rectangle-Copy-13" fill="#F2F2F2" transform="translate(40.000000, 44.000000) rotate(90.000000) translate(-40.000000, -44.000000) " points="-4 43.5 84 43.5 84 44.5 -4 44.5"></polygon>
+                            <polygon id="Rectangle-Copy-5" fill="#F2F2F2" transform="translate(117.500000, 44.000000) rotate(90.000000) translate(-117.500000, -44.000000) " points="73.5 43.5 161.5 43.5 161.5 44.5 73.5 44.5"></polygon>
+                            <polygon id="Rectangle-Copy-6" fill="#F2F2F2" transform="translate(156.500000, 44.000000) rotate(90.000000) translate(-156.500000, -44.000000) " points="112.5 43.5 200.5 43.5 200.5 44.5 112.5 44.5"></polygon>
+                            <polygon id="Rectangle-Copy-8" fill="#F2F2F2" transform="translate(196.500000, 44.000000) rotate(90.000000) translate(-196.500000, -44.000000) " points="152.5 43.5 240.5 43.5 240.5 44.5 152.5 44.5"></polygon>
+                        </g>
+                    </g>
+                    <path d="M284.802045,18.375 C286.340974,18.375 287.734213,18.9987743 288.742719,20.0072808 C289.751226,21.0157874 290.375,22.4090263 290.375,23.9479554 L290.375,23.9479554 L290.375,37.6993494 L32.375,37.6993494 L32.375,23.9479554 C32.375,22.4090263 32.9987743,21.0157874 34.0072808,20.0072808 C35.0157874,18.9987743 36.4090263,18.375 37.9479554,18.375 L37.9479554,18.375 Z" id="Rectangle" stroke="#F2F2F2" stroke-width="0.75" fill="#FFFFFF"></path>
+                </g>
+                <g id="Group" transform="translate(60.000000, 83.000000)" fill="#FFFFFF" stroke="#CCCCCC" stroke-width="0.625">
+                    <g id="Switch/On">
+                        <rect id="Rectangle-271" x="0.3125" y="0.3125" width="9.375" height="9.375" rx="1.25"></rect>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(60.000000, 97.000000)" fill="#FFFFFF" stroke="#CCCCCC" stroke-width="0.625">
+                    <g id="Switch/On">
+                        <rect id="Rectangle-271" x="0.3125" y="0.3125" width="9.375" height="9.375" rx="1.25"></rect>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(60.000000, 111.000000)" fill="#FFFFFF" stroke="#CCCCCC" stroke-width="0.625">
+                    <g id="Switch/On">
+                        <rect id="Rectangle-271" x="0.3125" y="0.3125" width="9.375" height="9.375" rx="1.25"></rect>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(60.000000, 126.000000)" fill="#FFFFFF" stroke="#CCCCCC" stroke-width="0.625">
+                    <g id="Switch/On">
+                        <rect id="Rectangle-271" x="0.3125" y="0.3125" width="9.375" height="9.375" rx="1.25"></rect>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(60.000000, 141.000000)" fill="#FFFFFF" stroke="#CCCCCC" stroke-width="0.625">
+                    <g id="Switch/On">
+                        <rect id="Rectangle-271" x="0.3125" y="0.3125" width="9.375" height="9.375" rx="1.25"></rect>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(60.000000, 156.000000)" fill="#FFFFFF" stroke="#CCCCCC" stroke-width="0.625">
+                    <g id="Switch/On">
+                        <rect id="Rectangle-271" x="0.3125" y="0.3125" width="9.375" height="9.375" rx="1.25"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Button/Disabled/Solid/Medium" transform="translate(45.000000, 46.000000)">
+                <path d="M64.0040125,0.4 C64.7758649,0.4 65.4746636,0.712822458 65.9806305,1.21792008 C66.4867593,1.72317929 66.8,2.42090394 66.8,3.19049644 L66.8,3.19049644 L66.8,22.4095036 C66.8,23.1795729 66.486526,23.8766902 65.9808325,24.3815148 C65.4743354,24.8871417 64.7749616,25.2 64.0040125,25.2 L64.0040125,25.2 L3.19598749,25.2 C2.42388085,25.2 1.72487369,24.8869901 1.21890394,24.3808661 C0.712928924,23.8747367 0.4,23.1754973 0.4,22.4030378 L0.4,22.4030378 L0.4,3.19696217 C0.4,2.42501592 0.713540371,1.72616242 1.21945387,1.22009463 C1.72587765,0.713516414 2.4251309,0.4 3.19598749,0.4 L3.19598749,0.4 Z" id="Bg" stroke="#CCCCCC" stroke-width="0.8" fill="#F2F2F2"></path>
+                <text id="Text" font-family="PingFangTC-Semibold, PingFang TC" font-size="11.2" font-weight="500" line-spacing="17.6" fill="#B4B4B4">
+                    <tspan x="11.3" y="16">批次動作</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

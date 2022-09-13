@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="420px" height="170px" viewBox="0 0 420 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>check01</title>
+    <g id="XXXGuideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9-Copy">
+            <rect id="Rectangle" x="0" y="0" width="420" height="170"></rect>
+            <g id="Group-4" transform="translate(6.000000, 12.000000)" fill-rule="nonzero">
+                <g id="Radio/Default/Normal" transform="translate(14.000000, 35.000000)">
+                    <g id="Rectangle-271" transform="translate(0.000000, 3.000000)" fill="#FFFFFF" stroke="#CCCCCC">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="15" height="15" rx="2"></rect>
+                    </g>
+                    <g id="Text" transform="translate(24.000000, 0.000000)" fill="#545454" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal">
+                        <text id="Checkbox">
+                            <tspan x="0" y="15">Checkbox</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="font-size:-14px" transform="translate(133.000000, 34.000000)" fill="#4C4C4C" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="17">font-size: 14px</tspan>
+                    </text>
+                </g>
+                <g id="size-width:-Button/Primary/Basic/Medium">
+                    <g id="line" transform="translate(14.000000, 25.500000)" fill="#FF5500">
+                        <polygon id="Line" points="16 9 15 9 15 5 1 5 1 9 0 9 0 0 1 0 1 4 15 4 15 0 16 0"></polygon>
+                    </g>
+                    <g id="Number" transform="translate(0.500000, 0.000000)">
+                        <path d="M2,22 C0.8954305,22 0,21.1045695 0,20 L0,2 C0,0.8954305 0.8954305,0 2,0 L41,0 C42.1045695,0 43,0.8954305 43,2 L43,20 C43,21.1045695 42.1045695,22 41,22 L24.5,22 L21.5,25 L18.5,22 L2,22 Z" id="Bg" fill="#FF5500"></path>
+                        <g id="数据" transform="translate(7.000000, 4.000000)" fill="#FFFFFF" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal">
+                            <text id="16px">
+                                <tspan x="0.05078125" y="11">16px</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Radio/Default/Normal" transform="translate(20.000000, 89.000000)" fill-rule="nonzero">
+                <g id="Rectangle-271" transform="translate(0.000000, 3.000000)" fill="#FFFFFF" stroke="#CCCCCC">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="15" height="15" rx="2"></rect>
+                </g>
+                <g id="Text" transform="translate(24.000000, 0.000000)" fill="#545454" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal">
+                    <text id="未選">
+                        <tspan x="0" y="15">未選</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Radio/Selected/Normal" transform="translate(20.000000, 131.000000)">
+                <g id="Rectangle-271" transform="translate(0.000000, 3.000000)" stroke="#004477">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="15" height="15" rx="2"></rect>
+                </g>
+                <g id="Text" transform="translate(24.000000, 0.000000)" fill="#545454" fill-rule="nonzero" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal">
+                    <text id="未選Hover">
+                        <tspan x="0" y="15">未選Hover</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Radio/Selected/Normal" transform="translate(140.000000, 89.000000)" fill-rule="nonzero">
+                <g id="Text" transform="translate(24.000000, 0.000000)" fill="#545454" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal">
+                    <text id="已選">
+                        <tspan x="0" y="15">已選</tspan>
+                    </text>
+                </g>
+                <g id="Combined-Shape" transform="translate(0.000000, 3.000000)" fill="#004477">
+                    <path d="M14.0059397,0 C15.1072288,0 16,0.894513756 16,1.99406028 L16,14.0059397 C16,15.1072288 15.1054862,16 14.0059397,16 L1.99406028,16 C0.892771196,16 0,15.1054862 0,14.0059397 L0,1.99406028 C0,0.892771196 0.894513756,0 1.99406028,0 L14.0059397,0 Z M12.7945604,4 L11.5920744,4 C11.327989,4 11.0818511,4.12579605 10.928015,4.3346175 L10.928015,4.3346175 L6.8975075,9.81932542 L5.07198505,7.33359541 C4.91814889,7.12225804 4.66944709,6.99897791 4.40792562,6.99897791 L4.40792562,6.99897791 L3.20543961,6.99897791 C3.03878377,6.99897791 2.9413542,7.18515607 3.03878377,7.31849988 L3.03878377,7.31849988 L6.23601201,11.6660115 C6.56163188,12.1113295 7.23594706,12.1113295 7.56156694,11.6660115 L7.56156694,11.6660115 L12.9612162,4.31952197 C13.0586458,4.18617816 12.9612162,4 12.7945604,4 L12.7945604,4 Z" id="Shape"></path>
+                </g>
+            </g>
+            <g id="Radio/Selected/Normal-Copy" transform="translate(140.000000, 131.000000)" fill-rule="nonzero">
+                <g id="Text" transform="translate(24.000000, 0.000000)" fill="#545454" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal">
+                    <text id="部分選取">
+                        <tspan x="0" y="15">部分選取</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(0.000000, 3.000000)">
+                    <rect id="Rectangle-271" stroke="#CCCCCC" fill="#FFFFFF" x="0.5" y="0.5" width="15" height="15" rx="2"></rect>
+                    <path d="M3,4.24628767 C3,3.557982 3.56629539,3 4.24628767,3 L11.7537123,3 C12.442018,3 13,3.56629539 13,4.24628767 L13,11.7537123 C13,12.442018 12.4337046,13 11.7537123,13 L4.24628767,13 C3.557982,13 3,12.4337046 3,11.7537123 L3,4.24628767 Z" id="Rectangle-271-Copy-2" fill="#004477"></path>
+                </g>
+            </g>
+            <g id="Radio/Selected/Normal" transform="translate(260.000000, 89.000000)" fill-rule="nonzero">
+                <g id="Rectangle-271-Copy-5" transform="translate(0.000000, 3.000000)" fill="#E5E5E5" stroke="#CCCCCC">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="15" height="15" rx="2"></rect>
+                </g>
+                <g id="Text" transform="translate(24.000000, 0.000000)" fill="#545454" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal">
+                    <text id="未選禁用">
+                        <tspan x="0" y="15">未選禁用</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Radio/Selected/Normal" transform="translate(260.000000, 131.000000)" fill-rule="nonzero">
+                <g id="Text" transform="translate(24.000000, 0.000000)" fill="#545454" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal">
+                    <text id="取消禁用">
+                        <tspan x="0" y="15">取消禁用</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(0.000000, 3.000000)">
+                    <rect id="Rectangle-271-Copy-2" stroke="#CCCCCC" fill="#E5E5E5" x="0.5" y="0.5" width="15" height="15" rx="2"></rect>
+                    <path d="M12.9612162,4.31952197 L7.56156694,11.6660115 C7.23594706,12.1113295 6.56163188,12.1113295 6.23601201,11.6660115 L3.03878377,7.31849988 C2.9413542,7.18515607 3.03878377,6.99897791 3.20543961,6.99897791 L4.40792562,6.99897791 C4.66944709,6.99897791 4.91814889,7.12225804 5.07198505,7.33359541 L6.8975075,9.81932542 L10.928015,4.3346175 C11.0818511,4.12579605 11.327989,4 11.5920744,4 L12.7945604,4 C12.9612162,4 13.0586458,4.18617816 12.9612162,4.31952197 Z" id="Path" fill="#B4B4B4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

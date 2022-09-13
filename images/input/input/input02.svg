@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="830px" height="107px" viewBox="0 0 830 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>input02</title>
+    <g id="XXXGuideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guideline_數據輸入" transform="translate(-110.000000, -752.000000)">
+            <g id="input02" transform="translate(110.000000, 752.000000)">
+                <rect id="bg" x="0" y="0" width="830" height="107" rx="8"></rect>
+                <g id="Others/Tips/Error" transform="translate(630.000000, 60.000000)">
+                    <g id="Group" transform="translate(0.000000, 2.037037)">
+                        <rect id="Rectangle" fill="#F5222D" x="0" y="0" width="82" height="22" rx="4"></rect>
+                        <text id="此欄位必填" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="5" y="15">此欄位為必填</tspan>
+                        </text>
+                    </g>
+                    <polygon id="Triangle-1" fill="#F5222D" points="15 0 10 5 20 5"></polygon>
+                </g>
+                <g id="Select/Medium/Placeholder-Copy-4" transform="translate(630.000000, 25.000000)">
+                    <path d="M176.009394,0.5 C176.973525,0.5 177.846323,0.891510214 178.477937,1.52528451 C179.10962,2.15912821 179.5,3.03517539 179.5,4.0042577 L179.5,4.0042577 L179.5,27.9957423 C179.5,28.9641957 179.109953,29.8410666 178.477688,30.4754947 C177.846792,31.1085481 176.974765,31.5 176.009394,31.5 L176.009394,31.5 L3.99060623,31.5 C3.02647481,31.5 2.15367672,31.1084898 1.5220631,30.4747155 C0.890380331,29.8408718 0.5,28.9648246 0.5,27.9957423 L0.5,27.9957423 L0.5,4.0042577 C0.5,3.03580432 0.890047312,2.1589334 1.52231245,1.52450535 C2.15320766,0.891451911 3.0252352,0.5 3.99060623,0.5 L3.99060623,0.5 Z" id="Rectangle-26-Copy-23" stroke="#F5222D" fill="#FFFFFF"></path>
+                    <g id="Group" transform="translate(141.000000, 0.000000)">
+                        <path d="M38.5,0.5 L38.5,31.5 L3.99040483,31.5 C3.02633193,31.5 2.15358795,31.1084918 1.52201307,30.4747244 C0.890359898,29.8408784 0.5,28.9648275 0.5,27.9957423 L0.5,27.9957423 L0.5,4.0042577 C0.5,3.03676972 0.891339027,2.16081213 1.52336344,1.52659362 C2.15525865,0.892504761 3.02784761,0.5 3.99040483,0.5 L3.99040483,0.5 L38.5,0.5 Z" id="Rectangle" stroke="#F5222D" fill="#FFFFFF" transform="translate(19.500000, 16.000000) scale(-1, 1) translate(-19.500000, -16.000000) "></path>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#F5222D">
+                            <tspan x="7.5" y="21">8/5</tspan>
+                        </text>
+                    </g>
+                    <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                        <tspan x="10" y="21">範例文字範例文字</tspan>
+                    </text>
+                </g>
+                <g id="Select/Medium/Selected-Copy-4" transform="translate(220.000000, 25.000000)">
+                    <path d="M176.009394,0.5 C176.973525,0.5 177.846323,0.891510214 178.477937,1.52528451 C179.10962,2.15912821 179.5,3.03517539 179.5,4.0042577 L179.5,4.0042577 L179.5,27.9957423 C179.5,28.9641957 179.109953,29.8410666 178.477688,30.4754947 C177.846792,31.1085481 176.974765,31.5 176.009394,31.5 L176.009394,31.5 L3.99060623,31.5 C3.02647481,31.5 2.15367672,31.1084898 1.5220631,30.4747155 C0.890380331,29.8408718 0.5,28.9648246 0.5,27.9957423 L0.5,27.9957423 L0.5,4.0042577 C0.5,3.03580432 0.890047312,2.1589334 1.52231245,1.52450535 C2.15320766,0.891451911 3.0252352,0.5 3.99060623,0.5 L3.99060623,0.5 Z" id="Rectangle" stroke="#CCCCCC" fill="#FFFFFF"></path>
+                    <g id="Group" transform="translate(132.000000, 0.000000)">
+                        <path d="M47.5,0.5 L47.5,31.5 L4.00989318,31.5 C3.04015798,31.5 2.16217799,31.108292 1.52685581,30.4738627 C0.892338401,29.8402371 0.5,28.9645478 0.5,27.9957423 L0.5,27.9957423 L0.5,4.0042577 C0.5,3.03652388 0.89260964,2.16043117 1.52761508,1.52631817 C2.16269312,0.892132658 3.04018103,0.5 4.00989318,0.5 L4.00989318,0.5 L47.5,0.5 Z" id="Rectangle" stroke="#CCCCCC" fill="#F2F2F2" transform="translate(24.000000, 16.000000) scale(-1, 1) translate(-24.000000, -16.000000) "></path>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                            <tspan x="7.9" y="20">4/20</tspan>
+                        </text>
+                    </g>
+                    <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                        <tspan x="10" y="20">範例文字</tspan>
+                    </text>
+                </g>
+                <g id="Select/Medium/Selected-Copy-6" transform="translate(20.000000, 25.000000)">
+                    <path d="M176.009394,0.5 C176.973525,0.5 177.846323,0.891510214 178.477937,1.52528451 C179.10962,2.15912821 179.5,3.03517539 179.5,4.0042577 L179.5,4.0042577 L179.5,27.9957423 C179.5,28.9641957 179.109953,29.8410666 178.477688,30.4754947 C177.846792,31.1085481 176.974765,31.5 176.009394,31.5 L176.009394,31.5 L3.99060623,31.5 C3.02647481,31.5 2.15367672,31.1084898 1.5220631,30.4747155 C0.890380331,29.8408718 0.5,28.9648246 0.5,27.9957423 L0.5,27.9957423 L0.5,4.0042577 C0.5,3.03580432 0.890047312,2.1589334 1.52231245,1.52450535 C2.15320766,0.891451911 3.0252352,0.5 3.99060623,0.5 L3.99060623,0.5 Z" id="Rectangle" stroke="#CCCCCC" fill="#FFFFFF"></path>
+                    <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#B4B4B4">
+                        <tspan x="10" y="21">請輸入</tspan>
+                    </text>
+                    <text id="Text" opacity="0" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#CCCCCC">
+                        <tspan x="224.15" y="21">0/50</tspan>
+                    </text>
+                    <g id="Group" transform="translate(132.000000, 0.000000)">
+                        <path d="M47.5,0.5 L47.5,31.5 L4.00989318,31.5 C3.04015798,31.5 2.16217799,31.108292 1.52685581,30.4738627 C0.892338401,29.8402371 0.5,28.9645478 0.5,27.9957423 L0.5,27.9957423 L0.5,4.0042577 C0.5,3.03652388 0.89260964,2.16043117 1.52761508,1.52631817 C2.16269312,0.892132658 3.04018103,0.5 4.00989318,0.5 L4.00989318,0.5 L47.5,0.5 Z" id="Rectangle" stroke="#CCCCCC" fill="#F2F2F2" transform="translate(24.000000, 16.000000) scale(-1, 1) translate(-24.000000, -16.000000) "></path>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                            <tspan x="7.9" y="20">0/20</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Select/Medium/Selected-Copy-5" transform="translate(420.000000, 25.000000)">
+                    <path d="M176.009394,0.5 C176.973525,0.5 177.846323,0.891510214 178.477937,1.52528451 C179.10962,2.15912821 179.5,3.03517539 179.5,4.0042577 L179.5,4.0042577 L179.5,27.9957423 C179.5,28.9641957 179.109953,29.8410666 178.477688,30.4754947 C177.846792,31.1085481 176.974765,31.5 176.009394,31.5 L176.009394,31.5 L3.99060623,31.5 C3.02647481,31.5 2.15367672,31.1084898 1.5220631,30.4747155 C0.890380331,29.8408718 0.5,28.9648246 0.5,27.9957423 L0.5,27.9957423 L0.5,4.0042577 C0.5,3.03580432 0.890047312,2.1589334 1.52231245,1.52450535 C2.15320766,0.891451911 3.0252352,0.5 3.99060623,0.5 L3.99060623,0.5 Z" id="Rectangle" stroke="#CCCCCC" fill="#F2F2F2"></path>
+                    <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#B4B4B4">
+                        <tspan x="10" y="20">範例文字</tspan>
+                    </text>
+                    <g id="字數" transform="translate(132.000000, 0.000000)">
+                        <path d="M47.5,0.5 L47.5,31.5 L4.00989318,31.5 C3.04015798,31.5 2.16217799,31.108292 1.52685581,30.4738627 C0.892338401,29.8402371 0.5,28.9645478 0.5,27.9957423 L0.5,27.9957423 L0.5,4.0042577 C0.5,3.03652388 0.89260964,2.16043117 1.52761508,1.52631817 C2.16269312,0.892132658 3.04018103,0.5 4.00989318,0.5 L4.00989318,0.5 L47.5,0.5 Z" id="Rectangle" stroke="#CCCCCC" fill="#F2F2F2" transform="translate(24.000000, 16.000000) scale(-1, 1) translate(-24.000000, -16.000000) "></path>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                            <tspan x="12.1" y="20">4/5</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

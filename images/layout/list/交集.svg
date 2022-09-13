@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="114px" viewBox="0 0 300 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>交集</title>
+    <g id="交集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F2F2F2" x="0" y="0" width="300" height="114"></rect>
+        <g id="Group-4" transform="translate(18.000000, 20.000000)">
+            <g id="Group-2">
+                <rect id="Rectangle-Copy-6-Copy" stroke="#E5E5E5" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="265" height="40" rx="5.78313255"></rect>
+                <g id="Group-3" transform="translate(147.000000, 12.000000)">
+                    <rect id="Rectangle-40-Copy-13" fill="#004477" fill-rule="nonzero" x="46" y="0" width="40" height="16" rx="2"></rect>
+                    <path d="M37.5027084,1 C37.9160889,1 38.2903336,1.16757253 38.5613105,1.43811094 C38.8322215,1.70858367 39,2.08205484 39,2.49406028 L39,2.49406028 L39,14.5059397 C39,14.918692 38.8329047,15.2923905 38.5620872,15.5627699 C38.2913248,15.8330942 37.9169982,16 37.5027084,16 L37.5027084,16 L1.49729162,16 C1.08305215,16 0.7078669,15.8336012 0.436692146,15.5623165 C0.166463893,15.2919787 0,14.9177602 0,14.5018986 L0,14.5018986 L0,2.49810135 C0,2.08411665 0.16717841,1.70925692 0.438270807,1.43805461 C0.70894168,1.16727401 1.0831181,1 1.49729162,1 L1.49729162,1 L37.5027084,1 Z" id="Bg" stroke="#CCCCCC" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polyline id="Path" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="106 5 99 12 92 5"></polyline>
+                </g>
+                <g id="Group" transform="translate(239.000000, 17.000000)"></g>
+                <rect id="Rectangle-Copy-7-Copy-2" fill="#ECEDF1" fill-rule="nonzero" x="19" y="13" width="58" height="15"></rect>
+                <rect id="Rectangle-Copy-7-Copy-3" fill="#ECEDF1" fill-rule="nonzero" x="83" y="13" width="58" height="15"></rect>
+            </g>
+            <g id="tag" transform="translate(16.729392, 48.000000)" fill-rule="nonzero">
+                <path d="M52.4788732,3.29582977 C53.3189684,3.29582977 54,4.19126027 54,5.29582977 L54,23.2958298 C54,24.4003993 53.3189684,25.2958298 52.4788732,25.2958298 L1.52112676,25.2958298 C0.681031648,25.2958298 0,24.4003993 0,23.2958298 L0,17.2958298 L0,11.2958298 L0,5.29582977 C0,4.19126027 0.681031648,3.29582977 1.52112676,3.29582977 C10.3187198,3.29582977 16.9169145,3.29582977 21.315711,3.29582977 C22.8099441,3.29582977 24.7631773,0 26.5798198,0 C28.3483706,0 29.9719085,3.29582977 32.0460243,3.29582977 C35.8256403,3.29582977 42.63659,3.29582977 52.4788732,3.29582977 Z" id="Bg" fill="#50E3C2"></path>
+                <g id="数据" transform="translate(9.608108, 5.295830)" fill="#FFFFFF" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal">
+                    <text id="條件-A">
+                        <tspan x="0" y="13">條件 A</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="tag-copy" transform="translate(83.729392, 48.000000)" fill-rule="nonzero">
+                <path d="M52.4788732,3.29582977 C53.3189684,3.29582977 54,4.19126027 54,5.29582977 L54,23.2958298 C54,24.4003993 53.3189684,25.2958298 52.4788732,25.2958298 L1.52112676,25.2958298 C0.681031648,25.2958298 0,24.4003993 0,23.2958298 L0,17.2958298 L0,11.2958298 L0,5.29582977 C0,4.19126027 0.681031648,3.29582977 1.52112676,3.29582977 C10.3187198,3.29582977 16.9169145,3.29582977 21.315711,3.29582977 C22.8099441,3.29582977 24.7631773,0 26.5798198,0 C28.3483706,0 29.9719085,3.29582977 32.0460243,3.29582977 C35.8256403,3.29582977 42.63659,3.29582977 52.4788732,3.29582977 Z" id="Bg" fill="#50E3C2"></path>
+                <g id="数据" transform="translate(9.608108, 5.295830)" fill="#FFFFFF" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal">
+                    <text id="條件-B">
+                        <tspan x="0" y="13">條件 B</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

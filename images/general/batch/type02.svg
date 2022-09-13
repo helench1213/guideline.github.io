@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="289px" height="432px" viewBox="0 0 289 432" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>batch/type02</title>
+    <defs>
+        <path d="M12.2458984,4.10292969 C12.2458984,4.23417969 12.2021484,4.36679687 12.1146484,4.47753906 L7.45390625,10.2716797 C7.34042969,10.4125 7.16953125,10.4945312 6.98769531,10.4945312 C6.80722656,10.4945312 6.63496094,10.4125 6.52285156,10.2716797 L1.88671875,4.50214844 C1.68027344,4.24511719 1.72128906,3.86914062 1.97832031,3.66269531 C2.23535156,3.45625 2.61132813,3.49726562 2.81777344,3.75429687 L6.9890625,8.94414062 L11.1835938,3.72832031 C11.3900391,3.47128906 11.7660156,3.43027344 12.0230469,3.63671875 C12.1693359,3.75566406 12.2458984,3.92792969 12.2458984,4.10292969 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="200" height="237" rx="4"></rect>
+        <filter x="-6.5%" y="-4.6%" width="113.0%" height="111.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="228" height="336" rx="4"></rect>
+        <filter x="-5.7%" y="-3.3%" width="111.4%" height="107.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="batch/type02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-22" transform="translate(30.000000, 30.000000)">
+            <g id="Select/Medium/Selected-Copy-8">
+                <path d="M96.0026765,0.5 C96.9687595,0.5 97.8433626,0.891579006 98.4762679,1.52558221 C99.108938,2.15934979 99.5,3.0352722 99.5,4.0042577 L99.5,4.0042577 L99.5,27.9957423 C99.5,28.9623915 99.1069641,29.8375203 98.4740846,30.4714977 C97.8400628,31.1066193 96.9651376,31.5 96.0026765,31.5 L96.0026765,31.5 L3.99732351,31.5 C3.03124049,31.5 2.15663738,31.108421 1.52373208,30.4744178 C0.891061997,29.8406502 0.5,28.9647278 0.5,27.9957423 L0.5,27.9957423 L0.5,4.0042577 C0.5,3.03760854 0.893035869,2.16247973 1.52591541,1.52850233 C2.15993722,0.893380683 3.03486238,0.5 3.99732351,0.5 L3.99732351,0.5 Z" id="Rectangle-26-Copy-23" stroke="#CCCCCC" fill="#FFFFFF"></path>
+                <g id="Group" transform="translate(76.000000, 9.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#7F7F7F" xlink:href="#path-1"></use>
+                </g>
+                <text id="Text" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="22" fill="#545454">
+                    <tspan x="10" y="20">批次動作</tspan>
+                </text>
+            </g>
+            <g id="Rectangle" transform="translate(0.000000, 36.000000)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <g id="Group-2" transform="translate(0.000000, 36.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <g id="Group-5" transform="translate(0.000000, 194.000000)">
+                    <text id="匯出已選-SKU-資料" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                        <tspan x="32" y="59">匯出已選 SKU 資料</tspan>
+                    </text>
+                    <text id="匯出已選-SKU-資料及圖檔" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                        <tspan x="32" y="89">匯出已選 SKU 資料及圖檔</tspan>
+                    </text>
+                    <text id="匯出全部-SKU-資料" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                        <tspan x="32" y="119">匯出全部 SKU 資料</tspan>
+                    </text>
+                    <g id="Group-20">
+                        <rect id="Rectangle" x="0" y="0" width="229" height="36"></rect>
+                        <text id="匯出" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" line-spacing="20" fill="#B4B4B4">
+                            <tspan x="16" y="21">匯出</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-4">
+                    <text id="停產註記" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                        <tspan x="32" y="59">停產註記</tspan>
+                    </text>
+                    <text id="取消停產註記" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                        <tspan x="32" y="89">取消停產註記</tspan>
+                    </text>
+                    <text id="停用" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                        <tspan x="32" y="119">停用</tspan>
+                    </text>
+                    <text id="取消停用" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                        <tspan x="32" y="149">取消停用</tspan>
+                    </text>
+                    <text id="編輯供應商" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                        <tspan x="32" y="179">編輯供應商</tspan>
+                    </text>
+                    <g id="Group-3">
+                        <path d="M4,0 L224,0 C226.209139,-4.05812251e-16 228,1.790861 228,4 L228,36 L228,36 L0,36 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle-Copy"></path>
+                        <text id="動作" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" line-spacing="20" fill="#B4B4B4">
+                            <tspan x="16" y="21">動作</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

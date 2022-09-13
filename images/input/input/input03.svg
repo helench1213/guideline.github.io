@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="830px" height="175px" viewBox="0 0 830 175" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>input03</title>
+    <g id="XXXGuideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guideline_數據輸入" transform="translate(-110.000000, -859.000000)">
+            <g id="input03" transform="translate(110.000000, 859.000000)">
+                <rect id="bg" x="0" y="0" width="830" height="175" rx="8"></rect>
+                <g id="Primary-Button" transform="translate(20.000000, 25.000000)">
+                    <g id="Others/Tips/Error" transform="translate(620.000000, 104.000000)">
+                        <g id="Group" transform="translate(0.000000, 2.037037)">
+                            <rect id="Rectangle" fill="#F5222D" x="0" y="0" width="150" height="22" rx="4"></rect>
+                            <text id="此欄位必填" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="5" y="15">請輸入1~50個字/特殊符號</tspan>
+                            </text>
+                        </g>
+                        <polygon id="Triangle-1" fill="#F5222D" points="15 0 10 5 20 5"></polygon>
+                    </g>
+                    <g id="Input/Medium/style2/placeholder">
+                        <g id="input">
+                            <path d="M176.009394,0.5 C176.972629,0.5 177.844642,0.891653768 178.476166,1.52326959 C179.108574,2.15576994 179.5,3.0290032 179.5,3.99118905 L179.5,3.99118905 L179.5,78.182724 C179.5,79.1473787 179.110087,80.0207381 178.478265,80.6526529 C177.847222,81.2837878 176.974952,81.673913 176.009394,81.673913 L176.009394,81.673913 L3.99060623,81.673913 C3.02737147,81.673913 2.15535763,81.2822593 1.52383404,80.6506435 C0.891426053,80.0181431 0.5,79.1449098 0.5,78.182724 L0.5,78.182724 L0.5,3.99118905 C0.5,3.02653433 0.889912566,2.15317494 1.52173508,1.52126015 C2.15277786,0.890125209 3.02504817,0.5 3.99060623,0.5 L3.99060623,0.5 Z" id="Rectangle" stroke="#CCCCCC" fill="#FFFFFF"></path>
+                            <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#B4B4B4">
+                                <tspan x="10" y="21">請輸入</tspan>
+                                <tspan x="10" y="43"></tspan>
+                            </text>
+                            <g id="icon" transform="translate(172.000000, 74.173913)" stroke="#979797" stroke-linejoin="round">
+                                <path d="M6,0 L0,6 L6,0 Z" id="Rectangle"></path>
+                                <path d="M6,3 L3,6 L6,3 Z" id="Rectangle"></path>
+                            </g>
+                        </g>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" line-spacing="20" fill="#B4B4B4">
+                            <tspan x="2" y="97.7282609">0/50</tspan>
+                        </text>
+                    </g>
+                    <g id="Input/Medium/style2/placeholder-Copy-2" transform="translate(200.000000, 0.000000)">
+                        <g id="Group" transform="translate(0.000000, 87.000000)" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" line-spacing="20">
+                            <text id="Text" fill="#545454">
+                                <tspan x="0" y="13">30</tspan>
+                            </text>
+                            <text id="Text" fill="#B4B4B4">
+                                <tspan x="8" y="13">  /50</tspan>
+                            </text>
+                        </g>
+                        <g id="input">
+                            <path d="M176.009394,0.5 C176.972702,0.5 177.84472,0.892612254 178.476155,1.5261665 C179.108722,2.16085567 179.5,3.0373658 179.5,4.00399917 L179.5,4.00399917 L179.5,81.9960008 C179.5,82.9643791 179.109955,83.8411805 178.477699,84.4755589 C177.846801,85.1085743 176.974768,85.5 176.009394,85.5 L176.009394,85.5 L3.99060623,85.5 C3.02729782,85.5 2.15527963,85.1073877 1.52384455,84.4738335 C0.891278352,83.8391443 0.5,82.9626342 0.5,81.9960008 L0.5,81.9960008 L0.5,4.00399917 C0.5,3.03562093 0.890044644,2.15881948 1.52230106,1.52444114 C2.15319918,0.891425653 3.02523151,0.5 3.99060623,0.5 L3.99060623,0.5 Z" id="Rectangle" stroke="#CCCCCC" fill="#FFFFFF"></path>
+                            <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="10" y="25">12345</tspan>
+                                <tspan x="10" y="47">12345</tspan>
+                                <tspan x="10" y="69">12345</tspan>
+                            </text>
+                            <g id="icon" transform="translate(172.000000, 78.000000)" stroke="#979797" stroke-linejoin="round">
+                                <path d="M6,0 L0,6 L6,0 Z" id="Rectangle"></path>
+                                <path d="M6,3 L3,6 L6,3 Z" id="Rectangle"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Input/Medium/style2/placeholder-Copy-4" transform="translate(400.000000, 0.000000)">
+                        <path d="M176.009394,0.5 C176.972604,0.5 177.844563,0.892196493 178.476031,1.52473298 C179.10858,2.15835258 179.5,3.03320336 179.5,3.99736031 L179.5,3.99736031 L179.5,79.1709565 C179.5,80.137405 179.110024,81.0124227 178.477992,81.6455244 C177.847019,82.2775653 176.974863,82.6683168 176.009394,82.6683168 L176.009394,82.6683168 L3.99060623,82.6683168 C3.02739583,82.6683168 2.15543659,82.2761203 1.52396885,81.6435839 C0.891419836,81.0099642 0.5,80.1351135 0.5,79.1709565 L0.5,79.1709565 L0.5,3.99736031 C0.5,3.03091183 0.889976158,2.15589411 1.52200808,1.52279247 C2.15298108,0.890751554 3.02513668,0.5 3.99060623,0.5 L3.99060623,0.5 Z" id="Rectangle" stroke="#CCCCCC" fill="#F2F2F2"></path>
+                        <g id="Group" transform="translate(172.000000, 76.000000)" stroke="#979797" stroke-linejoin="round">
+                            <path d="M6,0 L0,6 L6,0 Z" id="Rectangle"></path>
+                            <path d="M6,3 L3,6 L6,3 Z" id="Rectangle"></path>
+                        </g>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#B4B4B4">
+                            <tspan x="10" y="20">12345</tspan>
+                            <tspan x="10" y="42">12345</tspan>
+                            <tspan x="10" y="64">12345</tspan>
+                        </text>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" line-spacing="20" fill="#B4B4B4">
+                            <tspan x="0" y="98">30/50</tspan>
+                        </text>
+                    </g>
+                    <g id="Input/Medium/style2/placeholder" transform="translate(610.000000, 0.000000)">
+                        <g id="input">
+                            <path d="M176.009394,0.5 C176.972604,0.5 177.844563,0.892196493 178.476031,1.52473298 C179.10858,2.15835258 179.5,3.03320336 179.5,3.99736031 L179.5,3.99736031 L179.5,79.1709565 C179.5,80.137405 179.110024,81.0124227 178.477992,81.6455244 C177.847019,82.2775653 176.974863,82.6683168 176.009394,82.6683168 L176.009394,82.6683168 L3.99060623,82.6683168 C3.02739583,82.6683168 2.15543659,82.2761203 1.52396885,81.6435839 C0.891419836,81.0099642 0.5,80.1351135 0.5,79.1709565 L0.5,79.1709565 L0.5,3.99736031 C0.5,3.03091183 0.889976158,2.15589411 1.52200808,1.52279247 C2.15298108,0.890751554 3.02513668,0.5 3.99060623,0.5 L3.99060623,0.5 Z" id="Rectangle" stroke="#F5222D" fill="#FFFFFF"></path>
+                            <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="10" y="21">12345</tspan>
+                            </text>
+                            <g id="icon" transform="translate(172.000000, 75.168317)" stroke="#979797" stroke-linejoin="round">
+                                <path d="M6,0 L0,6 L6,0 Z" id="Rectangle"></path>
+                                <path d="M6,3 L3,6 L6,3 Z" id="Rectangle"></path>
+                            </g>
+                        </g>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" line-spacing="20" fill="#B4B4B4">
+                            <tspan x="0" y="98">3/50</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

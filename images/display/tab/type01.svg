@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="425px" height="50px" viewBox="0 0 425 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tab/type01</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="425" height="50"></rect>
+        <filter x="-1.6%" y="-10.0%" width="103.3%" height="128.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="tab/type01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tab">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-29" transform="translate(36.000000, 0.000000)">
+                <g id="Group-28">
+                    <rect id="bg-copy-2" fill="#FFFFFF" x="0" y="0" width="131" height="50"></rect>
+                    <g id="Group-19" transform="translate(15.000000, 14.000000)">
+                        <text id="Text" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" line-spacing="22" fill="#004477">
+                            <tspan x="0" y="17">已選中</tspan>
+                        </text>
+                        <g id="Group-Copy" transform="translate(56.000000, 2.000000)">
+                            <rect id="Rectangle-193" fill="#F5A700" x="0" y="0" width="46" height="18" rx="9"></rect>
+                            <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                                <tspan x="8.21" y="14">1,290</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <polygon id="Rectangle-3" fill="#004477" points="0 48 131 48 131 50 0 50"></polygon>
+                </g>
+                <g id="Group-24" transform="translate(131.000000, 0.000000)">
+                    <rect id="Rectangle-34-Copy" fill="#FFFFFF" x="0" y="0" width="122" height="50"></rect>
+                    <g id="Group-26" transform="translate(20.000000, 14.000000)">
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal" fill="#4C4C4C">
+                            <tspan x="0" y="17">未選中</tspan>
+                        </text>
+                        <g id="Group-25" transform="translate(56.000000, 2.000000)">
+                            <rect id="Rectangle-193" fill="#7F7F7F" x="0" y="0" width="30" height="18" rx="9"></rect>
+                            <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="8" y="14">99</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-27" transform="translate(253.000000, 0.000000)">
+                    <rect id="Rectangle-34" fill="#FFFFFF" x="0" y="0" width="100" height="50"></rect>
+                    <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal" fill="#4C4C4C">
+                        <tspan x="34" y="31">全部</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

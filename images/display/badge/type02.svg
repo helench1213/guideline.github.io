@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="350px" height="150px" viewBox="0 0 350 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>badge/type02</title>
+    <g id="badge/type02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(86.000000, 37.000000)">
+            <g id="Group-3">
+                <g id="Group">
+                    <circle id="Oval" fill="#F2F2F2" cx="8" cy="15" r="8"></circle>
+                    <text id="停用" font-family="PingFangTC-Regular, PingFang TC" font-size="20" font-weight="normal" fill="#4C4C4C">
+                        <tspan x="24" y="21">停用</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy" transform="translate(114.000000, 0.000000)">
+                    <circle id="Oval" fill="#1AB643" cx="8" cy="15" r="8"></circle>
+                    <text id="啟用" font-family="PingFangTC-Regular, PingFang TC" font-size="20" font-weight="normal" fill="#4C4C4C">
+                        <tspan x="24" y="21">啟用</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-2" transform="translate(0.000000, 48.000000)">
+                <g id="Group-Copy-2">
+                    <circle id="Oval" fill="#FF8500" cx="8" cy="15" r="8"></circle>
+                    <text id="警示" font-family="PingFangTC-Regular, PingFang TC" font-size="20" font-weight="normal" fill="#4C4C4C">
+                        <tspan x="24" y="21">警示</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-4" transform="translate(114.000000, 0.000000)">
+                    <circle id="Oval" fill="#F23F44" cx="8" cy="15" r="8"></circle>
+                    <text id="異常" font-family="PingFangTC-Regular, PingFang TC" font-size="20" font-weight="normal" fill="#4C4C4C">
+                        <tspan x="24" y="21">異常</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

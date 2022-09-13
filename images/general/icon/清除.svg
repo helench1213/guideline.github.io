@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="30px" viewBox="0 0 24 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>清除</title>
+    <g id="XXXGuideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guideline_圖標" transform="translate(-863.000000, -1865.000000)" stroke="#7F7F7F" stroke-width="1.5">
+            <g id="03" transform="translate(70.000000, 1675.000000)">
+                <g id="動作-Icon" transform="translate(40.000000, 80.000000)">
+                    <g id="icon" transform="translate(10.000000, 20.000000)">
+                        <g id="通路管理-copy-16" transform="translate(720.000000, 90.000000)">
+                            <g id="Group" transform="translate(20.000000, 0.000000)">
+                                <g id="Group-7" transform="translate(3.000000, 1.500000)">
+                                    <path d="M22,11.25 C22.345178,11.25 22.657678,11.389911 22.8838835,11.6161165 C23.110089,11.842322 23.25,12.154822 23.25,12.5 L23.25,12.5 L23.25,27.75 L0.75,27.75 L0.75,12.5 C0.75,12.154822 0.889911016,11.842322 1.11611652,11.6161165 C1.34232203,11.389911 1.65482203,11.25 2,11.25 L2,11.25 Z" id="Rectangle"></path>
+                                    <line x1="7.5" y1="22.5" x2="7.5" y2="27" id="Path-3" stroke-linecap="round"></line>
+                                    <line x1="12" y1="24" x2="12" y2="27" id="Path-3" stroke-linecap="round"></line>
+                                    <line x1="16.5" y1="21" x2="16.5" y2="27" id="Path-3" stroke-linecap="round"></line>
+                                    <line x1="1.4934082" y1="16.5" x2="13.4817595" y2="16.5" id="Path-3" stroke-linecap="round"></line>
+                                    <line x1="17.6663818" y1="16.5" x2="19.4553924" y2="16.5" id="Path-3" stroke-linecap="round"></line>
+                                    <path d="M8.4,12 L8.4,3.6 C8.4,1.6117749 10.0117749,0 12,0 C13.9882251,0 15.6,1.6117749 15.6,3.6 L15.6,12" id="Path"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

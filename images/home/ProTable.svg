@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="156px" height="104px" viewBox="0 0 156 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ProTable</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ProTable" fill-rule="nonzero">
+            <rect id="矩形备份-3" stroke="#E1E1E1" fill="#FFFFFF" x="0.5" y="0.5" width="155" height="22" rx="2"></rect>
+            <rect id="矩形备份-9" fill-opacity="0.06" fill="#000000" x="9" y="7" width="32" height="8" rx="2"></rect>
+            <rect id="矩形备份-12" fill-opacity="0.06" fill="#000000" x="49" y="7" width="32" height="8" rx="2"></rect>
+            <rect id="矩形备份-13" fill-opacity="0.06" fill="#000000" x="89" y="7" width="32" height="8" rx="2"></rect>
+            <rect id="矩形备份-11" fill="#1791FF" x="132" y="7" width="16" height="8" rx="2"></rect>
+            <rect id="矩形备份-3" stroke="#E1E1E1" fill="#FFFFFF" x="0.5" y="28.5" width="155" height="75" rx="2"></rect>
+            <path d="M72,-42 L82,-42 C83.1045695,-42 84,-41.1045695 84,-40 L84,110 C84,111.104569 83.1045695,112 82,112 L72,112 L72,112 L72,-42 Z" id="矩形复制-40" fill="#E5F7FF" transform="translate(78.000000, 35.000000) rotate(-90.000000) translate(-78.000000, -35.000000) "></path>
+            <g id="｜｜｜｜｜｜｜｜｜" transform="translate(10.000000, 50.000000)" font-family="PingFangSC-Regular, PingFang SC" font-size="7" font-weight="normal">
+                <text id="||||||||||||||||||||" fill-opacity="0.3" fill="#000000">
+                    <tspan x="0" y="7">|||||||||||||||||||||||||||||||||||</tspan>
+                </text>
+                <text id="|||||||||||||||||||" fill-opacity="0.3" fill="#000000">
+                    <tspan x="68" y="7">|||||||||||||||||||</tspan>
+                </text>
+                <text id="|||||||||||" fill="#1791FF">
+                    <tspan x="119" y="7">|||||||||||</tspan>
+                </text>
+                <text id="|||||||||||||||||||" fill-opacity="0.3" fill="#000000">
+                    <tspan x="0" y="26">|||||||||||||||||||</tspan>
+                </text>
+                <text id="|||||||||||||||||||-copy" fill-opacity="0.3" fill="#000000">
+                    <tspan x="68" y="26">|||||||||||||||||||</tspan>
+                </text>
+                <text id="|||||||||||" fill="#1791FF">
+                    <tspan x="119" y="26">|||||||||||</tspan>
+                </text>
+                <text id="||||||||||||||||||||" fill-opacity="0.3" fill="#000000">
+                    <tspan x="0" y="45">|||||||||||||||||||||||||||</tspan>
+                </text>
+                <text id="|||||||||||||||||||" fill-opacity="0.3" fill="#000000">
+                    <tspan x="68" y="45">|||||||||||||||||||</tspan>
+                </text>
+                <text id="|||||||||||" fill="#1791FF">
+                    <tspan x="119" y="45">|||||||||||</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

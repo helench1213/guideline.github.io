@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="50px" viewBox="0 0 372 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tab/type02</title>
+    <defs>
+        <path d="M8,0 L124,0 C128.418278,-8.11624501e-16 132,3.581722 132,8 L132,50 L132,50 L0,50 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="path-1"></path>
+        <filter x="-5.3%" y="-10.0%" width="110.6%" height="128.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="tab/type02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3-Copy">
+            <g id="Title/Area-Copy-2" transform="translate(272.000000, 0.000000)">
+                <path d="M8,0 L92,0 C96.418278,-8.11624501e-16 100,3.581722 100,8 L100,50 L100,50 L0,50 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="Rectangle-Copy" fill="#F2F2F2"></path>
+                <text id="全部" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                    <tspan x="34" y="31">全部</tspan>
+                </text>
+            </g>
+            <g id="Title/Area">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="已選中" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" line-spacing="24" fill="#004477">
+                    <tspan x="20" y="30">已選中</tspan>
+                </text>
+                <g id="Group" transform="translate(76.000000, 15.000000)">
+                    <rect id="Rectangle-193" fill="#F1F8FE" x="0" y="0" width="36" height="18" rx="9"></rect>
+                    <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" line-spacing="20" fill="#004477">
+                        <tspan x="7.2" y="13">999</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Title/Area-Copy-3" transform="translate(136.000000, 0.000000)">
+                <path d="M8,0 L124,0 C128.418278,-8.11624501e-16 132,3.581722 132,8 L132,50 L132,50 L0,50 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="Rectangle" fill="#F2F2F2"></path>
+                <text id="未選中" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                    <tspan x="20" y="31">未選中</tspan>
+                </text>
+                <g id="Group" transform="translate(76.000000, 15.000000)">
+                    <rect id="Rectangle-193" fill="#7F7F7F" x="0" y="1" width="32" height="18" rx="9"></rect>
+                    <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="9.3" y="13">99</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

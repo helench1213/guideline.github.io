@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="40px" viewBox="0 0 300 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>switch/type02</title>
+    <g id="switch/type02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(77.000000, 5.000000)">
+            <g id="Group-22">
+                <path d="M0,14.3 C0,6.4025 6.402331,0 14.3,0 L42.9,0 C50.79763,0 57.2,6.4025 57.2,14.3 C57.2,22.1975 50.79763,28.6 42.9,28.6 L14.3,28.6 C6.402331,28.6 0,22.1975 0,14.3 Z" id="Path" fill-opacity="0.2" fill="#004477"></path>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="42.9" cy="14.3" r="11.7"></circle>
+            </g>
+            <g id="Group-23" transform="translate(88.000000, 0.000000)">
+                <path d="M0,14.3 C0,6.4025 6.40237,0 14.3,0 L42.9,0 C50.7975,0 57.2,6.4025 57.2,14.3 C57.2,22.1975 50.7975,28.6 42.9,28.6 L14.3,28.6 C6.40237,28.6 0,22.1975 0,14.3 Z" id="Path" fill="#B4B4B4"></path>
+                <circle id="Oval" fill="#E5E5E5" fill-rule="nonzero" cx="14.3" cy="14.3" r="11.7"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

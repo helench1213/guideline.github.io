@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="880px" height="240px" viewBox="0 0 880 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>date05</title>
+    <defs>
+        <path d="M9.92698943,7.41489705 L4.07145242,7.41489705 C3.80189204,7.41489705 3.5837507,7.1961714 3.5837507,6.92588898 L3.5837507,6.92588898 C3.5837507,6.65560657 3.80189204,6.43688091 4.07145242,6.43688091 L9.92854758,6.43688091 C10.198108,6.43688091 10.4162493,6.65560657 10.4162493,6.92588898 L10.4162493,6.92588898 C10.4146912,7.1961714 10.1965498,7.41489705 9.92698943,7.41489705 L9.92698943,7.41489705 Z M9.92698943,4.76675431 L4.07145242,4.76675431 C3.80189204,4.76675431 3.5837507,4.54802866 3.5837507,4.27774624 L3.5837507,4.27774624 C3.5837507,4.00746383 3.80189204,3.78873817 4.07145242,3.78873817 L9.92854758,3.78873817 C10.198108,3.78873817 10.4162493,4.00746383 10.4162493,4.27774624 L10.4162493,4.27774624 C10.4146912,4.54802866 10.1965498,4.76675431 9.92698943,4.76675431 L9.92698943,4.76675431 Z M12.8765721,11.9987618 L11.0753478,11.9987618 L11.0753478,12.3846564 C11.0753478,12.6549388 10.8572065,12.8736644 10.5876461,12.8736644 L10.5876461,12.8736644 C10.3180857,12.8736644 10.0999444,12.6549388 10.0999444,12.3846564 L10.0999444,11.9987618 L3.8984975,11.9987618 L3.8984975,12.3846564 C3.8984975,12.6549388 3.68035615,12.8736644 3.41079577,12.8736644 L3.41079577,12.8736644 C3.14123539,12.8736644 2.92309405,12.6549388 2.92309405,12.3846564 L2.92309405,11.9987618 L1.12186978,11.9987618 C0.501725097,11.9987618 0,11.4956928 0,10.873887 L0,1.99987479 C0,1.378069 0.501725097,0.875 1.12186978,0.875 L12.8781302,0.875 C13.4982749,0.875 14,1.378069 14,1.99987479 L14,10.873887 C13.9984418,11.4941305 13.4967168,11.9987618 12.8765721,11.9987618 L12.8765721,11.9987618 Z M1.12186978,10.873887 L2.9246522,10.873887 L2.9246522,10.6207902 C2.9246522,10.3505078 3.14279354,10.1317821 3.41235392,10.1317821 L3.41235392,10.1317821 C3.6819143,10.1317821 3.90005565,10.3505078 3.90005565,10.6207902 L3.90005565,10.873887 L10.1015025,10.873887 L10.1015025,10.6207902 C10.1015025,10.3505078 10.3196439,10.1317821 10.5892042,10.1317821 L10.5892042,10.1317821 C10.8587646,10.1317821 11.076906,10.3505078 11.076906,10.6207902 L11.076906,10.873887 L12.8796884,10.873887 L12.8796884,10.873887 L12.8796884,9.34124513 L1.12186978,9.34124513 L1.12186978,10.873887 L1.12186978,10.873887 L1.12186978,10.873887 Z M12.8765721,1.99987479 L1.12186978,1.99987479 L1.12186978,1.99987479 L1.12186978,8.36791597 L12.8781302,8.36791597 L12.8781302,1.99987479 L12.8765721,1.99987479 L12.8765721,1.99987479 Z" id="path-1"></path>
+        <rect id="path-3" x="1" y="0" width="280" height="160" rx="4"></rect>
+        <filter x="-2.5%" y="-3.1%" width="105.0%" height="108.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="XXXGuideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guideline_日期" transform="translate(-110.000000, -2490.000000)">
+            <g id="date05" transform="translate(110.000000, 2490.000000)">
+                <rect id="bg" x="0" y="0" width="880" height="240"></rect>
+                <g id="Group-6" transform="translate(20.000000, 20.000000)">
+                    <g id="DatePicker/Medium/Placeholder-" transform="translate(1.000000, 0.000000)">
+                        <rect id="Rectangle-5" stroke="#CCCCCC" fill="#FFFFFF" x="0.5" y="0.5" width="279" height="31" rx="4"></rect>
+                        <g id="Group" transform="translate(256.000000, 9.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#7F7F7F" transform="translate(7.000000, 6.874332) scale(1, -1) translate(-7.000000, -6.874332) " xlink:href="#path-1"></use>
+                        </g>
+                        <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#B4B4B4">
+                            <tspan x="10" y="20">109年 1-2月</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-7" transform="translate(0.000000, 32.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="Selected/dropdown/selected">
+                            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="140" height="32"></rect>
+                            <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="10" y="20">110</tspan>
+                            </text>
+                        </g>
+                        <g id="Selected/dropdown/selected" transform="translate(0.000000, 32.000000)">
+                            <rect id="Rectangle" fill="#F2F2F2" x="0" y="0" width="140" height="32"></rect>
+                            <text id="商品分類B" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="22" fill="#545454">
+                                <tspan x="10" y="20">109</tspan>
+                            </text>
+                        </g>
+                        <g id="Selected/dropdown/selected" transform="translate(141.000000, 0.000000)">
+                            <rect id="Rectangle" fill="#F2F2F2" x="0" y="0" width="140" height="32"></rect>
+                            <text id="商品分類B" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="22" fill="#545454">
+                                <tspan x="10" y="20">1-2月</tspan>
+                            </text>
+                        </g>
+                        <g id="Selected/dropdown/selected" transform="translate(141.000000, 32.000000)">
+                            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="140" height="32"></rect>
+                            <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="10" y="20">3-4月</tspan>
+                            </text>
+                        </g>
+                        <g id="Selected/dropdown/selected" transform="translate(141.000000, 64.000000)">
+                            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="140" height="32"></rect>
+                            <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="10" y="20">5-6月</tspan>
+                            </text>
+                        </g>
+                        <g id="Selected/dropdown/selected" transform="translate(141.000000, 96.000000)">
+                            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="140" height="32"></rect>
+                            <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="10" y="20">7-8月</tspan>
+                            </text>
+                        </g>
+                        <g id="Selected/dropdown/selected" transform="translate(141.000000, 128.000000)">
+                            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="140" height="32"></rect>
+                            <text id="商品分類B" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="10" y="20">9-10月</tspan>
+                            </text>
+                        </g>
+                        <rect id="Rectangle" fill="#E5E5E5" x="140" y="0" width="1" height="160"></rect>
+                        <rect id="Rectangle" fill="#E5E5E5" x="275" y="3" width="3" height="140" rx="1.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="23px" viewBox="0 0 24 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>查價管理</title>
+    <g id="XXXGuideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guideline_圖標" transform="translate(-606.000000, -1184.000000)" fill="#7F7F7F">
+            <g id="02" transform="translate(70.000000, 915.000000)">
+                <g id="Dashboard" transform="translate(53.000000, 240.000000)">
+                    <g id="icon" transform="translate(10.000000, 25.000000)">
+                        <g id="SKU管理" transform="translate(450.000000, 0.000000)">
+                            <g id="Combined-Shape" transform="translate(20.000000, 0.000000)">
+                                <path d="M19,16 L19,27 L16,27 L16,16 L19,16 Z M14,20.0143819 L14,27 L11,27 L11,20.0143819 L14,20.0143819 Z M9,18.0091758 L9,27 L6,27 L6,18.0091758 L9,18.0091758 Z M24,22.0367677 L24,27 L21,27 L21,22.0367677 L24,22.0367677 Z M27,4 L27,10.6245909 L24.6177866,10.6245909 L24.6177866,8.0238757 L19.31865,13.3190441 C18.9361459,13.6976795 18.34361,13.7735009 17.8762992,13.5037654 L17.8762992,13.5037654 L11.1679187,7.37636902 L4.42932805,14 L3,12.1142871 L10.3708301,5.02142784 C10.7538106,4.73715662 11.2720214,4.70753521 11.6856531,4.94623504 L11.6856531,4.94623504 L18.2834988,11.00991 L22.9333235,6.35714117 L20.134318,6.35714117 L20.134318,4 L27,4 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

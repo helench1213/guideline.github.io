@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="482px" height="198px" viewBox="0 0 482 198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>type01</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(0.000000, -13.000000)">
+            <g id="type01" transform="translate(0.000000, 13.000000)">
+                <g id="Group-21" transform="translate(0.000000, 7.000000)">
+                    <g id="Group-17" transform="translate(0.000000, 1.000000)" fill="#F8F8FA" fill-rule="nonzero">
+                        <rect id="Rectangle" x="0" y="0" width="300" height="188.847584" rx="5.94795539"></rect>
+                    </g>
+                    <rect id="Rectangle" fill-opacity="0.5" fill="#000000" fill-rule="nonzero" x="0" y="1" width="300" height="189"></rect>
+                    <g id="drawer" transform="translate(94.249071, 0.000000)">
+                        <path d="M6.69888439,1 L201.802974,1 C205.087939,1 207.750929,3.66299034 207.750929,6.94795539 L207.750929,190 L5.750929,190 C2.98950525,190 0.750929,187.761424 0.750929,185 L0.750929,6.94795539 C0.750929,3.66299034 3.41391934,1 6.69888439,1 Z" id="Rectangle" stroke="#E5E5E5" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <g id="table" transform="translate(7.000000, 98.000000)">
+                            <path d="M3,1 L190,1 C191.104569,1 192,1.8954305 192,3 L192,7 L192,7 L1,7 L1,3 C1,1.8954305 1.8954305,1 3,1 Z" id="Rectangle" fill="#F2F2F2" fill-rule="nonzero"></path>
+                            <rect id="Rectangle-Copy-7" fill="#F2F2F2" fill-rule="nonzero" x="0.750929368" y="21" width="191" height="1"></rect>
+                            <rect id="Rectangle-Copy-9" fill="#F2F2F2" fill-rule="nonzero" x="0.750929368" y="36" width="191" height="1"></rect>
+                            <rect id="Rectangle-Copy-10" fill="#F2F2F2" fill-rule="nonzero" x="0.750929368" y="51" width="191" height="1"></rect>
+                            <rect id="Rectangle-Copy-11" fill="#F2F2F2" fill-rule="nonzero" x="0.750929368" y="66" width="191" height="1"></rect>
+                            <path d="M191.5,7.5 L191.5,78 C191.5,78.4142136 191.332107,78.7892136 191.06066,79.0606602 C190.789214,79.3321068 190.414214,79.5 190,79.5 L190,79.5 L3,79.5 C2.58578644,79.5 2.21078644,79.3321068 1.93933983,79.0606602 C1.66789322,78.7892136 1.5,78.4142136 1.5,78 L1.5,78 L1.5,7.5 L191.5,7.5 Z" id="Rectangle-Copy" stroke="#F2F2F2"></path>
+                            <rect id="Rectangle-Copy-2" fill="#F2F2F2" fill-rule="nonzero" transform="translate(1.750929, 39.500000) rotate(90.000000) translate(-1.750929, -39.500000) " x="-37.2490714" y="39" width="78" height="1"></rect>
+                            <rect id="Rectangle-Copy-3" fill="#F2F2F2" fill-rule="nonzero" transform="translate(32.750929, 39.500000) rotate(90.000000) translate(-32.750929, -39.500000) " x="-6.2490714" y="39" width="78" height="1"></rect>
+                            <rect id="Rectangle-Copy-4" fill="#F2F2F2" fill-rule="nonzero" transform="translate(64.750929, 39.500000) rotate(90.000000) translate(-64.750929, -39.500000) " x="25.7509286" y="39" width="78" height="1"></rect>
+                            <rect id="Rectangle-Copy-5" fill="#F2F2F2" fill-rule="nonzero" transform="translate(96.750929, 40.500000) rotate(90.000000) translate(-96.750929, -40.500000) " x="57.7509286" y="40" width="78" height="1"></rect>
+                            <rect id="Rectangle-Copy-6" fill="#F2F2F2" fill-rule="nonzero" transform="translate(128.750929, 40.500000) rotate(90.000000) translate(-128.750929, -40.500000) " x="89.7509286" y="40" width="78" height="1"></rect>
+                            <rect id="Rectangle-Copy-8" fill="#F2F2F2" fill-rule="nonzero" transform="translate(160.750929, 40.500000) rotate(90.000000) translate(-160.750929, -40.500000) " x="121.750929" y="40" width="78" height="1"></rect>
+                        </g>
+                        <path d="M207.533922,8.79693309 L207.533922,20.1212825 L207.533922,20.1212825 L0.533922,20.1212825 L0.533922,6.36988848 C0.533922,4.83095934 1.15996455,3.43772049 2.17213841,2.42921393 C3.18431227,1.42070736 4.58261744,0.796933086 6.12714268,0.796933086 L199.533922,0.796933086 C203.9522,0.796933086 207.533922,4.37865509 207.533922,8.79693309 Z" id="title" stroke="#F2F2F2" stroke-width="0.75" fill-rule="nonzero"></path>
+                        <g id="加入-XXX" transform="translate(8.158922, 5.000000)" fill="#545454" fill-rule="nonzero" font-family="PingFangTC-Regular, PingFang TC" font-size="8" font-weight="normal">
+                            <g id="Group">
+                                <text id="加入-XXX">
+                                    <tspan x="0" y="8">加入 XXX</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-3" transform="translate(11.000000, 75.000000)" fill-rule="nonzero">
+                            <g id="Group" transform="translate(0.000000, 5.000000)">
+                                <g id="Icon/system/alert/Info/14px" transform="translate(0.500000, 0.000000)">
+                                    <path d="M5,10 C2.23828125,10 0,7.76171875 0,5 C0,2.23828125 2.23828125,0 5,0 C7.76171875,0 10,2.23828125 10,5 C10,7.76171875 7.76171875,10 5,10 L5,10 Z" id="Path" fill="#7F7F7F"></path>
+                                    <path d="M5.14285714,3.57142857 C5.15418182,3.57183925 5.16632866,3.57142857 5.17857143,3.57142857 C5.47443826,3.57142857 5.71428571,3.81127603 5.71428571,4.10714286 L5.71342857,7.14257143 L6.25,7.14285714 C6.54586683,7.14285714 6.78571429,7.3827046 6.78571429,7.67857143 C6.78571429,7.97443826 6.54586683,8.21428571 6.25,8.21428571 L4.10714286,8.21428571 C3.81127603,8.21428571 3.57142857,7.97443826 3.57142857,7.67857143 C3.57142857,7.3827046 3.81127603,7.14285714 4.10714286,7.14285714 L4.64242857,7.14257143 L4.64242857,4.64257143 L4.25,4.64285714 C3.95413317,4.64285714 3.71428571,4.40300969 3.71428571,4.10714286 C3.71428571,3.81127603 3.95413317,3.57142857 4.25,3.57142857 L5.14285714,3.57142857 Z M5,1.42857143 C5.39448911,1.42857143 5.71428571,1.74836804 5.71428571,2.14285714 C5.71428571,2.53734625 5.39448911,2.85714286 5,2.85714286 C4.60551089,2.85714286 4.28571429,2.53734625 4.28571429,2.14285714 C4.28571429,1.74836804 4.60551089,1.42857143 5,1.42857143 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                                </g>
+                            </g>
+                            <g id="|||||||||||||||" transform="translate(16.000000, 0.000000)" fill="#7F7F7F" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal">
+                                <text>
+                                    <tspan x="0.750929" y="15">|||||||||||||||</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <rect id="divider" fill-opacity="0.8" fill="#E5E5E5" fill-rule="nonzero" x="7.75092937" y="70" width="191" height="1"></rect>
+                        <g id="Group-2" transform="translate(7.750929, 30.000000)" fill-rule="nonzero">
+                            <rect id="Rectangle" fill="#F2F2F2" x="0" y="0" width="191" height="30" rx="2"></rect>
+                            <path d="M145.383007,10.25 C145.692092,10.25 145.971969,10.3743447 146.174221,10.5771774 C146.375806,10.7793412 146.5,11.0592869 146.5,11.3709164 L146.5,11.3709164 L146.5,19.6290836 C146.5,19.9386079 146.374787,20.2188515 146.17248,20.4217395 C145.970315,20.6244841 145.691124,20.75 145.383007,20.75 L145.383007,20.75 L118.116993,20.75 C117.808487,20.75 117.529138,20.625553 117.326904,20.4244196 C117.125036,20.223651 117,19.9464121 117,19.6404491 L117,19.6404491 L117,11.3595509 C117,11.0534016 117.125042,10.7763085 117.326784,10.5756653 C117.529137,10.374414 117.808638,10.25 118.116993,10.25 L118.116993,10.25 L145.383007,10.25 Z" id="Rectangle-77-Copy-4" stroke="#CCCCCC" stroke-width="0.5" fill="#FFFFFF"></path>
+                            <g id="Button/Primary/Basic/Medium" transform="translate(150.000000, 10.000000)" fill="#004477">
+                                <path d="M0.75,6.74803513 C0.75,6.05876436 0.75,4.93211895 0.75,4.25196487 L0.75,1.24803513 C0.75,0.558764362 1.30933652,-8.8817842e-16 2.00086829,-8.8817842e-16 L29.4991317,-8.8817842e-16 C30.1899672,-8.8817842e-16 30.75,0.560614467 30.75,1.24045728 L30.75,9.75954272 C30.75,10.4446284 30.1906635,11 29.4991317,11 L2.00086829,11 C1.31003281,11 0.75,10.432119 0.75,9.75196487 L0.75,6.74803513 Z" id="Rectangle-77"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-4" transform="translate(313.000000, 0.000000)" fill-rule="nonzero">
+                    <g id="Group-3" transform="translate(18.000000, 0.000000)">
+                        <g id="Combined-Shape" transform="translate(75.500000, 15.000000) scale(-1, 1) translate(-75.500000, -15.000000) ">
+                            <g id="path-2-link" fill="#000000">
+                                <path d="M140.992355,0 C142.653432,0 144,1.34731857 144,3.00001915 L144,9.304 L151,15.4285714 L144,21.552 L144,26.9999809 C144,28.6568457 142.666408,30 140.992355,30 L3.00764465,30 C1.34656838,30 0,28.6526814 0,26.9999809 L0,3.00001915 C0,1.34315432 1.33359218,0 3.00764465,0 L140.992355,0 Z" id="path-2"></path>
+                            </g>
+                            <g id="path-2-link" fill="#1794FB">
+                                <path d="M140.992355,0 C142.653432,0 144,1.34731857 144,3.00001915 L144,9.304 L151,15.4285714 L144,21.552 L144,26.9999809 C144,28.6568457 142.666408,30 140.992355,30 L3.00764465,30 C1.34656838,30 0,28.6526814 0,26.9999809 L0,3.00001915 C0,1.34315432 1.33359218,0 3.00764465,0 L140.992355,0 Z" id="path-2"></path>
+                            </g>
+                        </g>
+                        <g id="Text" transform="translate(17.000000, 3.000000)" fill="#FFFFFF" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal">
+                            <g id="標題：加入-XXX">
+                                <text>
+                                    <tspan x="0" y="17">標題：加入 XXX</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3" transform="translate(18.000000, 39.000000)">
+                        <g id="Combined-Shape" transform="translate(48.500000, 15.000000) scale(-1, 1) translate(-48.500000, -15.000000) ">
+                            <g id="path-4-link" fill="#000000">
+                                <path d="M87.0055389,0 C88.6593341,0 90,1.34731857 90,3.00001915 L90,9.304 L97,15.4285714 L90,21.552 L90,26.9999809 C90,28.6568457 88.6579044,30 87.0055389,30 L2.99446106,30 C1.34066588,30 0,28.6526814 0,26.9999809 L0,3.00001915 C0,1.34315432 1.34209558,0 2.99446106,0 L87.0055389,0 Z" id="path-4"></path>
+                            </g>
+                            <g id="path-4-link" fill="#1794FB">
+                                <path d="M87.0055389,0 C88.6593341,0 90,1.34731857 90,3.00001915 L90,9.304 L97,15.4285714 L90,21.552 L90,26.9999809 C90,28.6568457 88.6579044,30 87.0055389,30 L2.99446106,30 C1.34066588,30 0,28.6526814 0,26.9999809 L0,3.00001915 C0,1.34315432 1.34209558,0 2.99446106,0 L87.0055389,0 Z" id="path-4"></path>
+                            </g>
+                        </g>
+                        <g id="Text" transform="translate(21.000000, 3.000000)" fill="#FFFFFF" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal">
+                            <g id="搜尋篩選">
+                                <text>
+                                    <tspan x="0" y="17">搜尋篩選</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3" transform="translate(18.000000, 138.000000)">
+                        <g id="Combined-Shape" transform="translate(33.500000, 15.000000) scale(-1, 1) translate(-33.500000, -15.000000) ">
+                            <g id="path-6-link" fill="#000000">
+                                <path d="M57.0040626,0 C58.6586731,0 60,1.34731857 60,3.00001915 L60,9.304 L67,15.4285714 L60,21.552 L60,26.9999809 C60,28.6568457 58.6626903,30 57.0040626,30 L2.99593743,30 C1.34132688,30 0,28.6526814 0,26.9999809 L0,3.00001915 C0,1.34315432 1.33730974,0 2.99593743,0 L57.0040626,0 Z" id="path-6"></path>
+                            </g>
+                            <g id="path-6-link" fill="#1794FB">
+                                <path d="M57.0040626,0 C58.6586731,0 60,1.34731857 60,3.00001915 L60,9.304 L67,15.4285714 L60,21.552 L60,26.9999809 C60,28.6568457 58.6626903,30 57.0040626,30 L2.99593743,30 C1.34132688,30 0,28.6526814 0,26.9999809 L0,3.00001915 C0,1.34315432 1.33730974,0 2.99593743,0 L57.0040626,0 Z" id="path-6"></path>
+                            </g>
+                        </g>
+                        <g id="Text" transform="translate(21.000000, 3.000000)" fill="#FFFFFF" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal">
+                            <g id="列表">
+                                <text>
+                                    <tspan x="0" y="17">列表</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="spacing" transform="translate(0.000000, 108.000000)" fill="#D1EAFE">
+                        <rect id="Rectangle" x="0" y="0" width="7.5" height="1.36363636" rx="0.68181818"></rect>
+                        <polygon id="Rectangle-Copy-2" transform="translate(6.750000, 44.545455) rotate(90.000000) translate(-6.750000, -44.545455) " points="-37.3409086 43.795455 50.8409096 43.795455 50.8409096 45.295455 -37.3409086 45.295455"></polygon>
+                        <rect id="Rectangle-Copy" x="0" y="88.1818182" width="7.5" height="1.36363636" rx="0.68181818"></rect>
+                    </g>
+                    <g id="spacing" transform="translate(0.000000, 4.000000)" fill="#D1EAFE">
+                        <rect id="Rectangle" x="0" y="0.401515152" width="7.5" height="1.5" rx="0.75"></rect>
+                        <polygon id="Rectangle-Copy-2" transform="translate(6.750000, 10.898990) rotate(90.000000) translate(-6.750000, -10.898990) " points="-3.0479798 10.1489901 16.5479798 10.1489901 16.5479798 11.6489901 -3.0479798 11.6489901"></polygon>
+                        <rect id="Rectangle-Copy" x="0" y="19.9974747" width="7.5" height="1.5" rx="0.75"></rect>
+                    </g>
+                    <g id="spacing" transform="translate(0.000000, 30.000000)" fill="#D1EAFE">
+                        <rect id="Rectangle" x="0" y="0.586172142" width="7.5" height="1.75609756" rx="0.75"></rect>
+                        <polygon id="Rectangle-Copy-2" transform="translate(6.750000, 23.768864) rotate(90.000000) translate(-6.750000, -23.768864) " points="-15.6702106 23.0188638 29.1702114 23.0188638 29.1702114 24.5188638 -15.6702106 24.5188638"></polygon>
+                        <rect id="Rectangle-Copy" x="0" y="45.4265941" width="7.5" height="1.75609756" rx="0.75"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

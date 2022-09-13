@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="146px" viewBox="0 0 300 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>collapse/type01</title>
+    <defs>
+        <filter x="-8.3%" y="-16.4%" width="116.7%" height="134.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M4.36363636,0 L295.636364,0 C298.046333,-4.42704273e-16 300,1.95366655 300,4.36363636 L300,141.636364 C300,144.046333 298.046333,146 295.636364,146 L4.36363636,146 C1.95366655,146 -1.83566106e-14,144.046333 0,141.636364 C0,108.626577 0,75.6167905 0,42.6070039 C0,29.8592147 0,17.1114255 0,4.36363636 C-2.95136182e-16,1.95366655 1.95366655,-3.11000941e-15 4.36363636,0 Z" id="path-2"></path>
+        <filter x="-1.2%" y="-1.7%" width="102.3%" height="104.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M4.36363636,0 L295.636364,0 C298.046333,-1.33088269e-15 300,1.95366655 300,4.36363636 L300,27.2727273 L300,27.2727273 L0,27.2727273 L0,4.36363636 C-2.95136182e-16,1.95366655 1.95366655,-4.45474146e-16 4.36363636,0 Z" id="path-4"></path>
+        <filter x="-1.2%" y="-9.2%" width="102.3%" height="125.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M6.91942512,4.03068545 L4.36721099,4.03068545 L4.36721099,1.4014253 C4.36721099,1.23291555 4.23819797,1.09658354 4.07873467,1.09658354 L4.07873467,1.09658354 C3.91927137,1.09658354 3.79025834,1.23291555 3.79025834,1.4014253 L3.79025834,4.03068545 L1.29413683,4.03068545 C1.13467353,4.03068545 1.00566051,4.16701746 1.00566051,4.3355272 L1.00566051,4.3355272 C1.00566051,4.50403695 1.13467353,4.64036896 1.29413683,4.64036896 L3.79025834,4.64036896 L3.79025834,7.27809694 C3.79025834,7.44660669 3.91927137,7.58293869 4.07873467,7.58293869 L4.07873467,7.58293869 C4.23819797,7.58293869 4.36721099,7.44660669 4.36721099,7.27809694 L4.36721099,4.64036896 L6.91942512,4.64036896 C7.07888842,4.64036896 7.20790144,4.50403695 7.20790144,4.3355272 L7.20790144,4.3355272 C7.20790144,4.16701746 7.07888842,4.03068545 6.91942512,4.03068545 Z" id="path-6"></path>
+        <path d="M6.91942512,4.03068545 L4.36721099,4.03068545 L4.36721099,1.4014253 C4.36721099,1.23291555 4.23819797,1.09658354 4.07873467,1.09658354 L4.07873467,1.09658354 C3.91927137,1.09658354 3.79025834,1.23291555 3.79025834,1.4014253 L3.79025834,4.03068545 L1.29413683,4.03068545 C1.13467353,4.03068545 1.00566051,4.16701746 1.00566051,4.3355272 L1.00566051,4.3355272 C1.00566051,4.50403695 1.13467353,4.64036896 1.29413683,4.64036896 L3.79025834,4.64036896 L3.79025834,7.27809694 C3.79025834,7.44660669 3.91927137,7.58293869 4.07873467,7.58293869 L4.07873467,7.58293869 C4.23819797,7.58293869 4.36721099,7.44660669 4.36721099,7.27809694 L4.36721099,4.64036896 L6.91942512,4.64036896 C7.07888842,4.64036896 7.20790144,4.50403695 7.20790144,4.3355272 L7.20790144,4.3355272 C7.20790144,4.16701746 7.07888842,4.03068545 6.91942512,4.03068545 Z" id="path-8"></path>
+    </defs>
+    <g id="collapse/type01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-24" filter="url(#filter-1)">
+            <g id="card/bg">
+                <g id="Rectangle-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="Title-area/info-Copy">
+                    <g id="Rectangle-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                    <g id="Group" transform="translate(13.636364, 7.636364)" fill="#2A58AE">
+                        <text id="區塊標題" font-family="PingFangTC-Semibold, PingFang TC" font-size="8.72727273" font-weight="500" line-spacing="12">
+                            <tspan x="7.09090909" y="9">標題</tspan>
+                        </text>
+                        <rect id="Rectangle" x="0" y="1.63636364" width="2.72727273" height="8.72727273" rx="1.36363636"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-2-Copy-3" transform="translate(16.000000, 41.000000)">
+                <rect id="Rectangle" fill="#E5E5E5" x="0" y="-3.82354835e-14" width="267.713004" height="17.6960294"></rect>
+                <g id="Group-14" transform="translate(0.000000, 25.033983)">
+                    <rect id="Rectangle-Copy" fill="#F2F2F2" x="0" y="26.1901235" width="267.713004" height="1.41568235"></rect>
+                    <g id="Icon/system/number/Plus-32px" transform="translate(10.717451, 0.000000)">
+                        <rect id="Rectangle" stroke="#E5E5E5" x="0.5" y="0.5" width="17.7555399" height="18.8195529" rx="2.20138606"></rect>
+                        <g id="Icon/number/Plus-14px" transform="translate(5.274996, 5.574249)">
+                            <mask id="mask-7" fill="white">
+                                <use xlink:href="#path-6"></use>
+                            </mask>
+                            <use id="Mask" fill="#7F7F7F" xlink:href="#path-6"></use>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(0.000000, 60.256160)">
+                    <g transform="translate(10.717451, 0.000000)" id="Icon/system/number/Plus-32px">
+                        <rect id="Rectangle" stroke="#E5E5E5" x="0.5" y="0.5" width="17.7555399" height="18.8195529" rx="2.20138606"></rect>
+                        <g id="Icon/number/Plus-14px" transform="translate(5.274996, 5.574249)">
+                            <mask id="mask-9" fill="white">
+                                <use xlink:href="#path-8"></use>
+                            </mask>
+                            <use id="Mask" fill="#7F7F7F" xlink:href="#path-8"></use>
+                        </g>
+                    </g>
+                    <rect id="Rectangle-Copy" fill="#F2F2F2" x="0" y="27.8629882" width="267.713004" height="1.46759071"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

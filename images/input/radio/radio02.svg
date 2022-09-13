@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="420px" height="293px" viewBox="0 0 420 293" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 10</title>
+    <defs>
+        <path d="M12.2458984,4.10292969 C12.2458984,4.23417969 12.2021484,4.36679687 12.1146484,4.47753906 L7.45390625,10.2716797 C7.34042969,10.4125 7.16953125,10.4945312 6.98769531,10.4945312 C6.80722656,10.4945312 6.63496094,10.4125 6.52285156,10.2716797 L1.88671875,4.50214844 C1.68027344,4.24511719 1.72128906,3.86914062 1.97832031,3.66269531 C2.23535156,3.45625 2.61132813,3.49726562 2.81777344,3.75429687 L6.9890625,8.94414062 L11.1835938,3.72832031 C11.3900391,3.47128906 11.7660156,3.43027344 12.0230469,3.63671875 C12.1693359,3.75566406 12.2458984,3.92792969 12.2458984,4.10292969 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="15" width="17" height="15"></rect>
+        <filter x="-2.9%" y="-3.3%" width="105.9%" height="106.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.8   0 0 0 0 0.8   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.8   0 0 0 0 0.8   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="17" height="15"></rect>
+        <filter x="-2.9%" y="-3.3%" width="105.9%" height="106.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.8   0 0 0 0 0.8   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="-0.5" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.8   0 0 0 0 0.8   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M6.99765625,2.34453125 C6.99765625,2.41953125 6.97265625,2.4953125 6.92265625,2.55859375 L4.259375,5.86953125 C4.19453125,5.95 4.096875,5.996875 3.99296875,5.996875 C3.88984375,5.996875 3.79140625,5.95 3.72734375,5.86953125 L1.078125,2.57265625 C0.96015625,2.42578125 0.98359375,2.2109375 1.13046875,2.09296875 C1.27734375,1.975 1.4921875,1.9984375 1.61015625,2.1453125 L3.99375,5.1109375 L6.390625,2.13046875 C6.50859375,1.98359375 6.7234375,1.96015625 6.8703125,2.078125 C6.95390625,2.14609375 6.99765625,2.24453125 6.99765625,2.34453125 Z" id="path-7"></path>
+        <path d="M6.99765625,5.65546875 C6.99765625,5.58046875 6.97265625,5.5046875 6.92265625,5.44140625 L4.259375,2.13046875 C4.19453125,2.05 4.096875,2.003125 3.99296875,2.003125 C3.88984375,2.003125 3.79140625,2.05 3.72734375,2.13046875 L1.078125,5.42734375 C0.96015625,5.57421875 0.98359375,5.7890625 1.13046875,5.90703125 C1.27734375,6.025 1.4921875,6.0015625 1.61015625,5.8546875 L3.99375,2.8890625 L6.390625,5.86953125 C6.50859375,6.01640625 6.7234375,6.03984375 6.8703125,5.921875 C6.95390625,5.85390625 6.99765625,5.75546875 6.99765625,5.65546875 Z" id="path-9"></path>
+        <path d="M12.2458984,4.10292969 C12.2458984,4.23417969 12.2021484,4.36679687 12.1146484,4.47753906 L7.45390625,10.2716797 C7.34042969,10.4125 7.16953125,10.4945312 6.98769531,10.4945312 C6.80722656,10.4945312 6.63496094,10.4125 6.52285156,10.2716797 L1.88671875,4.50214844 C1.68027344,4.24511719 1.72128906,3.86914062 1.97832031,3.66269531 C2.23535156,3.45625 2.61132813,3.49726562 2.81777344,3.75429687 L6.9890625,8.94414062 L11.1835938,3.72832031 C11.3900391,3.47128906 11.7660156,3.43027344 12.0230469,3.63671875 C12.1693359,3.75566406 12.2458984,3.92792969 12.2458984,4.10292969 Z" id="path-11"></path>
+        <rect id="path-13" x="0" y="15" width="17" height="15"></rect>
+        <filter x="-2.9%" y="-3.3%" width="105.9%" height="106.7%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.8   0 0 0 0 0.8   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.8   0 0 0 0 0.8   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-15" x="0" y="0" width="17" height="15"></rect>
+        <filter x="-2.9%" y="-3.3%" width="105.9%" height="106.7%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.8   0 0 0 0 0.8   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="-0.5" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.8   0 0 0 0 0.8   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M6.99765625,2.34453125 C6.99765625,2.41953125 6.97265625,2.4953125 6.92265625,2.55859375 L4.259375,5.86953125 C4.19453125,5.95 4.096875,5.996875 3.99296875,5.996875 C3.88984375,5.996875 3.79140625,5.95 3.72734375,5.86953125 L1.078125,2.57265625 C0.96015625,2.42578125 0.98359375,2.2109375 1.13046875,2.09296875 C1.27734375,1.975 1.4921875,1.9984375 1.61015625,2.1453125 L3.99375,5.1109375 L6.390625,2.13046875 C6.50859375,1.98359375 6.7234375,1.96015625 6.8703125,2.078125 C6.95390625,2.14609375 6.99765625,2.24453125 6.99765625,2.34453125 Z" id="path-17"></path>
+        <path d="M6.99765625,5.65546875 C6.99765625,5.58046875 6.97265625,5.5046875 6.92265625,5.44140625 L4.259375,2.13046875 C4.19453125,2.05 4.096875,2.003125 3.99296875,2.003125 C3.88984375,2.003125 3.79140625,2.05 3.72734375,2.13046875 L1.078125,5.42734375 C0.96015625,5.57421875 0.98359375,5.7890625 1.13046875,5.90703125 C1.27734375,6.025 1.4921875,6.0015625 1.61015625,5.8546875 L3.99375,2.8890625 L6.390625,5.86953125 C6.50859375,6.01640625 6.7234375,6.03984375 6.8703125,5.921875 C6.95390625,5.85390625 6.99765625,5.75546875 6.99765625,5.65546875 Z" id="path-19"></path>
+        <path d="M12.2458984,4.10292969 C12.2458984,4.23417969 12.2021484,4.36679687 12.1146484,4.47753906 L7.45390625,10.2716797 C7.34042969,10.4125 7.16953125,10.4945312 6.98769531,10.4945312 C6.80722656,10.4945312 6.63496094,10.4125 6.52285156,10.2716797 L1.88671875,4.50214844 C1.68027344,4.24511719 1.72128906,3.86914062 1.97832031,3.66269531 C2.23535156,3.45625 2.61132813,3.49726562 2.81777344,3.75429687 L6.9890625,8.94414062 L11.1835938,3.72832031 C11.3900391,3.47128906 11.7660156,3.43027344 12.0230469,3.63671875 C12.1693359,3.75566406 12.2458984,3.92792969 12.2458984,4.10292969 Z" id="path-21"></path>
+    </defs>
+    <g id="XXXGuideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guideline_單選" transform="translate(-520.000000, -749.000000)">
+            <g id="Group-3-Copy" transform="translate(70.000000, 433.000000)">
+                <g id="Group-10" transform="translate(450.000000, 316.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="420" height="293"></rect>
+                    <g id="Group-6" transform="translate(22.000000, 52.000000)">
+                        <g id="Selected">
+                            <g id="Title/Input-Required" fill="#545454" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="22">
+                                <text id="倉庫類型">
+                                    <tspan x="0" y="15">倉庫類型</tspan>
+                                </text>
+                            </g>
+                            <g id="Radio/Default/Normal" transform="translate(71.000000, 1.000000)">
+                                <g id="Group" transform="translate(0.000000, 2.000000)" fill="#004477">
+                                    <path d="M8,0 C12.3349143,0 15.8645429,3.45649202 15.9961932,7.75131053 L16,8 C16,12.3349143 12.543508,15.8645429 8.24868947,15.9961932 L8,16 C3.581722,16 0,12.4092877 0,8 C0,3.66508574 3.45649202,0.135457134 7.75131053,0.00380682464 L8,0 Z M8.01530575,0.99988286 L7.78194943,1.00333734 C4.01414418,1.11883296 1,4.2185029 1,8 C1,11.779859 4.00792466,14.8688657 7.74517765,14.9960437 L7.98469425,15.0001171 L8.21805057,14.9966627 C11.9056898,14.8836244 14.8713974,11.912047 14.9960381,8.25477343 L15.0001171,8.01530575 L14.9966627,7.78194943 C14.8836244,4.09431025 11.912047,1.12860263 8.240424,1.00407168 L8.01530575,0.99988286 Z" id="BG"></path>
+                                    <circle id="Oval-1-Copy-5" cx="8" cy="8" r="4"></circle>
+                                </g>
+                                <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                    <tspan x="24" y="15">自有倉</tspan>
+                                </text>
+                            </g>
+                            <g id="Radio/Default/Normal" transform="translate(167.000000, 1.000000)">
+                                <g id="Oval-1" transform="translate(0.000000, 2.000000)" fill="#FFFFFF" stroke="#CCCCCC">
+                                    <circle cx="8" cy="8" r="7.5"></circle>
+                                </g>
+                                <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                    <tspan x="24" y="14">通路倉</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Title/Input-Required" transform="translate(0.000000, 43.000000)">
+                            <text id="倉庫名稱" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="22" fill="#545454">
+                                <tspan x="0" y="22">倉庫名稱</tspan>
+                            </text>
+                            <g id="Select/Medium/Selected" transform="translate(71.000000, 0.000000)">
+                                <path d="M311.002921,0.5 C311.968933,0.5 312.84347,0.891576505 313.476329,1.52557141 C314.108963,2.15934175 314.5,3.03526869 314.5,4.0042577 L314.5,4.0042577 L314.5,27.9957423 C314.5,28.9633607 314.108288,29.8394084 313.475232,30.4736009 C312.842296,31.1076736 311.968058,31.5 311.002921,31.5 L311.002921,31.5 L3.99707948,31.5 C3.03106736,31.5 2.15652982,31.1084235 1.52367144,30.4744286 C0.891037228,29.8406583 0.5,28.9647313 0.5,27.9957423 L0.5,27.9957423 L0.5,4.0042577 C0.5,3.03663929 0.891712276,2.16059156 1.52476782,1.52639913 C2.15770391,0.892326373 3.03194158,0.5 3.99707948,0.5 L3.99707948,0.5 Z" id="Rectangle-26-Copy-23" stroke="#CCCCCC" fill="#FFFFFF"></path>
+                                <g id="Group" transform="translate(291.000000, 9.000000)">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#7F7F7F" xlink:href="#path-1"></use>
+                                </g>
+                                <text id="Text" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="22" fill="#545454">
+                                    <tspan x="10" y="20">自有倉</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <text id="Radio-+-Select" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                        <tspan x="22" y="35">Radio + Select</tspan>
+                    </text>
+                    <text id="Radio-+-Input" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                        <tspan x="22" y="172">Radio + Input</tspan>
+                    </text>
+                    <g id="Selected" transform="translate(22.000000, 189.000000)">
+                        <g id="Title/Input-Required" transform="translate(0.000000, 5.000000)" fill="#545454" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="22">
+                            <text id="保存期限">
+                                <tspan x="0" y="15">保存期限</tspan>
+                            </text>
+                        </g>
+                        <g id="Radio/Default/Normal" transform="translate(71.000000, 5.000000)">
+                            <g id="Oval-1" transform="translate(0.000000, 2.000000)" fill="#FFFFFF" stroke="#CCCCCC">
+                                <circle cx="8" cy="8" r="7.5"></circle>
+                            </g>
+                            <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="24" y="14">永久</tspan>
+                            </text>
+                        </g>
+                        <g id="Radio/Default/Normal" transform="translate(153.000000, 5.000000)">
+                            <g id="Group" transform="translate(0.000000, 2.000000)" fill="#004477">
+                                <path d="M8,0 C12.3349143,0 15.8645429,3.45649202 15.9961932,7.75131053 L16,8 C16,12.3349143 12.543508,15.8645429 8.24868947,15.9961932 L8,16 C3.581722,16 0,12.4092877 0,8 C0,3.66508574 3.45649202,0.135457134 7.75131053,0.00380682464 L8,0 Z M8.01530575,0.99988286 L7.78194943,1.00333734 C4.01414418,1.11883296 1,4.2185029 1,8 C1,11.779859 4.00792466,14.8688657 7.74517765,14.9960437 L7.98469425,15.0001171 L8.21805057,14.9966627 C11.9056898,14.8836244 14.8713974,11.912047 14.9960381,8.25477343 L15.0001171,8.01530575 L14.9966627,7.78194943 C14.8836244,4.09431025 11.912047,1.12860263 8.240424,1.00407168 L8.01530575,0.99988286 Z" id="BG"></path>
+                                <circle id="Oval-1-Copy-5" cx="8" cy="8" r="4"></circle>
+                            </g>
+                            <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="24" y="15">自有倉</tspan>
+                            </text>
+                        </g>
+                        <g id="Input/單位/Input/後(下拉)" transform="translate(234.000000, 0.000000)">
+                            <path d="M149.005816,0.5 C149.970987,0.5 150.844746,0.891546845 151.477048,1.52544317 C152.109257,2.1592463 152.5,3.03522701 152.5,4.0042577 L152.5,4.0042577 L152.5,27.9957423 C152.5,28.9624595 152.107315,29.8376685 151.474892,30.4716866 C150.8415,31.1066763 149.967434,31.5 149.005816,31.5 L149.005816,31.5 L3.99418414,31.5 C3.02901322,31.5 2.15525367,31.1084532 1.52295204,30.4745568 C0.890743377,29.8407537 0.5,28.964773 0.5,27.9957423 L0.5,27.9957423 L0.5,4.0042577 C0.5,3.03754055 0.892684885,2.16233147 1.52510796,1.52831339 C2.15850018,0.893323717 3.03256616,0.5 3.99418414,0.5 L3.99418414,0.5 Z" id="Rectangle" stroke="#CCCCCC" fill="#FFFFFF"></path>
+                            <g id="單位" transform="translate(88.000000, 0.000000)">
+                                <g id="Group" transform="translate(0.000000, 1.000000)">
+                                    <g id="BG" fill="black" fill-opacity="1">
+                                        <use filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                    </g>
+                                    <g id="BG" fill="black" fill-opacity="1">
+                                        <use filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                    </g>
+                                    <g transform="translate(5.000000, 19.000000)" id="Icon/system/arrow/Down/14px">
+                                        <mask id="mask-8" fill="white">
+                                            <use xlink:href="#path-7"></use>
+                                        </mask>
+                                        <use id="Mask" fill="#B4B4B4" xlink:href="#path-7"></use>
+                                    </g>
+                                    <g transform="translate(5.000000, 3.000000)" id="Icon/system/arrow/Down/14px-Copy">
+                                        <mask id="mask-10" fill="white">
+                                            <use xlink:href="#path-9"></use>
+                                        </mask>
+                                        <use id="Mask" fill="#B4B4B4" xlink:href="#path-9"></use>
+                                    </g>
+                                </g>
+                                <path d="M64.5,0.5 L64.5,31.5 L21.0098932,31.5 C20.040158,31.5 19.162178,31.108292 18.5268558,30.4738627 C17.8923384,29.8402371 17.5,28.9645478 17.5,27.9957423 L17.5,27.9957423 L17.5,4.0042577 C17.5,3.03652388 17.8926096,2.16043117 18.5276151,1.52631817 C19.1626931,0.892132658 20.040181,0.5 21.0098932,0.5 L21.0098932,0.5 L64.5,0.5 Z" id="Rectangle" stroke="#CCCCCC" fill="#F2F2F2" transform="translate(41.000000, 16.000000) scale(-1, 1) translate(-41.000000, -16.000000) "></path>
+                                <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="27" y="20">日</tspan>
+                                </text>
+                                <g id="Group" transform="translate(41.000000, 9.000000)">
+                                    <mask id="mask-12" fill="white">
+                                        <use xlink:href="#path-11"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#7F7F7F" xlink:href="#path-11"></use>
+                                </g>
+                            </g>
+                            <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="11" y="20">30</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Selected" transform="translate(22.000000, 241.000000)">
+                        <g id="Title/Input-Required" transform="translate(0.000000, 5.000000)" fill="#545454" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="22">
+                            <text id="保存期限">
+                                <tspan x="0" y="15">保存期限</tspan>
+                            </text>
+                        </g>
+                        <g id="Radio/Default/Normal" transform="translate(71.000000, 5.000000)">
+                            <g id="Group" transform="translate(0.000000, 2.000000)" fill="#004477">
+                                <path d="M8,0 C12.3349143,0 15.8645429,3.45649202 15.9961932,7.75131053 L16,8 C16,12.3349143 12.543508,15.8645429 8.24868947,15.9961932 L8,16 C3.581722,16 0,12.4092877 0,8 C0,3.66508574 3.45649202,0.135457134 7.75131053,0.00380682464 L8,0 Z M8.01530575,0.99988286 L7.78194943,1.00333734 C4.01414418,1.11883296 1,4.2185029 1,8 C1,11.779859 4.00792466,14.8688657 7.74517765,14.9960437 L7.98469425,15.0001171 L8.21805057,14.9966627 C11.9056898,14.8836244 14.8713974,11.912047 14.9960381,8.25477343 L15.0001171,8.01530575 L14.9966627,7.78194943 C14.8836244,4.09431025 11.912047,1.12860263 8.240424,1.00407168 L8.01530575,0.99988286 Z" id="BG"></path>
+                                <circle id="Oval-1-Copy-5" cx="8" cy="8" r="4"></circle>
+                            </g>
+                            <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="24" y="15">永久</tspan>
+                            </text>
+                        </g>
+                        <g id="Radio/Default/Normal" transform="translate(153.000000, 5.000000)">
+                            <g id="Oval-1" transform="translate(0.000000, 2.000000)" fill="#FFFFFF" stroke="#CCCCCC">
+                                <circle cx="8" cy="8" r="7.5"></circle>
+                            </g>
+                            <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#545454">
+                                <tspan x="24" y="14">自有倉</tspan>
+                            </text>
+                        </g>
+                        <g id="Input/單位/Input/後(下拉)" transform="translate(234.000000, 0.000000)">
+                            <path d="M149.005816,0.5 C149.970987,0.5 150.844746,0.891546845 151.477048,1.52544317 C152.109257,2.1592463 152.5,3.03522701 152.5,4.0042577 L152.5,4.0042577 L152.5,27.9957423 C152.5,28.9624595 152.107315,29.8376685 151.474892,30.4716866 C150.8415,31.1066763 149.967434,31.5 149.005816,31.5 L149.005816,31.5 L3.99418414,31.5 C3.02901322,31.5 2.15525367,31.1084532 1.52295204,30.4745568 C0.890743377,29.8407537 0.5,28.964773 0.5,27.9957423 L0.5,27.9957423 L0.5,4.0042577 C0.5,3.03754055 0.892684885,2.16233147 1.52510796,1.52831339 C2.15850018,0.893323717 3.03256616,0.5 3.99418414,0.5 L3.99418414,0.5 Z" id="Rectangle" stroke="#E5E5E5" fill-opacity="0.7" fill="#F2F2F2"></path>
+                            <g id="單位" transform="translate(88.000000, 0.000000)">
+                                <g id="Group" transform="translate(0.000000, 1.000000)">
+                                    <g id="BG" fill="black" fill-opacity="1">
+                                        <use filter="url(#filter-14)" xlink:href="#path-13"></use>
+                                    </g>
+                                    <g id="BG" fill="black" fill-opacity="1">
+                                        <use filter="url(#filter-16)" xlink:href="#path-15"></use>
+                                    </g>
+                                    <g transform="translate(5.000000, 19.000000)" id="Icon/system/arrow/Down/14px">
+                                        <mask id="mask-18" fill="white">
+                                            <use xlink:href="#path-17"></use>
+                                        </mask>
+                                        <use id="Mask" fill="#B4B4B4" xlink:href="#path-17"></use>
+                                    </g>
+                                    <g transform="translate(5.000000, 3.000000)" id="Icon/system/arrow/Down/14px-Copy">
+                                        <mask id="mask-20" fill="white">
+                                            <use xlink:href="#path-19"></use>
+                                        </mask>
+                                        <use id="Mask" fill="#B4B4B4" xlink:href="#path-19"></use>
+                                    </g>
+                                </g>
+                                <path d="M64.5,0.5 L64.5,31.5 L21.0098932,31.5 C20.040158,31.5 19.162178,31.108292 18.5268558,30.4738627 C17.8923384,29.8402371 17.5,28.9645478 17.5,27.9957423 L17.5,27.9957423 L17.5,4.0042577 C17.5,3.03652388 17.8926096,2.16043117 18.5276151,1.52631817 C19.1626931,0.892132658 20.040181,0.5 21.0098932,0.5 L21.0098932,0.5 L64.5,0.5 Z" id="Rectangle" stroke="#CCCCCC" fill="#F2F2F2" transform="translate(41.000000, 16.000000) scale(-1, 1) translate(-41.000000, -16.000000) "></path>
+                                <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#7F7F7F">
+                                    <tspan x="27" y="20">日</tspan>
+                                </text>
+                                <g id="Group" transform="translate(41.000000, 9.000000)">
+                                    <mask id="mask-22" fill="white">
+                                        <use xlink:href="#path-21"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#7F7F7F" xlink:href="#path-21"></use>
+                                </g>
+                            </g>
+                            <text id="Text" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22" fill="#B4B4B4">
+                                <tspan x="11" y="20">0</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

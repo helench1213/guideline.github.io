@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="402px" height="252px" viewBox="0 0 402 252" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 7 Copy 7</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="400" height="250" rx="8"></rect>
+        <path d="M8,0 L322,0 C326.418278,2.96939504e-14 330,3.581722 330,8 L330,44 L330,44 L0,44 L0,8 C-1.42926142e-15,3.581722 3.581722,-7.65539184e-17 8,0 Z" id="path-2"></path>
+        <filter x="-0.2%" y="-1.1%" width="100.3%" height="104.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="XXXGuideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guideline_單選" transform="translate(-939.000000, -1761.000000)">
+            <g id="Group-8" transform="translate(70.000000, 1358.000000)">
+                <g id="Group-7-Copy-7" transform="translate(870.000000, 404.000000)">
+                    <g id="Rectangle">
+                        <use fill="#F5F6F8" xlink:href="#path-1"></use>
+                        <rect stroke="#E5E5E5" stroke-width="1" fill-opacity="0.3" fill="#FFFFFF" x="-0.5" y="-0.5" width="401" height="251" rx="8"></rect>
+                    </g>
+                    <path d="M30,0 L392,0 C396.418278,-8.11624501e-16 400,3.581722 400,8 L400,40 L400,40 L30,40 L30,0 Z" id="Rectangle" fill="#043458"></path>
+                    <path d="M8,0 L30,0 L30,0 L30,250 L8,250 C3.581722,250 5.41083001e-16,246.418278 0,242 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="Rectangle" fill="#FFFFFF"></path>
+                    <g id="Group-2" transform="translate(50.000000, 60.000000)">
+                        <rect id="Rectangle-Copy-6" fill="#FFFFFF" x="0" y="0" width="330" height="170" rx="8"></rect>
+                        <g id="Rectangle-Copy-6">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        </g>
+                        <g id="Group-3" transform="translate(20.000000, 64.000000)">
+                            <rect id="Rectangle-Copy-7" fill="#F1F8FE" x="64" y="3" width="50" height="16"></rect>
+                            <g id="Combined-Shape" transform="translate(38.000000, 3.000000)" fill="#004477">
+                                <path d="M14.0059397,0 C15.1072288,0 16,0.894513756 16,1.99406028 L16,14.0059397 C16,15.1072288 15.1054862,16 14.0059397,16 L1.99406028,16 C0.892771196,16 0,15.1054862 0,14.0059397 L0,1.99406028 C0,0.892771196 0.894513756,0 1.99406028,0 L14.0059397,0 Z M12.7945604,4 L11.5920744,4 C11.327989,4 11.0818511,4.12579605 10.928015,4.3346175 L10.928015,4.3346175 L6.8975075,9.81932542 L5.07198505,7.33359541 C4.91814889,7.12225804 4.66944709,6.99897791 4.40792562,6.99897791 L4.40792562,6.99897791 L3.20543961,6.99897791 C3.03878377,6.99897791 2.9413542,7.18515607 3.03878377,7.31849988 L3.03878377,7.31849988 L6.23601201,11.6660115 C6.56163188,12.1113295 7.23594706,12.1113295 7.56156694,11.6660115 L7.56156694,11.6660115 L12.9612162,4.31952197 C13.0586458,4.18617816 12.9612162,4 12.7945604,4 L12.7945604,4 Z"></path>
+                            </g>
+                            <g id="Radio/Default/Normal" fill="#545454" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" line-spacing="22">
+                                <text id="標題">
+                                    <tspan x="0" y="15">標題</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Radio/Default/Normal" transform="translate(65.000000, 131.000000)"></g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="290px" viewBox="0 0 400 290" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>彈窗</title>
+    <g id="XXXGuideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guideline_系統框架ＸＸ" transform="translate(-70.000000, -3264.000000)">
+            <g id="彈窗" transform="translate(70.000000, 3264.000000)">
+                <rect id="Rectangle" fill-opacity="0.5" fill="#000000" x="0" y="0" width="400" height="290" rx="8"></rect>
+                <g id="Group-9" transform="translate(50.000000, 65.000000)">
+                    <rect id="Rectangle-Copy-6" fill="#FFFFFF" x="0" y="0" width="300" height="160" rx="8"></rect>
+                    <rect id="Rectangle-Copy-6" fill="#F1F8FE" x="30" y="30" width="240" height="20"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#F1F8FE" x="30" y="65" width="193" height="20"></rect>
+                    <rect id="Rectangle-40-Copy-13" fill="#004477" x="240" y="124" width="40" height="16" rx="2"></rect>
+                    <path d="M228.002708,124.5 C228.416089,124.5 228.790334,124.667573 229.06131,124.938111 C229.332221,125.208584 229.5,125.582055 229.5,125.99406 L229.5,125.99406 L229.5,138.00594 C229.5,138.418692 229.332905,138.792391 229.062087,139.06277 C228.791325,139.333094 228.416998,139.5 228.002708,139.5 L228.002708,139.5 L191.997292,139.5 C191.583052,139.5 191.207867,139.333601 190.936692,139.062316 C190.666464,138.791979 190.5,138.41776 190.5,138.001899 L190.5,138.001899 L190.5,125.998101 C190.5,125.584117 190.667178,125.209257 190.938271,124.938055 C191.208942,124.667274 191.583118,124.5 191.997292,124.5 L191.997292,124.5 Z" id="Bg" stroke="#CCCCCC" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
